@@ -1,5 +1,7 @@
 # Cellular Medical Alert Smartwatch for Seniors with Fall Detection, GPS Tracking, SOS Button, Heart Rate & Blood Pressure Monitor, Pedometer, 2-Way Calling, Medical Reminders, IP67 Waterproof - (B0FJVRHZL6)
 
+<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/d035bb69-ddb5-470e-80a4-b5bab3fc06e1" />
+
 ## Amazon Live Data
 *(Data captured on: 2025-08-05)*
 
