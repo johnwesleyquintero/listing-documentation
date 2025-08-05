@@ -13,6 +13,10 @@
 
 # Image Sequence
 
+**Applied to FBM and FBA listing** 
+- Date: 8-5-2025
+
+
 <img width="1040" height="402" alt="image" src="https://github.com/user-attachments/assets/97b064f9-9122-40fc-a90f-ccc3eef351ac" />
 
 
