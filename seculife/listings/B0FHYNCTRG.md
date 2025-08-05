@@ -1,6 +1,6 @@
 # Smart Watch for Kids, GPS Tracker, No Social Media or Internet, GEO Fence Safe Zones, 4G Calling, Text, Parental controls, blocked unkown callers, HD Touch Screen for 3-12 Years Girls (PINK) - (B0FHYNCTRG)
 
-<img width="1500" height="1081" alt="image" src="https://github.com/user-attachments/assets/01e7ca62-57fc-4186-8c5f-5c0e5fd19749" />
+<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/01e7ca62-57fc-4186-8c5f-5c0e5fd19749" />
 
 ## Amazon Live Data
 *(Data captured on: 2025-08-05)*
