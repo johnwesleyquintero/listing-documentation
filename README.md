@@ -24,6 +24,6 @@ The most efficient way to find a product's documentation is to **use the GitHub 
 
 ## Contributing
 
-When adding or updating a product file, please use the established templates to maintain consistency across all documentation. Ensure that all information is verified and accurate before committing changes to the `main` branch.```
+When adding or updating a product file, please use the established templates to maintain consistency across all documentation. Ensure that all information is verified and accurate before committing changes to the `main` branch.
 
 ---
