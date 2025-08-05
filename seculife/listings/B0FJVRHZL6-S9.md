@@ -7,6 +7,8 @@
 
 **Live URL:** https://www.amazon.com/dp/B0FJVRHZL6
 
+---
+
 ## Image Assets
 
 **Image Sequence:**
