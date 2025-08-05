@@ -1,5 +1,7 @@
 # Kids Smart Watch 4G LTE Kid-Safe Phone Watch | Precision Real-Time GPS Tracking | Call, Text, Activity, School Settings | SOS Button Speakerphone | Parental Controls | SOS & Safety Alerts - (B0FHYLS238)
 
+<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/38fe0ed6-8212-4c11-9b4c-6fb8834f3c4c" />
+
 ## Amazon Live Data
 *(Data captured on: 2025-08-05)*
 
