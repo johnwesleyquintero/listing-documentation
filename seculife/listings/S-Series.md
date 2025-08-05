@@ -1,5 +1,7 @@
 ### **Final Approved S17 Listing Attributes**
 
+* https://www.amazon.com/dp/B0FJYM6F72
+
 | Attribute | Approved Entries |
 | :--- | :--- |
 | **Special Features** | • Fall Alerts<br>• SOS calling<br>• GPS Tracking<br>• Geofence<br>• 2-way calling |
