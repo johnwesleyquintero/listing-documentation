@@ -9,6 +9,14 @@
 
 ---
 
+## Image Assets
+
+**Image Sequence:**
+<img width="1037" height="395" alt="image" src="https://github.com/user-attachments/assets/accd5d21-4581-4cf6-bf6d-61d3572b8fd6" />
+
+
+---
+
 ### Bullet Points
 
 - **Medical Alert Pendant with Fall Detection:** Designed for seniors and individuals with medical conditions, this wearable alert device automatically detects falls and immediately call and send SOS notification to preselected emergency contacts.
