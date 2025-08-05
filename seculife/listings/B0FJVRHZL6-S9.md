@@ -9,6 +9,11 @@
 
 ## Image Assets
 
+**Image Sequence:**
+
+<img width="1042" height="399" alt="image" src="https://github.com/user-attachments/assets/3841b28c-20aa-4a8b-afe1-3ed9f2013135" />
+
+
 **Image Asset Link:** https://mobilenetus-my.sharepoint.com/personal/javier_garcia_speedtalkmobile_com/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fjavier%5Fgarcia%5Fspeedtalkmobile%5Fcom%2FDocuments%2FWesley%2FS9&ga=1
 
 ---
