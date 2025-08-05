@@ -1,5 +1,7 @@
 # New 2026 Fall Alert Device, Medical Alert Pendant with for Seniors, SOS Call, GPS Tracking & Reminders – Wearable Emergency Necklace for Elderly, Waterproof, 2-Way Calling, Panic Button - (B0FJY6RHW9)
 
+<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/b8d821a5-6053-4084-a6f0-10bf7b12b3eb" />
+
 ## Amazon Live Data
 *(Data captured on: 2025-08-05)*
 
