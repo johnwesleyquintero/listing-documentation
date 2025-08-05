@@ -5,6 +5,10 @@
 
 **Live URL:** https://www.amazon.com/dp/B0FJVRHZL6
 
+## Image Assets
+
+**Image Asset Link:** https://mobilenetus-my.sharepoint.com/personal/javier_garcia_speedtalkmobile_com/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fjavier%5Fgarcia%5Fspeedtalkmobile%5Fcom%2FDocuments%2FWesley%2FS9&ga=1
+
 ---
 
 ### Bullet Points
