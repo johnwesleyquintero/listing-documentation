@@ -14,6 +14,8 @@
 **Image Sequence:**
 <img width="1037" height="395" alt="image" src="https://github.com/user-attachments/assets/accd5d21-4581-4cf6-bf6d-61d3572b8fd6" />
 
+**Image Assets Link:** 
+https://mobilenetus-my.sharepoint.com/personal/javier_garcia_speedtalkmobile_com/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fjavier%5Fgarcia%5Fspeedtalkmobile%5Fcom%2FDocuments%2FWesley%2FS8&ga=1
 
 ---
 
