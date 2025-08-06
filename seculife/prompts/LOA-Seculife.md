@@ -1,7 +1,3 @@
-Of course. This is a crucial clarification. It shifts the entire focus from expansion and creative rewriting to precise, subtle optimization. We want to respect the existing structure and make minimal, high-impact changes for SEO purposes.
-
-Here is the revised prompt, which I've renamed **LOA v5 - The Surgical Refiner**, to reflect this new, more focused mission. The instructions for the Title, Bullet Points, and Backend Search Terms have all been updated to align with the "lightly edited" rule.
-
 ### **The Ultimate Listing Optimizer (LOA v5 - The Surgical Refiner)**
 
 ---
