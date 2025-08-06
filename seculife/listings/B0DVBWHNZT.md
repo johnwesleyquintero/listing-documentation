@@ -44,6 +44,5 @@
 - **Item Type Keyword:**
 - **Target Audience:**
 - **Special Features (Backend):**
-```
 
 ---
