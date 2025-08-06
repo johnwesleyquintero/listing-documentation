@@ -7,18 +7,14 @@
 
 **Live URL:** https://www.amazon.com/dp/B0FJYM6F72
 
-## Document Links
+---
+
+# Image Assets
+
+**Image Sequence:** 
+<img width="1044" height="402" alt="image" src="https://github.com/user-attachments/assets/e6328143-50f8-4dec-9fd0-0528d8bf2054" />
 
 **Image Assets:** https://mobilenetus-my.sharepoint.com/personal/javier_garcia_speedtalkmobile_com/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fjavier%5Fgarcia%5Fspeedtalkmobile%5Fcom%2FDocuments%2FWesley%2FS17&ga=1
-
-# Image Sequence
-
-**Applied to FBM and FBA listing** 
-- Date: 8-5-2025
-
-
-<img width="1040" height="402" alt="image" src="https://github.com/user-attachments/assets/97b064f9-9122-40fc-a90f-ccc3eef351ac" />
-
 
 ---
 
