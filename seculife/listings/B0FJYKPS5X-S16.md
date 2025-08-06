@@ -1,6 +1,7 @@
 # Cellular Fall Alert Device, Medical Alert, Smartband for Seniors, 2 way calling, SOS Button, GPS Tracking, Heart & Temperature, heart rate monitor, Pedometer, Waterproof Elderly Health Alerts - (B0FJYKPS5X)
 
-<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/4a65c4d2-d1cd-4e51-80cc-3b7bb4eb313f" />
+<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/6b7f654a-7271-4db4-bcbe-15165bfb59a3" />
+
 
 ## Amazon Live Data
 *(Data captured on: 2025-08-06)*
@@ -12,9 +13,7 @@
 ## Image Assets
 
 **Image Sequence:**
-<img width="1044" height="402" alt="image" src="https://github.com/user-attachments/assets/5bd264a1-b7a6-4a35-9939-a0b130bade4d" />
-
-
+<img width="1036" height="399" alt="image" src="https://github.com/user-attachments/assets/d402d431-7559-4d82-ac9d-668c520f1ffa" />
 
 ---
 
