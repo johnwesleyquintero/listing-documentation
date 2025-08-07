@@ -6,7 +6,7 @@
 
 *   **`REPORT_RECIPIENT`:** "Avi Yrosh"
 *   **`USER_NAME`:** "Wesley"
-*   **`REPORT_DATE`:** "August 7, 2025"
+*   **`REPORT_DATE`:** "Request_Input"
 *   **`INPUT_SOURCE`:** "A CSV export from a task management system."
 *   **`DATA_COLUMNS_TO_EXTRACT`:** ["Task", "Status", "Description", "Deadline", "ASIN", "Amazon Link"]
 *   **`STATUS_KEYWORDS`:**
