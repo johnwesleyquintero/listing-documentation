@@ -12,7 +12,7 @@
     *   `TASK`: "Task"
     *   `STATUS`: "Status"
     *   `DESCRIPTION`: "Description"
-    *   `DEADLINE`: "Deadline"
+    *   `DEADLINE`: "Deadline/Last Date Checked/Updated"
     *   `ASIN`: "ASIN"
     *   `AMAZON_LINK`: "Amazon Link"
 *   **`STATUS_KEYWORDS`:**
