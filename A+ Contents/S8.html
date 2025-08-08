@@ -1,0 +1,354 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SecuLife S8 A+ Content Prototype - Refined</title>
+    <style>
+        /* General Body & Container Styles */
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+            background-color: #f0f2f5; /* Softer, modern background */
+            margin: 0;
+            padding: 20px;
+            color: #333;
+            line-height: 1.6;
+        }
+        .aplus-container {
+            max-width: 970px; /* Standard Amazon A+ content width */
+            margin: 0 auto;
+            background-color: #ffffff;
+            border: 1px solid #e0e0e0; /* Subtle border */
+            box-shadow: 0 4px 10px rgba(0,0,0,0.05); /* Gentle shadow for depth */
+            border-radius: 8px; /* Slightly rounded corners for the entire block */
+            overflow: hidden; /* Ensures child elements respect border-radius */
+        }
+
+        /* Module Base Styles */
+        .module {
+            padding: 40px;
+            border-bottom: 1px solid #f0f0f0; /* Lighter separator between modules */
+            text-align: center;
+        }
+        .module:last-child {
+            border-bottom: none; /* No border on the last module */
+        }
+
+        /* Typography */
+        h1 {
+            font-size: 40px; /* Larger for hero sections */
+            font-weight: 700; /* Bolder */
+            margin-bottom: 15px;
+            color: #111;
+        }
+        h2 {
+            font-size: 30px;
+            font-weight: 700;
+            margin-bottom: 30px;
+            color: #222;
+        }
+        h3 {
+            font-size: 22px; /* Slightly larger for sub-headings */
+            font-weight: 600;
+            margin-top: 15px;
+            margin-bottom: 10px;
+            color: #333;
+        }
+        p {
+            font-size: 17px; /* Slightly larger base font size for readability */
+            line-height: 1.7; /* Increased line-height for better flow */
+            color: #555;
+            margin-bottom: 15px;
+        }
+
+        /* Image & Text Overlays (Hero & Lifestyle Banners) */
+        .banner-module {
+            padding: 0;
+            position: relative;
+            text-align: center;
+            color: white;
+            overflow: hidden;
+        }
+        .banner-module img {
+            width: 100%;
+            display: block;
+            object-fit: cover;
+            height: 400px; /* Consistent height for banners */
+            border-radius: 8px; /* Apply to banner images */
+        }
+        .banner-overlay {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            background-color: rgba(0, 0, 0, 0.55); /* Slightly more opaque for better text contrast */
+            padding: 20px;
+            box-sizing: border-box;
+        }
+        .banner-overlay h1, .banner-overlay p {
+            color: white;
+            text-shadow: 1px 1px 4px rgba(0,0,0,0.6); /* Text shadow for enhanced readability */
+            max-width: 80%; /* Constrain text width for better line breaks */
+            margin: 0; /* Remove default margins */
+        }
+        .banner-overlay h1 { font-size: 48px; margin-bottom: 15px; }
+        .banner-overlay p { font-size: 22px; }
+
+        /* How It Works & Feature Callouts */
+        .how-it-works-steps, .feature-callouts {
+            display: flex;
+            flex-wrap: wrap; /* Allows wrapping on smaller screens */
+            justify-content: center; /* Centers items when wrapped */
+            gap: 30px;
+            margin-top: 40px;
+            align-items: flex-start;
+        }
+        .step, .feature {
+            flex: 1 1 280px; /* Allows items to grow/shrink, with a base width */
+            max-width: 30%; /* Limits width for a 3-column layout */
+            background-color: #fdfdfd;
+            border-radius: 8px;
+            padding: 20px;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.03); /* Subtle shadow for individual cards */
+            text-align: center;
+        }
+        .feature-callouts .feature {
+            max-width: 22%; /* Adjust for a 4-column layout in features */
+        }
+        .step img, .feature img {
+            width: 100%;
+            max-height: 200px; /* Max height to maintain aspect ratio consistency */
+            object-fit: cover;
+            border-radius: 8px;
+            margin-bottom: 20px;
+        }
+        .how-it-works-steps .step img {
+            width: 120px; /* Fixed width for icon-like images */
+            height: 120px; /* Fixed height for icon-like images */
+            object-fit: contain; /* Ensures the whole image is visible within the bounds */
+            border-radius: 50%; /* Makes them circular */
+            margin: 0 auto 20px auto; /* Centers circular images */
+            background-color: #e6f2ff; /* Light blue background for icons */
+            padding: 10px;
+            box-shadow: inset 0 0 5px rgba(0,0,0,0.05); /* Inner shadow for definition */
+        }
+
+        /* Comparison Chart */
+        .comparison-chart table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 20px;
+            font-size: 17px;
+        }
+        .comparison-chart th, .comparison-chart td {
+            border: 1px solid #eee;
+            padding: 18px; /* More padding for better spacing */
+            text-align: center;
+        }
+        .comparison-chart th {
+            background-color: #f7f7f7;
+            font-weight: bold;
+            color: #333;
+        }
+        .comparison-chart td:first-child {
+            text-align: left;
+            font-weight: 600;
+            color: #444;
+        }
+        .comparison-chart .product-column { /* Highlight product column */
+            background-color: #e6f7e9; /* Light green background */
+            font-weight: bold;
+        }
+        .checkmark {
+            font-size: 28px; /* Larger checkmark */
+            color: #2e8540; /* Stronger green */
+            font-weight: bold;
+        }
+        .crossmark {
+            font-size: 28px;
+            color: #d9534f; /* Red for 'X' */
+            font-weight: bold;
+        }
+
+        /* What's in the Box? */
+        .whats-in-the-box {
+            display: flex;
+            flex-wrap: wrap; /* Allows wrapping on smaller screens */
+            align-items: center;
+            gap: 40px;
+            text-align: left;
+            padding: 40px; /* Ensure internal padding matching module */
+        }
+        .whats-in-the-box img {
+            flex: 1 1 400px; /* Image takes flexible width, minimum 400px */
+            max-width: 50%; /* Prevents image from getting too wide */
+            height: auto;
+            border-radius: 8px;
+            box-shadow: 0 4px 8px rgba(0,0,0,0.08); /* Shadow for the product image */
+        }
+        .whats-in-the-box div {
+            flex: 1 1 400px; /* Text block takes flexible width, minimum 400px */
+        }
+        .whats-in-the-box ul {
+            list-style: none;
+            padding: 0;
+            font-size: 18px;
+            line-height: 2.2; /* More line height for list items */
+        }
+        .whats-in-the-box ul li::before {
+            content: '✅';
+            margin-right: 12px;
+            font-size: 20px;
+            vertical-align: middle;
+        }
+
+        /* Responsive Adjustments */
+        @media (max-width: 768px) {
+            body {
+                padding: 10px; /* Reduce overall padding on smaller screens */
+            }
+            .module {
+                padding: 25px;
+            }
+            h1 { font-size: 32px; }
+            h2 { font-size: 26px; }
+            h3 { font-size: 20px; }
+            p { font-size: 15px; }
+
+            .banner-overlay h1 { font-size: 36px; }
+            .banner-overlay p { font-size: 18px; }
+            .banner-module img { height: 300px; } /* Adjust banner height */
+
+            .how-it-works-steps, .feature-callouts {
+                flex-direction: column; /* Stack items vertically */
+                align-items: center;
+            }
+            .step, .feature {
+                max-width: 90%; /* Allow cards to take more width */
+            }
+            .whats-in-the-box {
+                flex-direction: column;
+                text-align: center;
+            }
+            .whats-in-the-box img {
+                max-width: 90%; /* Image takes more width when stacked */
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="aplus-container">
+
+        <!-- Module 1: The Hero Banner - A compelling visual introduction -->
+        <div class="banner-module">
+            <img src="https://images.pexels.com/photos/6326078/pexels-photo-6326078.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="Senior couple enjoying a peaceful walk together, symbolizing independence and peace of mind" loading="lazy">
+            <div class="banner-overlay">
+                <h1>Your Loved One's Safety, In Your Hands.</h1>
+                <p>Experience 24/7 Peace of Mind with Instant SOS, GPS Tracking, and 2-Way Calling.</p>
+            </div>
+        </div>
+
+        <!-- Module 2: "How It Works" - Simple, easy-to-understand steps -->
+        <div class="module">
+            <h2>How It Works: Peace of Mind in 3 Simple Steps</h2>
+            <div class="how-it-works-steps">
+                <div class="step">
+                    <img src="https://images.pexels.com/photos/5632402/pexels-photo-5632402.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="A hand pressing a prominent red help button on a device">
+                    <h3>1. Activate SOS</h3>
+                    <p>A simple press of the SOS button instantly sends an alert to our monitoring center or your chosen emergency contacts.</p>
+                </div>
+                <div class="step">
+                    <img src="https://images.pexels.com/photos/4050290/pexels-photo-4050290.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="A compassionate support agent on a headset, ready to assist">
+                    <h3>2. Get Connected</h3>
+                    <p>Speak directly with our compassionate 24/7 U.S. based response team or family members via crystal-clear 2-way calling.</p>
+                </div>
+                <div class="step">
+                    <img src="https://images.pexels.com/photos/7319299/pexels-photo-7319299.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="A GPS map on a phone screen showing a precise location pin">
+                    <h3>3. Get Found</h3>
+                    <p>Precise GPS tracking pinpoints your loved one's location for rapid and accurate assistance when it matters most.</p>
+                </div>
+            </div>
+        </div>
+
+        <!-- Module 3: Core Feature Callouts - Highlighting key functionalities -->
+        <div class="module">
+            <h2>SecuLife S8: Designed for Comprehensive Protection</h2>
+             <div class="feature-callouts">
+                <div class="feature">
+                    <img src="https://images.pexels.com/photos/5439366/pexels-photo-5439366.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="Close-up of a modern medical alert device with an SOS button">
+                    <h3>Instant SOS Button</h3>
+                    <p>Immediate connection to professional help with a single, easy press.</p>
+                </div>
+                <div class="feature">
+                    <img src="https://images.pexels.com/photos/7770535/pexels-photo-7770535.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="A smartphone displaying a live GPS tracking map">
+                    <h3>Real-Time GPS Tracking</h3>
+                    <p>Always know their whereabouts for ultimate reassurance, even when they're out and about.</p>
+                </div>
+                 <div class="feature">
+                    <img src="https://images.pexels.com/photos/6078373/pexels-photo-6078373.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="A person talking clearly on a mobile phone">
+                    <h3>Crystal-Clear 2-Way Calling</h3>
+                    <p>Direct communication with family, friends, or emergency services, just like a phone call.</p>
+                </div>
+                <div class="feature">
+                    <img src="https://images.pexels.com/photos/6877960/pexels-photo-6877960.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="An elderly person being gently helped to stand up by a caregiver">
+                    <h3>Automatic Fall Detection</h3>
+                    <p>Get alerted instantly if a fall is detected, even if they can't press the button themselves.</p>
+                </div>
+            </div>
+        </div>
+
+        <!-- Module 4: The Power Comparison Chart - Demonstrating value proposition -->
+        <div class="module comparison-chart">
+            <h2>The SecuLife Advantage: Why Choose S8 for Your Family?</h2>
+            <table>
+                <thead>
+                    <tr>
+                        <th>Feature</th>
+                        <th class="product-column">SecuLife S8</th>
+                        <th>Other Basic Alarms</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr> <td>Live GPS Tracking</td> <td class="product-column"><span class="checkmark">✅</span></td> <td><span class="crossmark">❌</span></td> </tr>
+                    <tr> <td>2-Way Calling</td> <td class="product-column"><span class="checkmark">✅</span></td> <td><span class="crossmark">❌</span></td> </tr>
+                    <tr> <td>Automatic Fall Detection</td> <td class="product-column"><span class="checkmark">✅</span></td> <td><span class="crossmark">❌</span></td> </tr>
+                    <tr> <td>No Hidden Fees / Contracts</td> <td class="product-column"><span class="checkmark">✅</span></td> <td>Often <span class="crossmark">❌</span></td> </tr>
+                    <tr> <td>U.S. Based 24/7 Support</td> <td class="product-column"><span class="checkmark">✅</span></td> <td>Varies / Limited</td> </tr>
+                    <tr> <td>Water Resistant Design</td> <td class="product-column"><span class="checkmark">✅</span></td> <td>Varies</td> </tr>
+                    <tr> <td>Long-Lasting Battery</td> <td class="product-column"><span class="checkmark">✅</span></td> <td>Varies</td> </tr>
+                </tbody>
+            </table>
+        </div>
+
+        <!-- Module 5: Lifestyle Banner - The Emotional Clincher, reinforcing benefits -->
+        <div class="banner-module">
+            <img src="https://images.pexels.com/photos/3807758/pexels-photo-3807758.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="A happy senior couple enjoying hiking outdoors, symbolizing an active, independent lifestyle" loading="lazy">
+            <div class="banner-overlay">
+                <h1>Independence for Them. Unwavering Peace of Mind for You.</h1>
+                <p>Empower your loved ones to live fully and fearlessly, knowing professional help is always within reach.</p>
+            </div>
+        </div>
+
+        <!-- Module 6: "What's in the Box?" - Clear and comprehensive product contents -->
+        <div class="module whats-in-the-box">
+            <img src="https://images.pexels.com/photos/699459/pexels-photo-699459.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="The SecuLife S8 product box with all included contents neatly laid out" loading="lazy">
+            <div>
+                <h2>What's Included with Your SecuLife S8</h2>
+                <ul>
+                    <li>SecuLife S8 Medical Alert Device</li>
+                    <li>Magnetic USB Charging Cable</li>
+                    <li>Pre-installed SIM Card (Ready to activate)</li>
+                    <li>Adjustable & Comfortable Lanyard</li>
+                    <li>Quick Start Guide & User Manual</li>
+                    <li>Dedicated U.S. Based Support Contact</li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
