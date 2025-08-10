@@ -40,7 +40,7 @@
 ```
 Hi @Avi,
 
-*Recurring: Priority Health Check Complete*
+*Recurring: Morning Priority Health Check Complete*
 ✅ All listings reviewed; Buy Box is present.
 ✅ All buyer messages, customer complaints, inquiries, and negative reviews have been reviewed.
 ```
