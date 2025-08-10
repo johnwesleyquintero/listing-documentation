@@ -44,7 +44,7 @@ Hi @Avi,
 ✅ All listings reviewed; Buy Box is present. (BBP Won)
 ✅ All buyer messages, customer complaints, inquiries, and negative reviews have been reviewed.
 
-*Seculife:
+*Seculife:*
 - Buyer's messages: No messages require a response.
 - Customer Complaints: No Customer Complaints.
 - Negative Reviews: No Negative Reviews for the last 30 Days.
