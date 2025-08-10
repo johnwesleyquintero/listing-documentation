@@ -40,7 +40,7 @@
 ```
 Hi @Avi,
 
-*Priority Health Check Complete*
+*Recurring: Priority Health Check Complete*
 ✅ All listings reviewed; Buy Box is present.
 ✅ All buyer messages, customer complaints, inquiries, and negative reviews have been reviewed.
 ```
@@ -49,7 +49,7 @@ Hi @Avi,
 ```
 Hi @Avi,
 
-*Evening Check-in Complete*
+*Recurring: Evening Check-in Complete*
 ✅ All listings reviewed; Buy Box is present.
 ✅ Final check performed on all buyer messages and inquiries.
 ✅ Account and listing health reviewed; no new critical issues.
