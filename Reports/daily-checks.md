@@ -24,9 +24,9 @@ This file contains the master checklist and the reporting templates for daily st
 *Copy the relevant block below and paste it directly into WhatsApp.*
 
 ### 🌅 **Morning Report**
-```
-Good morning Avi,
 
+```
+Hi @ ,
 *Morning Check Complete*
 ✅ Initial check performed; all customer inquiries have been answered.
 ✅ Account and listing health reviewed; no new issues.
@@ -34,7 +34,8 @@ Good morning Avi,
 ```
 
 ### 🌆 **Evening Report**
-```Hi Avi,
+```
+Hi @ ,
 
 *Evening Check Complete*
 ✅ Final check performed; all customer inquiries have been answered.
