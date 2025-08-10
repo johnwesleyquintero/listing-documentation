@@ -45,14 +45,14 @@ Hi @Avi,
 ✅ All buyer messages, customer complaints, inquiries, and negative reviews have been reviewed.
 
 *Seculife:*
-- Buyer's messages: No messages require a response.
-- Customer Complaints: No Customer Complaints.
+- Buyer's Messages: No messages require a response.
+- Customer Health: No new A-to-z/Chargeback Claims; all listings have Good/Excellent CX Health.
 - Negative Reviews: No Negative Reviews for the last 30 Days.
 - Buy Box: All BBP Won.
 
 *STK:* 
-- Buyer's messages: No messages require a response.
-- Customer Complaints: No Customer Complaints 
+- Buyer's Messages: No messages require a response.
+- Customer Health: No new A-to-z/Chargeback Claims; all listings have Good/Excellent CX Health.
 - Negative Reviews: 
     - Processed: Feedback Removal Request for OrderID: 113-8795092-9069807 
 - Buy Box: All BBP Won.
