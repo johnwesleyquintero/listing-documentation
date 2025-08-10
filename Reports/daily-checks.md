@@ -63,9 +63,20 @@ Hi @Avi,
 Hi @Avi,
 
 *Recurring: Evening Check-in Complete*
-✅ All listings reviewed; Buy Box is present.(BBP Won)
-✅ Final check performed on all buyer messages and inquiries.
-✅ Account and listing health reviewed; no new critical issues.
+✅ All listings reviewed; Buy Box is present. (BBP Won)
+✅ All buyer messages, customer complaints, inquiries, and negative reviews have been reviewed.
+
+*Seculife:*
+- Buyer's Messages: No messages require a response.
+- Customer Health: No new A-to-z/Chargeback Claims; all listings have Good/Excellent CX Health.
+- Negative Reviews: No New Negative Reviews for the last 30 Days.
+- Buy Box: All BBP Won.
+
+*STK:* 
+- Buyer's Messages: No messages require a response.
+- Customer Health: No new A-to-z/Chargeback Claims; all listings have Good/Excellent CX Health.
+- Negative Reviews: No New Negative Reviews for the last 30 Days.
+- Buy Box: All BBP Won.
 ```
 
 ---
