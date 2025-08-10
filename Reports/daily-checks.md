@@ -52,7 +52,7 @@ Hi @Avi,
 
 *STK:* 
 - Buyer's Messages: No messages require a response.
-- Customer Health: No new A-to-z/Chargeback Claims; all listings have Good/Excellent CX Health.
+- Customer Health: No new A-to-z/Chargeback Claims. Note: VOC analysis identified several listings with "Poor" health, which are now under strategic review.
 - Negative Reviews: 
     - Processed: Feedback Removal Request for OrderID: 113-8795092-9069807 
 - Buy Box: All BBP Won.
