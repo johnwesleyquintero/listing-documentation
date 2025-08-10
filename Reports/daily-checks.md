@@ -43,8 +43,6 @@ Hi @Avi,
 *Priority Health Check Complete*
 ✅ All listings reviewed; Buy Box is present.
 ✅ All buyer messages, customer complaints, inquiries, and negative reviews have been reviewed.
-
-Ready to proceed with tasks from Javier once you approve.
 ```
 
 ### 🌆 **Evening Report (Send at End of Day)**
@@ -54,8 +52,6 @@ Hi @Avi,
 *Evening Check-in Complete*
 ✅ Final check performed on all buyer messages and inquiries.
 ✅ Account and listing health reviewed; no new critical issues.
-
-Logging off for the day.
 ```
 
 ---
