@@ -12,7 +12,8 @@
 # Image Assets
 
 **Image Sequence:** 
-<img width="1044" height="402" alt="image" src="https://github.com/user-attachments/assets/e6328143-50f8-4dec-9fd0-0528d8bf2054" />
+<img width="830" height="607" alt="image" src="https://github.com/user-attachments/assets/d8f78d78-f45f-4b61-b51d-078e1f654ee9" />
+
 
 **Image Assets:** https://mobilenetus-my.sharepoint.com/personal/javier_garcia_speedtalkmobile_com/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fjavier%5Fgarcia%5Fspeedtalkmobile%5Fcom%2FDocuments%2FWesley%2FS17&ga=1
 
