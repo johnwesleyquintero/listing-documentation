@@ -41,7 +41,7 @@
 Hi @Avi,
 
 *Recurring: Morning Priority Health Check Complete*
-✅ All listings reviewed; Buy Box is present.
+✅ All listings reviewed; Buy Box is present. (BBP Won)
 ✅ All buyer messages, customer complaints, inquiries, and negative reviews have been reviewed.
 ```
 
@@ -50,7 +50,7 @@ Hi @Avi,
 Hi @Avi,
 
 *Recurring: Evening Check-in Complete*
-✅ All listings reviewed; Buy Box is present.
+✅ All listings reviewed; Buy Box is present.(BBP Won)
 ✅ Final check performed on all buyer messages and inquiries.
 ✅ Account and listing health reviewed; no new critical issues.
 ```
