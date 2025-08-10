@@ -108,3 +108,53 @@ Hi @Avi,
 - [x] Performed final check on all buyer messages and inquiries.
 - [x] Reviewed account and listing health for any new issues.
 - [x] Sent "Evening Report" to Avi.
+
+---
+
+## Default Template
+
+## 2. WhatsApp Report Templates (Copy to Avi)
+
+*   **Instructions:** Copy the relevant template and paste it directly into your WhatsApp chat with Avi.
+
+### 🌅 **Priority Health Report (Send Before Other Tasks)**
+```
+Hi @Avi,
+
+*Recurring: Morning Priority Health Check Complete*
+✅ All listings reviewed; Buy Box is present. (BBP Won)
+✅ All buyer messages, customer complaints, inquiries, and negative reviews have been reviewed.
+
+*Seculife:*
+- Buyer's Messages: No messages require a response.
+- Customer Health: No new A-to-z/Chargeback Claims; all listings have Good/Excellent CX Health.
+- Negative Reviews: No Negative Reviews for the last 30 Days.
+- Buy Box: All BBP Won.
+
+*STK:* 
+- Buyer's Messages: No messages require a response.
+- Customer Health: No new A-to-z/Chargeback Claims; all listings have Good/Excellent CX Health.
+- Negative Reviews: No New Negative Reviews for the last 30 Days.
+- Buy Box: All BBP Won.
+```
+
+### 🌆 **Evening Report (Send at End of Day)**
+```
+Hi @Avi,
+
+*Recurring: Evening Check-in Complete*
+✅ All listings reviewed; Buy Box is present. (BBP Won)
+✅ All buyer messages, customer complaints, inquiries, and negative reviews have been reviewed.
+
+*Seculife:*
+- Buyer's Messages: No messages require a response.
+- Customer Health: No new A-to-z/Chargeback Claims; all listings have Good/Excellent CX Health.
+- Negative Reviews: No New Negative Reviews for the last 30 Days.
+- Buy Box: All BBP Won.
+
+*STK:* 
+- Buyer's Messages: No messages require a response.
+- Customer Health: No new A-to-z/Chargeback Claims; all listings have Good/Excellent CX Health.
+- Negative Reviews: No New Negative Reviews for the last 30 Days.
+- Buy Box: All BBP Won.
+```
