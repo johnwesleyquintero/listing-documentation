@@ -13,6 +13,7 @@ This file contains the master checklist and the reporting templates for daily st
 - [ ] Sent Morning Report to Avi.
 - [ ] Performed final check of all inquiries.
 - [ ] Reviewed account and listing health.
+- [ ] Monitored Buy Box percentage on key ASINs.
 - [ ] Sent Evening Report to Avi.
 ```
 
@@ -31,12 +32,12 @@ Good morning Avi,
 ```
 
 ### 🌆 **Evening Report**
-```
-Hi Avi,
+```Hi Avi,
 
 *Evening Check Complete*
 ✅ Final check performed; all customer inquiries have been answered.
 ✅ Account and listing health reviewed; no new issues.
+✅ Buy Box status monitored on key listings.
 
 Logging off for the day.
 ```
@@ -52,4 +53,6 @@ Logging off for the day.
 - [x] Sent Morning Report to Avi.
 - [x] Performed final check of all inquiries.
 - [x] Reviewed account and listing health.
+- [x] Monitored Buy Box percentage on key ASINs.
 - [x] Sent Evening Report to Avi.
+```
