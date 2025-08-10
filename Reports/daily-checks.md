@@ -28,7 +28,7 @@ This file contains the master checklist and the reporting templates for daily st
 Good morning Avi,
 
 *Morning Check Complete*
-✅ Reviewed customer inquiries, complaints, and negative reviews across all stores.
+✅ Initial check performed; all customer inquiries have been answered.
 ✅ Account and listing health reviewed; no new issues.
 ✅ Buy Box status monitored on key listings. All BBP won.
 ```
