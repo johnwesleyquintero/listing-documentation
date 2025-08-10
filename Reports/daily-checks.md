@@ -1,61 +1,89 @@
-# Daily Health & Communication Checks
+# Daily Operational Workflow & Reporting Template
 
-This file contains the master checklist and the reporting templates for daily store monitoring tasks.
+**Objective:** To provide a reusable checklist and reporting system for daily operational health checks, based on Avi's prioritized workflow.
+
+**How to Use This Document Daily:**
+1.  Each morning, go to the **"3. Running Daily Log"** section at the bottom of this file.
+2.  Copy the entire block from the **"1. Master Daily Checklist Template"**.
+3.  Paste this copied block into the log, updating the `YYYY-MM-DD` placeholder with the current date.
+4.  As you complete your tasks, check off the items in the log for that day.
+5.  Use the templates in the **"2. WhatsApp Report Templates"** section to communicate with Avi at the appropriate times.
 
 ---
 
-## 1. Personal Checklist Template (For Your Use)
+## 1. Master Daily Checklist Template (Copy This Each Day)
 
-*Copy this block into the "Daily Log" each day to track your progress.*
+*   **Instructions:** Copy this entire markdown block and paste it into the "Running Daily Log" section at the start of your day.
+
 ```markdown
 ### Date: YYYY-MM-DD
-- [ ] Reviewed all stores for inquiries, complaints, and negative reviews.
-- [ ] Sent Morning Report to Avi.
-- [ ] Performed final check of all inquiries.
-- [ ] Reviewed account and listing health.
-- [ ] Monitored Buy Box percentage on key ASINs.
-- [ ] Sent Evening Report to Avi.
+
+**Priority Pre-Task Checks:**
+- [ ] **Step 1:** Ensured all listings are in good standing with the Buy Box present.
+- [ ] **Step 2:** Reviewed all buyer messages, customer complaints, inquiries, and negative reviews.
+- [ ] **Step 3:** Sent the "Priority Health Report" to Avi via WhatsApp.
+- [ ] **Step 4:** Received approval to proceed with tasks assigned by Javier.
+
+**End-of-Day Checks:**
+- [ ] Performed final check on all buyer messages and inquiries.
+- [ ] Reviewed account and listing health for any new issues.
+- [ ] Sent "Evening Report" to Avi.
 ```
 
 ---
 
 ## 2. WhatsApp Report Templates (Copy to Avi)
 
-*Copy the relevant block below and paste it directly into WhatsApp.*
+*   **Instructions:** Copy the relevant template and paste it directly into your WhatsApp chat with Avi.
 
-### 🌅 **Morning Report**
-
+### 🌅 **Priority Health Report (Send Before Other Tasks)**
 ```
-Hi @ ,
-*Morning Check Complete*
-✅ Initial check performed; all customer inquiries have been answered.
-✅ Account and listing health reviewed; no new issues.
-✅ Buy Box status monitored on key listings. All BBP won.
+Hi @Avi,
+
+*Priority Health Check Complete*
+✅ All listings reviewed; Buy Box is present.
+✅ All buyer messages, customer complaints, inquiries, and negative reviews have been reviewed.
+
+Ready to proceed with tasks from Javier once you approve.
 ```
 
-### 🌆 **Evening Report**
+### 🌆 **Evening Report (Send at End of Day)**
 ```
-Hi @ ,
+Hi @Avi,
 
-*Evening Check Complete*
-✅ Final check performed; all customer inquiries have been answered.
-✅ Account and listing health reviewed; no new issues.
-✅ Buy Box status monitored on key listings. All BBP won.
+*Evening Check-in Complete*
+✅ Final check performed on all buyer messages and inquiries.
+✅ Account and listing health reviewed; no new critical issues.
 
 Logging off for the day.
 ```
 
 ---
 
-## 3. Daily Log
+## 3. Running Daily Log
 
-*This is your personal record of completed checks.*
+*   **Instructions:** This section is a historical record of all completed daily checks. Add a new entry each day by copying the master template from above.
 
-### Date: 2025-08-10
-- [x] Reviewed all stores for inquiries, complaints, and negative reviews.
-- [x] Sent Morning Report to Avi.
-- [x] Performed final check of all inquiries.
-- [x] Reviewed account and listing health.
-- [x] Monitored Buy Box percentage on key ASINs.
-- [x] Sent Evening Report to Avi.
+### Date: 2025-08-12
+**Priority Pre-Task Checks:**
+- [x] **Step 1:** Ensured all listings are in good standing with the Buy Box present.
+- [x] **Step 2:** Reviewed all buyer messages, customer complaints, inquiries, and negative reviews.
+- [x] **Step 3:** Sent the "Priority Health Report" to Avi via WhatsApp.
+- [x] **Step 4:** Received approval to proceed with tasks assigned by Javier.
 
+**End-of-Day Checks:**
+- [x] Performed final check on all buyer messages and inquiries.
+- [x] Reviewed account and listing health for any new issues.
+- [x] Sent "Evening Report" to Avi.
+
+### Date: 2025-08-11
+**Priority Pre-Task Checks:**
+- [x] **Step 1:** Ensured all listings are in good standing with the Buy Box present.
+- [x] **Step 2:** Reviewed all buyer messages, customer complaints, inquiries, and negative reviews.
+- [x] **Step 3:** Sent the "Priority Health Report" to Avi via WhatsApp.
+- [x] **Step 4:** Received approval to proceed with tasks assigned by Javier.
+
+**End-of-Day Checks:**
+- [x] Performed final check on all buyer messages and inquiries.
+- [x] Reviewed account and listing health for any new issues.
+- [x] Sent "Evening Report" to Avi.
