@@ -1,4 +1,4 @@
-### ** Seculife Voice of the Customer (VOC) Status Report**
+### Seculife Voice of the Customer (VOC) Status Report
 
 Overall, the account has several listings that require immediate attention to prevent potential account issues or listing suspensions. We have identified two high-priority tiers: **Urgent Action Required (Poor/Very Poor)** and **At-Risk Listings (Fair)**.
 
