@@ -3,9 +3,12 @@
 This document contains a complete overview and analysis of the Amazon listing for the SecuLife SOS Wristband, a core product for elderly safety.
 
 ---
+<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/171f3bf2-a4c5-4f14-8763-01466f8e7124" />
+
+
 ## Image Assets
 **Image Sequence:**
-
+<img width="1036" height="398" alt="image" src="https://github.com/user-attachments/assets/f2b55f0a-a319-4771-9cea-1b0ccfedb15f" />
 
 ---
 
