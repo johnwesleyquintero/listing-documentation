@@ -67,7 +67,8 @@ Hi @Avi,
 ✅ All buyer messages, customer complaints, inquiries, and negative reviews have been reviewed.
 
 *Seculife:*
-- Buyer's Messages: No messages require a response.
+- Buyer's Messages: Responded Customer Inquiry: Order Number: 
+111-1327888-7618621
 - Customer Health: No new A-to-z/Chargeback Claims; all listings have Good/Excellent CX Health.
 - Negative Reviews: No New Negative Reviews for the last 30 Days.
 - Buy Box: All BBP Won.
