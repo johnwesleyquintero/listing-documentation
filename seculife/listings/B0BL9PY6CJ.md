@@ -9,8 +9,11 @@ This document contains a complete overview and analysis of the Amazon listing fo
 ## Image Assets
 
 **Image Sequence:**
-
+*  **FBM:**
 <img width="1036" height="398" alt="image" src="https://github.com/user-attachments/assets/4d1efc92-758f-46b2-9e7d-fed6162c863f" />
+
+*  **FBA:**
+<img width="1036" height="398" alt="image" src="https://github.com/user-attachments/assets/8ac76c31-9508-4d8a-bc94-a6f9ada968fa" />
 
 ---
 
