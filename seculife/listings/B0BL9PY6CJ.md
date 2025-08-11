@@ -4,6 +4,13 @@ This document contains a complete overview and analysis of the Amazon listing fo
 
 <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/3b512925-eaf6-4d82-bed5-72467189e100" />
 
+---
+
+## Image Assets
+
+**Image Sequence:**
+
+<img width="1036" height="398" alt="image" src="https://github.com/user-attachments/assets/4d1efc92-758f-46b2-9e7d-fed6162c863f" />
 
 ---
 
