@@ -12,7 +12,7 @@
 ## Image Assets
 
 **Image Sequence:**
-<img width="1036" height="398" alt="image" src="https://github.com/user-attachments/assets/11367aba-d746-489c-a20e-586ecee2f105" />
+<img width="1036" height="398" alt="image" src="https://github.com/user-attachments/assets/212e26c7-9785-4114-9a69-836d8f3c92e9" />
 
 ---
 
