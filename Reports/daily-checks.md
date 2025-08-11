@@ -130,13 +130,13 @@ Hi @Avi,
 - Buyer's Messages: No messages require a response.
 - Customer Health: No new A-to-z/Chargeback Claims; all listings have Good/Excellent CX Health.
 - Negative Reviews: No Negative Reviews for the last 30 Days.
-- Buy Box: All BBP Won.
+- Buy Box: All BBP Won. No Suppressed Listing.
 
 *STK:* 
 - Buyer's Messages: No messages require a response.
 - Customer Health: No new A-to-z/Chargeback Claims; all listings have Good/Excellent CX Health.
 - Negative Reviews: No New Negative Reviews for the last 30 Days.
-- Buy Box: All BBP Won.
+- Buy Box: All BBP Won. No Suppressed Listing.
 ```
 
 ### 🌆 **Evening Report (Send at End of Day)**
@@ -151,11 +151,11 @@ Hi @Avi,
 - Buyer's Messages: No messages require a response.
 - Customer Health: No new A-to-z/Chargeback Claims; all listings have Good/Excellent CX Health.
 - Negative Reviews: No New Negative Reviews for the last 30 Days.
-- Buy Box: All BBP Won.
+- Buy Box: All BBP Won. No Suppressed Listing.
 
 *STK:* 
 - Buyer's Messages: No messages require a response.
 - Customer Health: No new A-to-z/Chargeback Claims; all listings have Good/Excellent CX Health.
 - Negative Reviews: No New Negative Reviews for the last 30 Days.
-- Buy Box: All BBP Won.
+- Buy Box: All BBP Won. No Suppressed Listing.
 ```
