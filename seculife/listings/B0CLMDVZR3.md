@@ -30,7 +30,7 @@ This document contains a complete overview and analysis of the Amazon listing fo
 ## 3. Listing Bullet Points
 
 1.  **Simplified Elderly Monitoring:** Utilize the SecuLife assistive speakerphone and SOS button for easy communication with your loved one. Connect instantly with just one touch.
-2.  **Easy Activation:** MONTHLY SUBSCRIPTION REQUIRED. $25 per month with a 1-year contract & includes SIM card, Unlimited Fall Alerts, Unlimited Voice Mins, Premium Safety Features, Unlimited Live 7 Day a week Customer Care, & more.
+2.  **Easy Activation:** MONTHLY SUBSCRIPTION REQUIRED. $25 per month & includes SIM card, Unlimited Fall Alerts, Unlimited Voice Mins, Premium Safety Features, Unlimited Live 7 Day a week Customer Care, & more.
 3.  **Advanced GPS Tracking for Seniors:** SecuLife offers a state-of-the-art GPS tracking solution designed specifically for vulnerable individuals, particularly those with early-stage dementia and Alzheimer's. It's the ideal choice for ensuring the safety and well-being of your loved ones.
 4.  **User-Friendly Mobile App:** When used in conjunction with our browser and mobile app, you can access their most recent location and receive smart alerts that promptly notify you if your loved one is in an unexpected place, making it simpler to locate them.
 5.  **Lightweight Smartwatch:** Customize the SOS button to directly call you, a relative, friend, or caregiver. The two-way speakerphone ensures seamless communication with the wearer.
