@@ -120,7 +120,7 @@ Hi @Avi,
 
 ### 🌅 **Priority Health Report (Send Before Other Tasks)**
 ```
-Hi @Avi,
+Hi @ @
 
 *Recurring: Morning Priority Health Check Complete*
 ✅ All listings reviewed; Buy Box is present. (BBP Won)
@@ -141,7 +141,7 @@ Hi @Avi,
 
 ### 🌆 **Evening Report (Send at End of Day)**
 ```
-Hi @Avi,
+Hi @ @
 
 *Recurring: Evening Check-in Complete*
 ✅ All listings reviewed; Buy Box is present. (BBP Won)
