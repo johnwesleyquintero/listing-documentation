@@ -6,7 +6,7 @@
 
 *(Data captured on: 2025-08-13)*
 
-**Live URL:** https://www.amazon.com/dp/B0CLX2QN4O
+**Live URL:** https://www.amazon.com/dp/B0CLX2QN4Q
 
 ---
 
