@@ -4,13 +4,26 @@
 
 `--- CONFIGURATION BLOCK (The Rules of the Game - Tweak as needed) ---`
 
-*   **`BRAND_NAME`:** "SecuLife"
-*   **`TONE_OF_VOICE`:** "Empathetic, reassuring, and focused on safety and peace of mind."
+*   **`BRAND_NAME`:** "{{BRAND_NAME_PLACEHOLDER}}"  *(e.g., "SecuLife", "STK") - **IMPORTANT: Set this value before use!***
+*   **`TONE_OF_VOICE`:** `CURRENT_TONE_OF_VOICE`
+*   **`RESTRICTED_KEYWORDS`:** `CURRENT_RESTRICTED_KEYWORDS`
+
+`--- BRAND-SPECIFIC CONFIGURATIONS (Conditional - Do Not Edit Directly) ---`
+
+*   **SecuLife Settings:**
+    *   **`SECULIFE_TONE_OF_VOICE`:** "Empathetic, reassuring, and focused on safety and peace of mind."
+    *   **`SECULIFE_RESTRICTED_KEYWORDS`:** ["guarantee", "warranty", "free shipping", "sale", "best seller", "FDA approved", "certified"]
+
+*   **STK Settings:**
+    *   **`STK_TONE_OF_VOICE`:** "Direct, efficient, and focused on connectivity and value."
+    *   **`STK_RESTRICTED_KEYWORDS`:** ["unlimited", "no contract", "free phone", "activation fee", "credit check"]
+
+`--- END OF BRAND-SPECIFIC CONFIGURATIONS ---`
 *   **`TITLE_CHAR_LIMIT`:** 200
 *   **`BULLET_CHAR_LIMIT`:** 500
 *   **`SEARCH_TERMS_CHAR_LIMIT`:** 249
 *   **`REFINEMENT_POLICY`:** "**This is the most important rule.** The goal is maximum subtlety. Do not fundamentally change the core message, structure, or length of the existing listing components (Title, Bullets, Description). The *only* objective is to surgically integrate high-value keywords where they fit naturally. Avoid rewrites, re-phrasing, or expansion."
-*   **`RESTRICTED_KEYWORDS`:** ["guarantee", "warranty", "free shipping", "sale", "best seller", "FDA approved", "certified"]
+*   **`RESTRICTED_KEYWORDS`:** {{RESTRICTED_KEYWORDS_PLACEHOLDER}} *(This will be dynamically set based on the BRAND_NAME selected.)*
 
 `--- GENERAL KNOWLEDGE BANK (Product & Market Intel) ---`
 
@@ -21,6 +34,20 @@
     *   *(Paste the Helium 10 CSV data or summary here)*
 
 `--- END OF CONFIGURATION & KNOWLEDGE BANK ---`
+
+`--- DYNAMIC VARIABLE ASSIGNMENT (DO NOT EDIT) ---`
+
+*   **`CURRENT_TONE_OF_VOICE`:**
+    *   If `BRAND_NAME` is "SecuLife", set to `SECULIFE_TONE_OF_VOICE`.
+    *   If `BRAND_NAME` is "STK", set to `STK_TONE_OF_VOICE`.
+    *   Else, default to "Neutral and informative."
+
+*   **`CURRENT_RESTRICTED_KEYWORDS`:**
+    *   If `BRAND_NAME` is "SecuLife", set to `SECULIFE_RESTRICTED_KEYWORDS`.
+    *   If `BRAND_NAME` is "STK", set to `STK_RESTRICTED_KEYWORDS`.
+    *   Else, default to [].
+
+`--- END OF DYNAMIC VARIABLE ASSIGNMENT ---`
 
 **PROMPT:**
 
