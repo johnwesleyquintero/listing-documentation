@@ -56,10 +56,10 @@ This document provides a comprehensive structure for documenting the Amazon prod
 
 ## 6. Backend Data & Notes
 
-*   **Backend Search Terms:** [Comma-separated search terms - Placeholder, needs to be updated manually]
-*   **Item Type Keyword:** [Item Type Keyword - Placeholder, needs to be updated manually]
-*   **Target Audience:** [Target Audience - Placeholder, needs to be updated manually]
-*   **Special Features (Backend):** [Special Features - Placeholder, needs to be updated manually]
+*   **Backend Search Terms:** `[To be completed]`
+*   **Item Type Keyword:** `[To be completed]`
+*   **Target Audience:** `[To be completed]`
+*   **Special Features (Backend):** `[To be completed]`
 *   **Additional Notes:**
     *   KEY GEOGRAPHIC DETAIL: A bullet point explicitly states that GPS tracking works in the **"USA, Canada, and Mexico."** This is a unique and important feature compared to other listings that state "contiguous US only" and should be a key selling point. It also contradicts some negative reviews on other listings from international customers.
     *   Consider adding image assets directly to this document or linking to a centralized image repository for easier access.
