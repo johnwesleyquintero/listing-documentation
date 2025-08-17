@@ -180,7 +180,6 @@ billing@mobilenetus.com
 avi@mobilenetus.com
 anna@mobile-net.us
 ```
----
 
 ---
 
@@ -212,5 +211,9 @@ All emails sent to the addresses listed above will be automatically forwarded to
 
 *   **Main Inbox:** `john.wesley.quintero@seculife.us`
 
-This setup ensures that correspondence for Jolt Mobile and Speedtalk Mobile is consolidated within the SecuLife email environment.
 ---
+
+This setup ensures that correspondence for Jolt Mobile and Speedtalk Mobile is consolidated within the SecuLife email environment.
+
+---
+
