@@ -100,7 +100,7 @@ Use the following templates for daily and weekly WhatsApp communications to ensu
 ```
 Hi @  
 
-I've attached the Daily KPI Report for Seculife and Speedtalk and sent it via email. I have also sent the Inventory and Sales Report via email. Will proceed to morning checks.
+I've attached the Daily KPI Report for Seculife and STK and sent it via email. I have also sent the Inventory and Sales Report via email. Will proceed to morning checks.
 ```
 ***Frequency:*** **Tuesday**
 ```
@@ -238,6 +238,7 @@ All emails sent to the addresses listed above will be automatically forwarded to
 This setup ensures that correspondence for Jolt Mobile and Speedtalk Mobile is consolidated within the SecuLife email environment.
 
 ---
+
 
 
 
