@@ -21,7 +21,7 @@
 ```
 Hi @ @,
 
-I have completed the morning checklist. Will proceed to next task.
+I have completed the morning checklist. Will proceed to the next tasks.
 
 *Morning Operational Checks:*
 
