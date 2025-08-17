@@ -7,8 +7,8 @@ This section provides an overview of the various AI agents and automated systems
 *   **AI for Documentation Maintenance:** <mcfile name="AI_for_Documentation_Maintenance.md" path="playbooks-and-tools/AI-Agents/AI_for_Documentation_Maintenance.md"></mcfile>
     *   *Purpose:* Leverages AI and automation to streamline the maintenance, updating, and overall management of the VAXPH Listing Documentation.
 
-*   **CX-SeculifeAI (Customer Service Responder):** <mcfile name="CX-SeculifeAI.md" path="playbooks-and-tools/AI-Agents/CX-SeculifeAI.md"></mcfile>
-    *   *Purpose:* Provides a highly-skilled, logical, and precise customer service response system for SecuLife inquiries.
+*   **CX-AI (Unified Customer Service Responder):** <mcfile name="CX-AI.md" path="playbooks-and-tools/AI-Agents/CX-AI.md"></mcfile>
+    *   *Purpose:* Provides a unified customer service response system combining contexts for both Speedtalk Mobile and SecuLife, including a comprehensive knowledge bank, dynamic configuration for response templates, and a unified analytical prompt.
 
 *   **EOD-AI (End of Day AI):** <mcfile name="EOD-AI.md" path="playbooks-and-tools/AI-Agents/EOD-AI.md"></mcfile>
     *   *Purpose:* Automates the generation of consolidated, polished, and WhatsApp-formatted End-of-Day reports from raw task management data.
@@ -19,7 +19,7 @@ This section provides an overview of the various AI agents and automated systems
 *   **VOC-AI (Voice of Customer AI):** <mcfile name="VOC-AI.md" path="playbooks-and-tools/AI-Agents/VOC-AI.md"></mcfile>
     *   *Purpose:* Acts as an Amazon Data Integrity and ETL Specialist, validating, cleaning, and transforming VOC report data into structured CSV with root-cause-driven recommendations.
 
-*   **Walmart Listing Architect:** <mcfile name="walmart-listing-architect.md" path="playbooks-and-tools/AI-Agents/walmart-listing-architect.md"></mcfile>
+*   **Walmart Listing Architect:** <mcfile name="walmart-listing-architect-AI.md" path="playbooks-and-tools/AI-Agents/walmart-listing-architect-AI.md"></mcfile>
     *   *Purpose:* Functions as a Walmart Marketplace SEO specialist and copywriter, re-architecting existing listing assets into optimized, policy-compliant Walmart product listings.
 
 ## How to Use This Section:
