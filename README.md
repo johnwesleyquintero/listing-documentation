@@ -22,7 +22,7 @@ This repository is designed to be a scalable, team-ready, multi-brand operationa
 
 ### 📂 Playbooks and Tools
 
-*   [AI Agents](playbooks-and-tools/AI-Agents/): Documentation and playbooks for AI agents.
+*   [AI Agents](playbooks-and-tools/AI-Agents/AI-Agents-Overview.md): Overview and documentation for AI agents.
 *   [Helium 10](playbooks-and-tools/Helium_10/): Resources and documentation related to Helium 10.
 *   [Reports, SOPs, & Quick Reference](playbooks-and-tools/Reports-SOPs-Quick_Reference/): General reports, Standard Operating Procedures, and quick reference guides applicable across brands.
 *   [Archived Listings](playbooks-and-tools/archived-listing/): Documentation for archived product listings.
@@ -37,5 +37,9 @@ This repository is designed to be a scalable, team-ready, multi-brand operationa
 ## Contributing
 
 We encourage contributions to keep this knowledge base accurate and up-to-date. Please refer to the [CONTRIBUTING.md](CONTRIBUTING.md) file for guidelines on directory structure, file naming conventions, and markdown style.
+
+## Documentation Improvements
+
+For recommendations on enhancing the navigation and discoverability of this documentation, please refer to the [Navigation and Discoverability Improvements](playbooks-and-tools/Reports-SOPs-Quick_Reference/Navigation_Discoverability_Improvements.md) document.
 
 Let's build this fortress together!
