@@ -182,7 +182,35 @@ anna@mobile-net.us
 ```
 ---
 
-**Virtual Machine Link**
-```
-https://portal.telemobile.me/bsindex.aspx
-```
+---
+
+## Azure Server
+
+Azure offers virtual computers that we use to access each of our stores' computers. Since we have several stores, you must access the Amazon store from its related virtual computer. Please do not access SpeedTalk Amazon store from SecuLife Azure computer and vice versa.
+
+### Azure Access
+[Azure Virtual Desktop](https://client.wvd.microsoft.com/arm/webclient/index.html)
+
+---
+
+## Email Distribution Group Setup
+
+**Date:** August 13, 2025
+**Source:** Anna (+1 213 925-1121)
+**Purpose:** To centralize email communications from multiple brands into a single primary inbox for streamlined management.
+
+---
+
+### Configuration Details
+
+The following distribution groups have been created:
+
+*   `john.wesley.quintero@joltmobile.com`
+*   `john.wesley.quintero@speedtalkmobile.com`
+
+All emails sent to the addresses listed above will be automatically forwarded to the primary email address:
+
+*   **Main Inbox:** `john.wesley.quintero@seculife.us`
+
+This setup ensures that correspondence for Jolt Mobile and Speedtalk Mobile is consolidated within the SecuLife email environment.
+---
