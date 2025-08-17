@@ -10,23 +10,29 @@ This repository is designed to be a scalable, team-ready, multi-brand operationa
 
 *   **SecuLife:** Documentation specific to SecuLife products and operations.
     *   [A+ Content](brands/seculife/a-plus-content/)
-    *   [Listings](brands/seculife/listings/)
+    *   [Amazon Listings](brands/seculife/amazon-listings/)
     *   [Reports and Analysis](brands/seculife/reports-and-analysis/)
 
 *   **SpeedTalk Mobile (STK):** Documentation specific to SpeedTalk Mobile products and operations.
     *   [A+ Content](brands/stk/a-plus-content/)
-    *   [Listings](brands/stk/listings/)
+    *   [Amazon Listings](brands/stk/amazon-listings/)
+    *   [Walmart](brands/stk/Walmart/)
+    *   [eBay](brands/stk/eBay/)
     *   [Reports and Analysis](brands/stk/reports-and-analysis/)
 
 ### 📂 Playbooks and Tools
 
-*   [Helium 10](playbooks-and-tools/helium-10/): Resources and documentation related to Helium 10.
-*   [Reports](playbooks-and-tools/reports/): General reports and analysis applicable across brands.
+*   [AI Agents](playbooks-and-tools/AI-Agents/): Documentation and playbooks for AI agents.
+*   [Helium 10](playbooks-and-tools/Helium_10/): Resources and documentation related to Helium 10.
+*   [Reports, SOPs, & Quick Reference](playbooks-and-tools/Reports-SOPs-Quick_Reference/): General reports, Standard Operating Procedures, and quick reference guides applicable across brands.
+*   [Archived Listings](playbooks-and-tools/archived-listing/): Documentation for archived product listings.
 
 ### 📂 Internal
 
-*   [What I Do](_internal/what-i-do.md): An overview of core responsibilities and functions.
+*   [VAXPH](_internal/VAXPH/): Internal VAXPH documentation.
+*   [Business Info](_internal/biz_info/): Business information and resources.
 *   [Executive Assistant](_internal/executive-assistant.md): Documentation for executive support and high-level tasks.
+*   [What I Do](_internal/what-i-do.md): An overview of core responsibilities and functions.
 
 ## Contributing
 
