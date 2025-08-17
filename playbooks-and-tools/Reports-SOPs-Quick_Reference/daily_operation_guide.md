@@ -195,7 +195,7 @@ Azure offers virtual computers that we use to access each of our stores' compute
 ## Email Distribution Group Setup
 
 **Date:** August 13, 2025
-**Source:** Anna (+1 213 925-1121)
+**Source:** Anna
 **Purpose:** To centralize email communications from multiple brands into a single primary inbox for streamlined management.
 
 ---
@@ -216,4 +216,5 @@ All emails sent to the addresses listed above will be automatically forwarded to
 This setup ensures that correspondence for Jolt Mobile and Speedtalk Mobile is consolidated within the SecuLife email environment.
 
 ---
+
 
