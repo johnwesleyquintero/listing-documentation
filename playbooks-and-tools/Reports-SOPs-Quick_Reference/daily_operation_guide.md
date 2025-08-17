@@ -80,10 +80,7 @@ TIME OUT: 5:30 PM PST | VAX PH | Working on Store:
 | 8:30 AM     | 5:30 PM     | Working on Store    |
 ---
 
-
----
-
-### Login Routine
+### Communication Routine
 
 #### Whatsapp Template
 
@@ -216,5 +213,6 @@ All emails sent to the addresses listed above will be automatically forwarded to
 This setup ensures that correspondence for Jolt Mobile and Speedtalk Mobile is consolidated within the SecuLife email environment.
 
 ---
+
 
 
