@@ -47,7 +47,7 @@ Hi @Avi,
 *Seculife:*
 - Buyer's Messages: No messages require a response.
 - Customer Health: No new A-to-z/Chargeback Claims; all listings have Good/Excellent CX Health.
-- Negative Reviews: No Negative Reviews for the last 30 Days.
+- Negative Reviews: No Negative Reviews for the last 7 Days.
 - Buy Box: All BBP Won.
 
 *STK:* 
@@ -70,13 +70,13 @@ Hi @Avi,
 - Buyer's Messages: Responded Customer Inquiry: Order Number: 
 111-1327888-7618621
 - Customer Health: No new A-to-z/Chargeback Claims; all listings have Good/Excellent CX Health.
-- Negative Reviews: No New Negative Reviews for the last 30 Days.
+- Negative Reviews: No New Negative Reviews for the last 7 Days.
 - Buy Box: All BBP Won.
 
 *STK:* 
 - Buyer's Messages: No messages require a response.
 - Customer Health: No new A-to-z/Chargeback Claims; all listings have Good/Excellent CX Health.
-- Negative Reviews: No New Negative Reviews for the last 30 Days.
+- Negative Reviews: No New Negative Reviews for the last 7 Days.
 - Buy Box: All BBP Won.
 ```
 
