@@ -1,71 +1,72 @@
 ASIN,SKU,Fulfillment,Action,Status
-B01GUKDDBQ,FBA-AlarmSim-5,FBA,Disabled,Active
-B01GUKDDBQ,FBA-AlarmSim5,FBA,Disabled,Active
+B01GUKDDBQ,FBA-AlarmSim-5,FBA,Disabled-Reapplied,Active
+B01GUKDDBQ,FBA-AlarmSim5,FBA,Disabled-Reapplied,Active
+B01GUKDDBQ,FBA-AlarmSim5-stickerless,FBA,Disabled-Reapplied,Active
+B074G4S9JL,FBA-Alarmsim-12321,FBA,Disabled-Reapplied,Active
+B01LXB0SDE,FBA-EX-9256,FBA,Disabled-Reapplied,Active
+B08WGKPL78,FBA-STK-5Trckr,FBA,Disabled-Reapplied,Active
+B07K2HKJRN,FBA-STK-8017SW,FBA,Disabled-Reapplied,Active
+B07C32C7ZT,FBA-T8014,FBA,Disabled-Reapplied,Inactive
+B07GJBM4M6,FBA-STK-100LCP,FBA,Disabled-Reapplied,Incomplete
+B07G9P5ZBW,FBA-STK-9241SP,FBA,Disabled-Reapplied,Active
+B07N1XYDZB,FBA-STK-9272RO,FBA,Disabled-Reapplied,Active
+B08D71C57B,FBA-STK-BB8056P,FBA,Disabled-Reapplied,Active
+B07R43CTD7,FBA-STK-RP-8029,FBA,Disabled-Reapplied,Active
+B07CZR5N25,FBA-STK-5SW,FBA,Disabled-Reapplied,Active
+B07CZR5N25,FBA-STK-SW-8014,FBA,Disabled-Reapplied,Active
+B0D5L4ZCD,FBA-STK-SW-8017,FBA,Disabled-Reapplied,Active
+B0CLWSGD3V,FBA-STK-T15VP,FBA,Disabled-Reapplied,Active
+B0CLWYPQLQ,FBA-STK-T9VP,FBA,Disabled-Reapplied,Active
+B08LP1627V,FBA-STK-TV31033P,FBA,Disabled-Reapplied,Active
+B09GT671CV,FBA-STK-TVP30,FBA,Disabled-Reapplied,Active
+B074FD7XFR,FBA-Tracker-12321,FBA,Disabled-Reapplied,Active
+B08HW1L5TB,FBA-STK-TV31026P,FBA,Disabled-Reapplied,Active
+B0CLWYZ5ND,FBA-STK-T7V50P,FBA,Disabled-Reapplied,Active
+B07C3H94R8,FBA-T8015,FBA,Disabled-Reapplied,Active
+B0773WWM62,FBA-STK-9341SP,FBA,Disabled-Reapplied,Active
+B07FCWK5LC,FBA-STK-8015SW,FBA,Disabled-Reapplied,Active
+B07JYMMWR7,FBA-STK-8014SW,FBA,Disabled-Reapplied,Active
+B072PQX1X5,FBA-Alarm-9340,FBA,Disabled-Reapplied,Active
+B0CSHRP6SX,FBA-STK-DTA-30TM,FBA,Disabled-Reapplied,Active
+B0CSH7VXK6,FBA-STK-DTA-90TM,FBA,Disabled-Reapplied,Active
+B0CSH284FY,FBA-STK-DTA-360TM,FBA,Disabled-Reapplied,Active
+B0CPTK9YK4,FBA-STK-23LCP10,FBA,Disabled-Reapplied,Active
+B07K1M143X,FBA-STK-12321SW,FBA,Disabled-Reapplied,Inactive
+B07933LMZW,FBA-STK-T-NoP,FBA,Disabled-Reapplied,Inactive
+B07933LMZW,FBA-Tracker-NoPlan,FBA,Disabled-Reapplied,Inactive
 B01GUKDDBQ,A-9216-Alarm-Sim,FBM,Disabled,Verified - Disabled (BR)
 B01GUKDDBQ,FBA-AlarmSim5-stickerless,FBA,Disabled,Verified - Disabled (BR)
-B074G4S9JL,FBA-Alarmsim-12321,FBA,Disabled,Active
 B074G4S9JL,A-Alarmsim-12321,FBM,Disabled,Verified - Disabled (BR)
-B01LXB0SDE,FBA-EX-9256,FBA,Disabled,Active
 B01LXB0SDE,A-EX-9256,FBM,Disabled,Verified - Disabled (BR)
 B01LXB0SDE,EX-9256,FBM,Disabled,Verified - Disabled (BR)
-B07GJBM4M6,FBA-STK-100LCP,FBA,Disabled,Incomplete
 B07GJBM4M6,A-STK-100LCP,FBM,Disabled,Verified - Disabled (BR)
-B08WGKPL78,FBA-STK-5Trckr,FBA,Disabled,Active
 B08WGKPL78,A-STK-5Trckr,FBM,Disabled,Verified - Disabled (BR)
-B07K2HKJRN,FBA-STK-8017SW,FBA,Disabled,Active
-B07G9P5ZBW,FBA-STK-9241SP,FBA,Disabled,Active
 B07G9P5ZBW,A-STK-9241SP,FBM,Disabled,Verified - Disabled (BR)
 B07G9P5ZBW,KQ-Q451-9FDC,FBM,Disabled,Verified - Disabled (BR)
-B07N1XYDZB,FBA-STK-9272RO,FBA,Disabled,Active
-B08D71C57B,FBA-STK-BB8056P,FBA,Disabled,Active
 B08D71C57B,A-STK-BB8056P,FBM,Disabled,Verified - Disabled (BR)
-B07R43CTD7,FBA-STK-RP-8029,FBA,Disabled,Active
 B07R43CTD7,A-STK-RP-8029,FBM,Disabled,Verified - Disabled (BR)
-B07CZR5N25,FBA-STK-5SW,FBA,Disabled,Active
-B07CZR5N25,FBA-STK-SW-8014,FBA,Disabled,Active
 B07CZR5N25,FBA-STK-SW8014,FBA,Disabled,Verified - Disabled (BR)
 B07CZR5N25,A-STK-5SW,FBM,Disabled,Verified - Disabled (BR)
 B07CZR5N25,A-STK-SW-8014,FBM,Disabled,Verified - Disabled (BR)
-B0D5L4ZCD,FBA-STK-SW-8017,FBA,Disabled,Active
 B0D5L4ZCD,A-STK-SW-8017,FBM,Disabled,Verified - Disabled (BR)
-B0CLWSGD3V,FBA-STK-T15VP,FBA,Disabled,Active
 B0CLWSGD3V,A-STK-T15VP,FBM,Disabled,Verified - Disabled (BR)
 B0CLWSGD3V,FBA-STK-T15VP-stickerless,FBA,Disabled,Verified - Disabled (BR)
-B0CLWYPQLQ,FBA-STK-T9VP,FBA,Disabled,Active
 B0CLWYPQLQ,A-STK-T9VP,FBM,Disabled,Verified - Disabled (BR)
-B08LP1627V,FBA-STK-TV31033P,FBA,Disabled,Active
 B08LP1627V,A-STK-TV31033P,FBM,Disabled,Verified - Disabled (BR)
-B09GT671CV,FBA-STK-TVP30,FBA,Disabled,Active
 B09GT671CV,A-STK-TVP30,FBM,Disabled,Verified - Disabled (BR)
-B07C32C7ZT,FBA-T8014,FBA,Disabled,Inactive
 B07C32C7ZT,A-T8014,FBM,Disabled,Verified - Disabled (BR)
-B074FD7XFR,FBA-Tracker-12321,FBA,Disabled,Active
 B074FD7XFR,A-Tracker-12321,FBM,Disabled,Verified - Disabled (BR)
 B01N9XPPGZ,FBA-STK,FBA,Disabled,Verified - Disabled (BR)
 B01N9XPPGZ,FBA-no-plan,FBA,Disabled,Verified - Disabled (BR)
 B01N9XPPGZ,A-STK,FBM,Disabled,Verified - Disabled (BR)
-B07K1M143X,FBA-STK-12321SW,FBA,Disabled,Inactive
-B07933LMZW,FBA-STK-T-NoP,FBA,Disabled,Inactive
-B07933LMZW,FBA-Tracker-NoPlan,FBA,Disabled,Inactive
 B07933LMZW,A-Tracker-NoPlan,FBM,Disabled,Verified - Disabled (BR)
-B08HW1L5TB,FBA-STK-TV31026P,FBA,Disabled,Active
 B08HW1L5TB,A-STK-TV31026P,FBM,Disabled,Verified - Disabled (BR)
-B0CLWYZ5ND,FBA-STK-T7V50P,FBA,Disabled,Active
 B0CLWYZ5ND,A-STK-T7V50P,FBM,Disabled,Verified - Disabled (BR)
 B09R8Y33WV,FBA-STK-TVP22,FBA,Disabled,Verified - Disabled (BR)
 B09R8Y33WV,A-STK-TVP22,FBM,Disabled,Verified - Disabled (BR)
-B07C3H94R8,FBA-T8015,FBA,Disabled,Active
 B07C3H94R8,A-T8015,FBM,Disabled,Verified - Disabled (BR)
-B0773WWM62,FBA-STK-9341SP,FBA,Disabled,Active
-B07FCWK5LC,FBA-STK-8015SW,FBA,Disabled,Active
-B07JYMMWR7,FBA-STK-8014SW,FBA,Disabled,Active
-B072PQX1X5,FBA-Alarm-9340,FBA,Disabled,Active
 B072PQX1X5,A-Alarm-9340,FBM,Disabled,Verified - Disabled (BR)
-B0CSHRP6SX,FBA-STK-DTA-30TM,FBA,Disabled,Active
 B0CSHRP6SX,A-STK-DTA-30TM,FBM,Disabled,Verified - Disabled (BR)
-B0CSH7VXK6,FBA-STK-DTA-90TM,FBA,Disabled,Active
 B0CSH7VXK6,A-STK-DTA-90TM,FBM,Disabled,Verified - Disabled (BR)
-B0CSH284FY,FBA-STK-DTA-360TM,FBA,Disabled,Active
 B0CSH284FY,A-STK-DTA-360TM,FBM,Disabled,Verified - Disabled (BR)
-B0CPTK9YK4,FBA-STK-23LCP10,FBA,Disabled,Active
 B0CPTK9YK4,A-STK-23LCP10,FBM,Disabled,Verified - Disabled (BR)

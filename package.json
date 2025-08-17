@@ -1,0 +1,12 @@
+{
+  "name": "listing-documentation",
+  "version": "1.0.0",
+  "description": "Documentation and scripts for listing management.",
+  "main": "index.js",
+  "scripts": {
+    "update-sku-status": "python .\\Data_Task\\update_sku_status.py"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

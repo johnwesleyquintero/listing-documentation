@@ -21,7 +21,7 @@ def update_sku_status(input_csv_path, output_csv_path):
         print("Error: 'SKU' or 'Status' column not found in the output CSV.")
         return
 
-    output_df['Status'] = output_df['SKU'].map(sku_status_map).fillna(output_df['Status'])
+    output_df['Status'] = output_df['SKU'].map(sku_status_map)
 
     # Save the updated DataFrame back to the output CSV file
     output_df.to_csv(output_csv_path, index=False)
