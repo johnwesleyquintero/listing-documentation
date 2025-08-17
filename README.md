@@ -34,6 +34,17 @@ This repository is designed to be a scalable, team-ready, multi-brand operationa
 *   [Executive Assistant](_internal/executive-assistant.md): Documentation for executive support and high-level tasks.
 *   [What I Do](_internal/what-i-do.md): An overview of core responsibilities and functions.
 
+## How to Use This Repository (For New Users)
+
+This repository is designed to be your central hub for all VAXPH product listing and operational documentation. Here’s how to get the most out of it:
+
+1.  **Leverage GitHub Search:** The most efficient way to find specific information is by using the **search bar at the top of this GitHub repository**. Type in keywords, ASINs (e.g., `B0773WWM62`), brand names (e.g., `SecuLife`, `SpeedTalk Mobile`), or operational terms to quickly locate relevant documents.
+2.  **Navigate the Table of Contents:** Use the "Table of Contents" above to explore the structured documentation by brand or functional area (e.g., "Brands," "Playbooks and Tools," "Internal").
+3.  **Understand the Structure:** Documents are organized logically. For ASIN-specific information, look under `brands/[brand_name]/amazon-listings/`. Guidelines and templates are found in `playbooks-and-tools/`.
+4.  **New ASIN Documentation:** If you're creating new ASIN documentation, please refer to the [ASIN Documentation Guidelines](playbooks-and-tools/guidelines/ASIN_Documentation_Guidelines.md) for best practices and to ensure consistency.
+
+This repository is built to be a self-service knowledge base, making it easy for everyone, regardless of technical background, to find the information they need.
+
 ## Contributing
 
 We encourage contributions to keep this knowledge base accurate and up-to-date. Please refer to the [CONTRIBUTING.md](CONTRIBUTING.md) file for guidelines on directory structure, file naming conventions, and markdown style.
