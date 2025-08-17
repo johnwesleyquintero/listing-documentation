@@ -10,4 +10,5 @@ Based on current information, specific details regarding the manufacturing and a
 - **Product Focus:** GPS tracking and safety alert devices for kids, seniors, and pets.
 - **Mission:** To provide safety, independence, and peace of mind through innovative products.
 - **Customer Support:** Offers 24/7 US-based customer support.
+- **Manufacturing/Assembly Location:** Products are made in China. This information was provided by Xavi, a key contact for SecuLife operations.
 - **Product Features:** Real-time GPS tracking, SOS alert monitoring, fall detection, geofencing, two-way communication, and mobile app integration.
