@@ -58,7 +58,7 @@ TIME IN 8:30 AM PST | VAX PH | Working on Stores
 5:00 PM PST | VAX PH | Working on Store
 ```
 ```
-TIME OUT: 5:30 PM PST | VAX PH | Working on Store | EOD :
+TIME OUT: 5:30 PM PST | VAX PH | Working on Store | EOD:
 ```
 ---
 ## 2. Timezone Reference
@@ -238,6 +238,7 @@ All emails sent to the addresses listed above will be automatically forwarded to
 This setup ensures that correspondence for Jolt Mobile and Speedtalk Mobile is consolidated within the SecuLife email environment.
 
 ---
+
 
 
 
