@@ -19,3 +19,13 @@ Based on current information, specific details regarding the manufacturing and a
   - **Fax Plan:** 90 minutes talk / Unlimited GPS tracking / 90MB data
     - $8/month when paid annually in advance
     - $9/month with a 1-year contract (paid monthly)
+
+## Customer Interactions
+
+### Amazon Message Exchange Example (August 16, 2025)
+
+**Question:** Is the time display digital? I am wondering if the watch can be set to just show the time display. No need for app icons to show. Is the time display digital. He can’t read analog time?
+
+**Response:** Hello, thank you for your question! Yes, the watch displays the time digitally, so it’s very easy to read. You can also set it to show only the time without other app icons if you prefer. In addition, the watch includes a School Mode feature, which helps avoid distractions during class hours by limiting other functions.
+
+**Product ID:** B0F5YJGJW1

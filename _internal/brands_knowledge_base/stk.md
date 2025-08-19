@@ -22,3 +22,21 @@ Customer Service Support
 SpeedTalk Mobile
 ```
 **Notes:** This response directs the customer to the official website for further support, which is a standard procedure for escalating issues and gathering more detailed information.
+
+### Example 2: Network Compatibility and Coverage Inquiry
+
+**Customer's initial message:** "Is SpeedTalk compatible with my phone? What's the coverage like?"
+
+**Suggested Response:**
+```
+Hello [Customer Name],
+SpeedTalk Mobile utilizes the T-Mobile network for its coverage and is compatible with 5G 4G LTE devices. Our service works with any T-Mobile phone, or unlocked AT&T, Verizon phones, or any unlocked 5G 4G LTE GSM-based devices.
+
+To check T-Mobile's coverage in your specific area, please visit STKMAP (our official coverage map) and enter your full address. This will provide you with exact coverage details, including indoor/outdoor availability and whether 5G/4G LTE service is available based on your device type and the frequency it operates under.
+
+We hope this helps clarify your compatibility and coverage questions. If you need further assistance, please don't hesitate to contact our Customer Service team through our official website.
+Best regards,
+Customer Service Support
+SpeedTalk Mobile
+```
+**Notes:** This response provides clear information regarding network compatibility and directs the customer to the appropriate resource (STKMAP) for detailed coverage information, while adhering to platform compliance by not including direct links.
