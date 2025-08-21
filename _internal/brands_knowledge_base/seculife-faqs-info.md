@@ -1,4 +1,11 @@
-# SecuLife Knowledge Base
+# SecuLife FAQs and Information
+
+**Important Policy for Amazon Buyer Messages:**
+- Prioritize answering common questions directly within the Amazon buyer message scope using the information provided in this knowledge base.
+- For any questions or issues that fall outside the scope of common inquiries or require detailed support (e.g., complex troubleshooting, account-specific issues), **DO NOT** provide direct off-platform links or contact information in Amazon messages.
+- Instead, politely redirect the customer to our official SecuLife website (e.g., "Please visit our official SecuLife website for support") to file a support ticket. This ensures compliance with Amazon's Terms of Service while still providing a clear path for comprehensive customer service.
+
+This document serves as a comprehensive knowledge base for SecuLife products, providing answers to frequently asked questions, setup guides, troubleshooting tips, and customer-facing email templates.
 
 ## Manufacturing and Assembly
 
