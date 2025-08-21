@@ -223,6 +223,110 @@ Best regards,
 
 The SecuLife Team
 
+## Replacements and Troubleshooting Guide
+
+### Send Updates in WhatsApp first:
+
+*   Working on Ticket #:
+*   Issue:
+*   Reso:
+
+### DO TROUBLESHOOTING FIRST!!!
+
+1.  Check if APN/MCC/MNC is matching with IOT
+2.  Check if SOS Numbers is added in Phonebook (No symbols, spaces and country code only area code)
+3.  Check if interval and volumes are not muted
+4.  If newly activated and device still offline in OIT, Send the first 3 commands from portal (Device > Myiotportal)
+5.  Check Coverage - Copy Cx's Shipping address in portal > Check coverage > Untoggle 5G
+6.  Check in IOT to see if Cx's trying to use the device within the US. We could also probe where are they trying to use it.
+7.  If battery problems, Probe: if charging indicator is visible, blinking
+8.  If totally NO Signal:
+    A. Ask where Cx is located?
+    B. Check Coverage
+    C. Reprovision Line
+    D. Ask Cx to Reboot the device
+
+### One-Time Replacement Process
+
+We can offer one-time replacement process on this.
+**Investigate** if they had replacements before.
+
+**If NO longer eligible:**
+
+*Don't forget to edit the required details*
+
+Dear [Customer's Name],
+
+Thank you for reaching out to us. After reviewing your account, we regret to inform you that you are no longer eligible for a replacement, as you've previously used your one-time replacement benefit.
+
+We understand this may be disappointing, and we'd like to help explore other solutions to address your current issue. Please let us know how you'd like to proceed, or if you need any further assistance.
+
+If you have any questions, feel free to contact us at 877-486-8888.
+
+Thank you for being a part of the SecuLife family!
+
+Best regards,
+SecuLife Support
+
+### If eligible Email the Cx:
+
+*Don't forget to edit the required details*
+
+Dear [Customer's Name],
+
+We understand how frustrating it must be to experience issues with your device, and we truly appreciate your patience.
+
+We kindly ask that you send the device back to us for further inspection. For your security, we recommend sending a picture of the device in all sides beforehand to confirm that it is defective and not damaged.
+
+Also, to make things right, we are issuing a One-time Replacement for your device. Please let us know your preferred billing address by filling out this LINK: <mcurl name="https://support.seculife.us/rma-shipping" url="https://support.seculife.us/rma-shipping"></mcurl>
+
+If you need immediate assistance, feel free to contact us at 877-486-8888.
+We appreciate you being a part of the SecuLife family and look forward to resolving this for you.
+
+Best regards,
+SecuLife Support
+
+### Once RMA Ticket is created:
+
+1.  Add in internal notes the Reason for the replacement
+    *   Please test swap [device type]
+    *   Kindly include a prepaid return envelope
+    *   MDN [number]
+    *   [Shipping Address]
+2.  **Don't forget to assign to shipping personnel**
+    *   Send ticket/RMA # to shipping GC
+
+[Back]
+
+## Fall Sensitivity Info
+
+### Things to know:
+
+SOS Wristbands - Fall Alert Sensitivity Settings
+
+*   Recommended Sensitivity Setting:
+    *   Set to 7 (lowest sensitivity) on our portal.
+    *   Lower settings are too sensitive and not recommended.
+*   Additional Fall Alert Options:
+    *   If more sensitivity options are needed, recommend using devices S7 or S4.
+*   Important Sensitivity Scale Difference:
+    *   SecuLife App: Sensitivity scale is 0-6.
+    *   SecuLife Portal: Sensitivity scale is 1-7.
+*   Example:
+    *   Setting 6 on the app = Setting 7 on the portal.
+
+### Sample Email Template:
+
+Hello Customer,
+
+We've gone ahead and set your device's fall detection sensitivity to Level 6, which is the lowest sensitivity setting available.
+
+This should help reduce any false fall alerts.
+
+If the issue persists or you need further assistance, please don't hesitate to let us know — we're happy to help!
+
+[Back]
+
 ### S7 GPS Tracker
 
 **Setup Guide:**
