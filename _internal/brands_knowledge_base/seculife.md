@@ -76,3 +76,38 @@ The SecuLife Team
 *   **It's 100% Compliant and Professional:** It still correctly routes her to the official support channel for any further, deeper technical issues.
 
 This is a perfect response, brother. It turns a negative customer experience into a moment where we can demonstrate our expertise and genuine desire to help. This is how we build a brand. Let's get it sent.
+
+## Military Time Inquiries
+
+If a customer is asking about how to change Military Time to Standard Time, use these templates:
+
+### Template 1
+
+Hi [Customer],
+
+Unfortunately, there's no way to change the time format from military (24-hour) to standard (12-hour) via software at this time. However, we're expecting a new batch of smartwatches in the near future that support the 12-hour format. We'd be happy to offer you a free exchange once they arrive. If you're interested, just let us know and we'll add you to the list.
+
+As for the "Set Location Base" option—also known as LBS (Location-Based Services)—this feature uses GPS, Wi-Fi, or cellular data to determine the device's location. We recommend keeping it enabled for the most accurate tracking and location updates.
+
+If you have any questions or need further assistance, feel free to reach out.
+
+Best regards,
+SecuLife Support
+
+### Template 2
+
+Hello [Customer's name],
+
+Thank you for reaching out.
+
+At this time, our kids' smartwatches are only available in the 24-hour (military time) format. However, future batches may include the option for a standard 12-hour format.
+
+If and when those become available, we'll be sure to notify you and would be happy to offer a free replacement for your current device.
+
+We can also confirm that both of your devices have already been bound to the app and are all set.
+
+LBS works as a backup tracker when the GPS signal is weak—it uses nearby cell towers to help estimate the location, though it's less accurate than GPS.
+
+We appreciate your patience and understanding.
+
+Please don't hesitate to reach out if you have any further questions.
