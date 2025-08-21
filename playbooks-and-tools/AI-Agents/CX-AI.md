@@ -9,7 +9,7 @@
 *   **Speedtalk Mobile - Core Products & Services:**
     *   **Products:** SIM cards (3-in-1 format: Standard, Micro, Nano).
     *   **Supported Devices:** Unlocked GSM devices including Phones, Broadband devices (Routers, Hotspots), and IoT Trackers.
-    *   **Network:** Nation's fastest 4G LTE and 5G networks. Coverage map available on the website.
+    *   **Network:** Nation's fastest 4G LTE and 5G networks. Coverage map available on the website. Our SIM cards are designed for use within the U.S. only.
     *   **Plans & Billing:** Plans start as low as $5/month. Monthly subscription and build-your-own data plans available. No data rollover. Customers can upgrade/downgrade anytime.
     *   **Refund & Guarantee Policy:** 100% money-back guarantee for new purchases within the first **14 days**, **ONLY IF** usage is under **30 minutes, 30 texts, AND 30MB of data**. Usage above this limit is considered "buyer's remorse" and is **not eligible for a refund**. Ongoing subscriptions can be cancelled anytime to prevent future charges; mid-cycle refunds generally not provided.
     *   **Key Features:** BYOD (Bring Your Own Device), Number Porting (transfer existing number), Online Activation required for all SIM cards.
