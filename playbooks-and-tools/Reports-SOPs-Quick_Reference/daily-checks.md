@@ -25,8 +25,9 @@ I have completed the morning checklist. Will proceed to the next tasks.
 
 *Morning Operational Checks:*
 
-- ✅ Ensured all listings are in good standing with the Buy Box present and checked for suppressed listings.
-- ✅ Reviewed all buyer messages, customer complaints, inquiries, and negative reviews.
+✅ Amazon: Ensured all listings are in good standing with the Buy Box present and checked for suppressed listings.
+✅ Amazon: Reviewed all buyer messages, customer complaints, inquiries, and negative reviews.
+✅ eBay: Performed the daily STK eBay Health & Operations Audit. This includes a full review of our account health, customer messages, open cases, and FBM inventory levels.
 ```
 
 ## Evening Checklist Template
