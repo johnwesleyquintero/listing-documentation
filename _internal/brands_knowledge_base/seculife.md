@@ -153,3 +153,53 @@ Check TMOB international roaming plans here: [https://www.t-mobile.com/cell-phon
 3.  Click SAVE button and enter the fence name (such as Home, Doctor's Office, Park, etc)
 
 **Please note:** The recommended GPS Radius is 1000 feet or higher to reduce false alerts. You can set up multiple Geofence locations as needed.
+
+### Devices Features
+
+#### Key Device Operations
+
+**SOS Alarm Function:**
+
+*   Press SOS button for 3-4 seconds until voice prompt
+*   Device sends text alert to emergency contacts
+*   Device calls SOS numbers in sequence
+*   If first number doesn't answer, calls second after 10-second delay
+*   User can stop call sequence by pressing SOS button
+
+**Making a Phone Call:**
+
+*   Press Call button for 3 seconds until beep
+*   Device calls the second number in phonebook
+*   End call by pressing SOS button
+
+**Silent Mode:**
+
+*   Double-click side button to disable voice warnings
+*   Double-click again to enable voice warnings
+
+**Powering Off:**
+
+*   Press and hold side button AND SOS button together for 3 seconds
+*   All LEDs will turn off
+
+#### LED Indicators:
+
+*   Green: Cellular signal
+*   Blue: GPS positioning
+*   Red (solid): Power
+*   Red (blinking): Low battery
+
+#### Troubleshooting Tips
+
+*   Device won't turn on: Charge for several hours
+*   App can't find device: Verify activation was completed and same email was used
+*   No GPS signal: Move to outdoor area with clear sky view
+*   Battery draining quickly: Increase tracking interval in settings
+*   False geo-fence alerts: Increase fence radius to at least 1000 feet
+
+#### IMPORTANT REMINDERS
+
+*   Set at least one SOS contact number
+*   Keep the device charged (you'll receive alerts when battery is below 20%)
+*   For plans with voice calling, ensure SOS numbers are correctly configured
+*   Avoid exposing the device to extreme temperatures (use between 41°F and 95°F)
