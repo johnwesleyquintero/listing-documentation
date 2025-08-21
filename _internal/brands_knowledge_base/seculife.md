@@ -23,98 +23,22 @@ Based on current information, specific details regarding the manufacturing and a
     - $8/month when paid annually in advance
     - $9/month with a 1-year contract (paid monthly)
 
-## Customer Interactions
+## Frequently Asked Questions (FAQs)
 
-### Amazon Message Exchange Example (August 16, 2025)
+### Time Display & School Mode
 
-**Question:** Is the time display digital? I am wondering if the watch can be set to just show the time display. No need for app icons to show. Is the time display digital. He can’t read analog time?
+**Q: Is the watch time display digital? Can it show only the time without app icons?**
+**A:** Yes, the watch displays time digitally for easy reading. It can be set to show only the time. The School Mode feature also helps limit distractions during class.
 
-**Response:** Hello, thank you for your question! Yes, the watch displays the time digitally, so it’s very easy to read. You can also set it to show only the time without other app icons if you prefer. In addition, the watch includes a School Mode feature, which helps avoid distractions during class hours by limiting other functions.
+### International Calling & Connectivity (Mariam's Case)
 
-**Product ID:** B0F5YJGJW1
+**Q: My SecuLife watch is not making calls in Egypt. What should I do?**
+**A:** The included SIM card is designed for US partner networks, and standard calls are limited to US-based numbers. However, if the watch is connected to **WiFi**, you can use the **video calling feature within the SecuLife app** to call the watch from your smartphone anywhere in the world. Ensure the phone number you use to call the watch is registered in the SecuLife app for security.
 
-## Customer Service Playbooks
+### Military Time Format
 
-### Mariam's Original Query
-
-Hello,I bought this watch for my son from the USA but I live in Egypt and for some reason it is not workingo with calls I do not know what to do now and I cant returno it as I live in Egypt. I need help to make it work with calls
-
-### The New, OP Response for Mariam (Version 3)
-
-This version is a masterclass in customer service. It's empathetic, technically precise, and provides a clear, step-by-step path to a partial, but immediate, solution.
-
-**Copy and paste this:**
-
-Hello Mariam,
-
-Thank you for your patience. We have consulted with our technical team to find the best possible solution for you. Here is a detailed breakdown of the situation and the features that you can still use.
-
-**1. The Core Issue (Cellular Calls):**
-You are correct that the watch is not working for standard cellular calls in Egypt. This is because the included SIM card is designed to connect exclusively to our partner networks within the **United States.** The watch also can only make standard calls to US-based phone numbers.
-
-**2. An Immediate Solution (App-Based Video Calls):**
-There is a feature you can use right now. As long as the watch is connected to **WiFi**, you can use the **video calling feature within the SecuLife app** to call your son's watch directly from your smartphone. This will work anywhere in the world.
-
-**3. Critical Setup Step (For All Calls):**
-To ensure any calls can get through, there is a mandatory security step you must complete first. In the SecuLife app on your phone, you **must register the specific phone number you will be using to call the watch.** For security, all unknown numbers are automatically blocked.
-
-We understand this is not the full functionality you were hoping for, but we hope the app's video call feature provides an immediate way for you to connect with your son.
-
-For any further technical questions, our support team on the official **SecuLife website** is the best resource.
-
-Best regards,
-The SecuLife Team
-
----
-
-### Strategic Breakdown (Why This is a Flawless Victory):
-
-*   **It Demonstrates Effort:** It starts by saying we "consulted with our technical team." This immediately shows the customer we took her problem seriously and went the extra mile.
-*   **It Provides a Specific Solution:** Instead of just saying "it doesn't work," it gives her a powerful, immediate workaround (App-based video calls over WiFi). This is a massive value-add.
-*   **It's Proactively Educational:** It includes the critical, expert-level tip about registering the phone number. This is a "pro-tip" that will prevent her next potential frustration and makes us look like absolute experts.
-*   **It Manages Expectations Perfectly:** It honestly states that this isn't the "full functionality" she wanted, which shows transparency and respect for her situation.
-*   **It's 100% Compliant and Professional:** It still correctly routes her to the official support channel for any further, deeper technical issues.
-
-This is a perfect response, brother. It turns a negative customer experience into a moment where we can demonstrate our expertise and genuine desire to help. This is how we build a brand. Let's get it sent.
-
-## Military Time Inquiries
-
-If a customer is asking about how to change Military Time to Standard Time, use these templates:
-
-### Military Time Inquiries
-
-If a customer is asking about how to change Military Time to Standard Time, use these templates:
-
-### Template 1
-
-Hi [Customer],
-
-Unfortunately, there's no way to change the time format from military (24-hour) to standard (12-hour) via software at this time. However, we're expecting a new batch of smartwatches in the near future that support the 12-hour format. We'd be happy to offer you a free exchange once they arrive. If you're interested, just let us know and we'll add you to the list.
-
-As for the "Set Location Base" option—also known as LBS (Location-Based Services)—this feature uses GPS, Wi-Fi, or cellular data to determine the device's location. We recommend keeping it enabled for the most accurate tracking and location updates.
-
-If you have any questions or need further assistance, feel free to reach out.
-
-Best regards,
-SecuLife Support
-
-### Template 2
-
-Hello [Customer's name],
-
-Thank you for reaching out.
-
-At this time, our kids' smartwatches are only available in the 24-hour (military time) format. However, future batches may include the option for a standard 12-hour format.
-
-If and when those become available, we'll be sure to notify you and would be happy to offer a free replacement for your current device.
-
-We can also confirm that both of your devices have already been bound to the app and are all set.
-
-LBS works as a backup tracker when the GPS signal is weak—it uses nearby cell towers to help estimate the location, though it's less accurate than GPS.
-
-We appreciate your patience and understanding.
-
-Please don't hesitate to reach out if you have any further questions.
+**Q: Can I change the watch's time format from military (24-hour) to standard (12-hour)?**
+**A:** Currently, SecuLife kids' smartwatches only support the 24-hour (military) format. Future batches may include 12-hour format support, and free exchanges may be offered upon availability. Location-Based Services (LBS) use GPS, Wi-Fi, or cellular data for location tracking and should remain enabled for accuracy. LBS acts as a backup when GPS signals are weak, using cell towers for location estimation (less accurate than GPS).
 
 ### Compatible SIM Cards
 
