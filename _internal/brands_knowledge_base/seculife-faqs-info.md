@@ -485,8 +485,148 @@ For additional assistance or questions, please contact our support team:
 *   Website: [www.support.seculife.us](http://www.support.seculife.us)
 
 Thank you for choosing SecuLife to help protect what matters most.
-
 Sincerely,
+SecuLife Support
+
+### SOS GPS Smartwatch
+
+**SecuLife SOS Smartwatch**
+
+**Summary of Setup**
+
+*   The SOS Smartwatch is a wearable tracking device with SOS features.
+*   It requires charging, SIM card insertion, and app setup before use.
+*   The watch includes an SOS button for emergencies.
+
+**Simple Setup Instructions**
+
+1.  **Charge the Smartwatch:**
+    *   Connect the charger to the back of the watch.
+    *   Charge for at least 2 hours before first use.
+
+2.  **Insert the SIM Card (Disregard if SIM Card already pre-installed):**
+    *   Open the SIM card slot on the side of the watch.
+    *   Insert a nano SIM card with a data plan.
+    *   Close the slot securely.
+
+3.  **Turn on the Smartwatch:**
+    *   Press and hold the power button for 5 seconds.
+    *   The screen will light up, and you will see the startup logo.
+
+4.  **Set Up the Watch in the SecuLife App:**
+    *   Download the SecuLife app on your phone.
+    *   Create an account and log in.
+    *   Add the smartwatch by entering its IMEI number (found on the device).
+
+5.  **Test the SOS Feature:**
+    *   Press and hold the SOS button for 3 seconds.
+    *   The watch will send an emergency alert to the registered phone number.
+
+**Email Template**
+
+"Don't forget to edit the required details"
+
+Dear [Customer's Name],
+
+Thank you for choosing the SecuLife SOS Smartwatch! Below are detailed setup instructions to get your device up and running.
+
+1.  **Charge the Smartwatch:**
+    *   Connect the charging cable to the back of the watch.
+    *   Plug into a power source and let it charge for at least 2 hours before first use.
+
+2.  **Insert the SIM Card (Disregard if SIM Card already pre-installed):**
+    *   Open the SIM card slot on the side of the watch.
+    *   Insert a nano SIM card with a data plan.
+    *   Close the slot securely.
+
+3.  **Turn on the Smartwatch:**
+    *   Press and hold the power button for 5 seconds.
+    *   The screen will light up with the startup logo, indicating that the device is on.
+
+4.  **Set Up the Watch in the SecuLife App:**
+    *   Download the SecuLife app from the App Store or Google Play.
+    *   Create an account and log in.
+    *   Enter your smartwatch's IMEI number (found on the device) to register it.
+
+5.  **Test the SOS Feature:**
+    *   Press and hold the SOS button for 3 seconds.
+    *   The watch will send an emergency alert to the registered phone number.
+
+If you need any help with the setup, feel free to contact our support team.
+
+Best regards,
+SecuLife Customer Support
+
+### GL310 Asset and Vehicle Tracker
+
+**SecuLife GL310 Tracker**
+
+**Summary of Setup**
+
+*   The GL310 Tracker is a GPS tracking device designed for real-time location tracking.
+*   It requires a SIM card, charging, and app activation before use.
+*   The device has LED indicators that show power, GPS signal, and network connection.
+
+**Simple Setup Instructions**
+
+1.  **Charge the Device:**
+    *   Plug the device into a power source using the provided USB cable.
+    *   Charge for at least 2 hours before first use.
+
+2.  **Insert the SIM Card (Disregard if SIM Card already pre-installed):**
+    *   Open the SIM card slot.
+    *   Insert a nano SIM card with an active data plan.
+    *   Close the SIM card slot securely.
+
+3.  **Turn on the Device:**
+    *   Press and hold the power button for 3 seconds until the LED lights turn on.
+    *   The LED lights will flash in different colors indicating the device's status:
+        *   **Green Light:** Power On
+        *   **Blue Light:** GPS Signal Searching
+        *   **Red Light:** Charging
+
+4.  **Connect to the SecuLife App:**
+    *   Download the SecuLife app from the App Store or Google Play.
+    *   Create an account and log in.
+    *   Follow the on-screen instructions to add the device by entering the IMEI number (found on the tracker).
+
+5.  **Test the Device:**
+    *   Take the device outdoors to ensure a strong GPS signal.
+    *   Check the app to confirm the location updates.
+
+**Email Template**
+
+"Don't forget to edit the required details"
+
+Dear [Customer's Name],
+
+Thank you for choosing the SecuLife GL310 Tracker! To help you get started, please follow these step-by-step setup instructions carefully.
+
+1.  **Charge the Device:**
+    *   Plug the tracker into a power source using the provided USB cable.
+    *   Charge for at least 2 hours before first use.
+    *   While charging, the red LED light will be on.
+
+2.  **Insert the SIM Card (Disregard if SIM Card already pre-installed):**
+    *   Open the SIM card slot and insert a nano SIM card with an active data plan.
+    *   Close the SIM card slot securely.
+
+3.  **Turn on the Device:**
+    *   Press and hold the power button for 3 seconds until the LED lights turn on.
+    *   The green light indicates power is on, the blue light searches for GPS, and the red light shows charging status.
+
+4.  **Connect to the SecuLife App:**
+    *   Download the SecuLife app from the App Store or Google Play.
+    *   Create an account and log in.
+    *   Enter your device's IMEI number (found on the back of the tracker) to register it.
+
+5.  **Test the Device:**
+    *   Take the tracker outdoors to ensure a strong GPS signal.
+    *   Check the SecuLife app to verify that location updates are appearing.
+
+If you need any further assistance, feel free to reach out to our support team.
+
+Best regards,
 SecuLife Support
 
 ### GPS Wristband
