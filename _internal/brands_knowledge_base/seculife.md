@@ -7,11 +7,14 @@ Based on current information, specific details regarding the manufacturing and a
 ## Key Information
 
 - **Company Identity:** US-based company.
-- **Product Focus:** GPS tracking and safety alert devices for kids, seniors, and pets.
+- **Product Focus:** GPS tracking and safety alert devices for kids, seniors, and pets, vehicles & assets. <mcreference link="https://seculife.us/" index="1"></mcreference>
+- **Target Users:** Children, elderly, pets, and valuables/vehicles. <mcreference link="https://seculife.us/" index="1"></mcreference>
 - **Mission:** To provide safety, independence, and peace of mind through innovative products.
 - **Customer Support:** Offers 24/7 US-based customer support.
 - **Manufacturing/Assembly Location:** Products are made in China. This information was provided by Xavi, a key contact for SecuLife operations.
-- **Product Features:** Real-time GPS tracking, SOS alert monitoring, fall detection, geofencing, two-way communication, and mobile app integration.
+- **Product Features:** Real-time GPS tracking, SOS alert monitoring, fall detection (for seniors), geofencing (safe zones with instant notifications), two-way communication, mobile app integration, S7 Kids watch features (cellphone alternative, IP67 splash/dustproof, classroom mode, no unknown callers/internet/social media access). <mcreference link="https://seculife.us/" index="1"></mcreference>
+- **Why Choose SecuLife?** Transparent pricing (no hidden fees, free shipping, flexible plans), exceptional US-based customer support 7 days a week with live onboarding, risk-free purchase (15-day money-back guarantee, lifetime warranty), hassle-free experience (no credit checks, free mobile app, reliable monitoring coverage). <mcreference link="https://seculife.us/" index="1"></mcreference>
+- **Mobile App:** Available on Google Play Store. Users have reported issues with login (blank email/password fields) and app stability. <mcreference link="https://play.google.com/store/apps/details?id=com.dev_saar.appspec&hl=en_US" index="5"></mcreference>
 - **Service Plans:**
   - **Prime Plan:** 2GB data / Unlimited tracking / Unlimited talk
     - $13/month when paid annually in advance
