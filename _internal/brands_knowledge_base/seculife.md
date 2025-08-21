@@ -81,6 +81,10 @@ This is a perfect response, brother. It turns a negative customer experience int
 
 If a customer is asking about how to change Military Time to Standard Time, use these templates:
 
+### Military Time Inquiries
+
+If a customer is asking about how to change Military Time to Standard Time, use these templates:
+
 ### Template 1
 
 Hi [Customer],
@@ -111,3 +115,41 @@ LBS works as a backup tracker when the GPS signal is weak—it uses nearby cell 
 We appreciate your patience and understanding.
 
 Please don't hesitate to reach out if you have any further questions.
+
+### Compatible SIM Cards
+
+#### Device Compatibility & Carrier Info
+
+| Device        | TMOB | ATT | PWG |
+|---------------|------|-----|-----|
+| S4            | ✓    | ✓   | ✓   |
+| S7            | ✓    | ✓   | ✓   |
+| S11           | ✓    |     | ✓   |
+| SOS WRISTBAND | ✓    | X   | ✓   |
+| SMARTWATCH    | ✓    | X   | ✓   |
+| KIDS SMARTWATCH | ✓    | X   | X   |
+| OBD JM        | ✓    | ✓   | ✓   |
+| GL320         | ✓    | X   | X   |
+| SL01          | ✓    | X   | X   |
+
+*Note: OBD JM is not usable in Mexico with TMOB.*
+
+#### Carrier International Usage
+
+| Carrier | International Support |
+|---------|-----------------------|
+| PWG     | MEX for 30 days, then $5 add-on |
+| TMOB    | 200+ countries with $5 add-on |
+| ATT     | US only |
+
+Check TMOB international roaming plans here: [https://www.t-mobile.com/cell-phone-plans/international-roaming-plans](https://www.t-mobile.com/cell-phone-plans/international-roaming-plans)
+
+### Geofencing Steps
+
+#### How to set up geofence:
+
+1.  Via SecuLife Mobile App, from the device details page, click "Add fence"
+2.  Click on NEW FENCE button then set a perimeter on the map. Click to place points around the perimeter of the area you want to monitor.
+3.  Click SAVE button and enter the fence name (such as Home, Doctor's Office, Park, etc)
+
+**Please note:** The recommended GPS Radius is 1000 feet or higher to reduce false alerts. You can set up multiple Geofence locations as needed.
