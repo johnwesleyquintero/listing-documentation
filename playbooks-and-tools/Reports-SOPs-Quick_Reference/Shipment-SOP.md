@@ -34,6 +34,17 @@ To create and document FBA (Fulfillment by Amazon) shipments in a standardized m
 1.  Take a screenshot of the finalized shipment for internal records.
 2.  The screenshot file must be named: `Cover FBA SLXXX`.
 
+**Document Naming Convention**
+```
+Shipping label FBA SLXXX
+```
+```
+Barcode FBA SLXXX
+```
+```
+Cover FBA SLXXX
+```
+
 ---
 
 ### **4. Internal Communication & Tracking**
@@ -63,14 +74,3 @@ To create and document FBA (Fulfillment by Amazon) shipments in a standardized m
 *   Visual confirmation of the "ecom tool" portal interface.
 
 ---
-
-**Document Naming Convention**
-```
-Shipping label FBA SLXXX
-```
-```
-Barcode FBA SLXXX
-```
-```
-Cover FBA SLXXX
-```
