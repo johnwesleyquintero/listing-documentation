@@ -178,9 +178,22 @@ javier.garcia@speedtalkmobile.com
 Shelley@noirincusa.com
 fernanda.cortes@speedtalkmobile.com
 ran.quinga@speedtalkmobile.com
-juan.manuel@seculife.us
+```
+---
+
+**Shipments**
+```
+shipping@speedtalkmobile.com
 ```
 
+```
+avi@mobilenetus.com
+anna@mobile-net.us
+javier.garcia@speedtalkmobile.com
+Shelley@noirincusa.com
+fernanda.cortes@speedtalkmobile.com
+ran.quinga@speedtalkmobile.com
+```
 ---
 
 **Monthly Sales Report**
@@ -238,6 +251,8 @@ All emails sent to the addresses listed above will be automatically forwarded to
 This setup ensures that correspondence for Jolt Mobile and Speedtalk Mobile is consolidated within the SecuLife email environment.
 
 ---
+
+
 
 
 
