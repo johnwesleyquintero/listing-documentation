@@ -53,6 +53,24 @@ The A+ content focuses on peace of mind and highlights key hardware and service 
 
 *   **[To be completed]**
 
+## 7. Listing Health & Performance Data
+
+*   **Current Status:** Subject to Relaunch due to At Risk of Listing
+*   **ASIN:** B0CLMDVZR3
+*   **FNSKU:** X0040JQUXJ
+*   **SKU:** FBA-SL-SOS-SWSr
+*   **Total Orders:** 11
+*   **NCX Orders:** 1
+*   **NCX Rate:** 9.09%
+*   **Return Rate:** 21.81%
+*   **Star Rating:** 2.8 (from Critical Analysis & Observations)
+*   **Last Updated:** 2025-08-22
+*   **CX Health:** Excellent
+*   **Return Badge Displayed:** At risk
+*   **Short Term Return Rate (Last 3 months):** 16.47%
+*   **Long Term Return Rate (Last 12 months):** 21.81%
+*   **Suggested Long Term Return Rate (to avoid frequently returned badge):** < 9.77%
+
 ## 6. Backend Data & Notes
 
 *   **Technical Specifications:**
