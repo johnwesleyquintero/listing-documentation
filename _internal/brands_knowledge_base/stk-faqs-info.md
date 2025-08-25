@@ -11,7 +11,6 @@ This document will serve as a knowledge base for STK (Speedtalk Mobile) related 
 **Customer's initial message:** "Why would I need further assistance I just told u it all"
 
 **Avi's Response:**
-```
 Hello Angela,
 We're very sorry for the inconvenience you've experienced.
 To better assist you and provide the proper support, please contact our Customer Service team directly through our official Speedtalk Mobile website.
@@ -51,3 +50,7 @@ Thank you.
 
 Best regards,
 The SpeedTalk Mobile Team
+```
+
+## SpeedTalk Return Disclaimer on the FAQ:
+Refunds will be issued within 14 days of SIM card activation. No refund will be issued after consuming **30 minutes or 15 text, or 30MB** or any combination of the said plan. The SIM card is purchased on SpeedTalk Mobile store on Amazon, SpeedTalk Mobile reserves all rights and terms & condition on the SIM card service.

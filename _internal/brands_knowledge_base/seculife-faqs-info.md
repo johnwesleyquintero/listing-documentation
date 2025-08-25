@@ -223,6 +223,10 @@ Best regards,
 
 The SecuLife Team
 
+## SecuLife Return Disclaimer on the FAQ:
+Refunds will be issued within 14 days of device activation. The device is purchased on SecuLife store on Amazon, SecuLife reserves all rights and terms & condition on the device.
+A cancellation fee of up-to $175, applies for subscription cancellation requests after the 14-day device activation for annual-contract plans.
+
 ## Replacements and Troubleshooting Guide
 
 ### Send Updates in WhatsApp first:
