@@ -54,3 +54,16 @@ The SpeedTalk Mobile Team
 
 ## SpeedTalk Return Disclaimer on the FAQ:
 Refunds will be issued within 14 days of SIM card activation. No refund will be issued after consuming **30 minutes or 15 text, or 30MB** or any combination of the said plan. The SIM card is purchased on SpeedTalk Mobile store on Amazon, SpeedTalk Mobile reserves all rights and terms & condition on the SIM card service.
+
+## Helpful Notes from Avi
+
+### General Information
+
+**Helpful Note:**
+After SIM activation, it may take up to 24 hours for the GPRS and data settings to sync and update with your device. Make sure to turn on your device in an area with good reception
+
+2G & 3G services might not be available in all areas due to carrier Decommissioning/ shutdown of these frequencies, SpeedTalk Mobile recommends using 5G 4G LTE or newer devices for better service. Existing SpeedTalk customers who are using the service on their 2G or 3G device, can continue purchase SpeedTalk products to refills/reup their existing accounts.
+
+SpeedTalk Mobile offers its services through **No Contract, Cancel Anytime** subscription plans which auto-renew every 30 days. Plan begins as soon as you activate your service. You'll be charged the rate stated at the time of purchase, every month, until you cancel. Cancellations can be made any time by contacting support. A valid credit card is required at activation
+
+All sales are final after 14 days of your first month plan cycle or after consuming 30 minutes, 30 text, or 30MB of data of the said plan.
