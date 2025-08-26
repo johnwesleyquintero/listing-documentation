@@ -14,7 +14,7 @@ This document provides a comprehensive overview and analysis of the Amazon listi
 
 ## 2. Pricing Structure (Relaunch Draft)
 
-*   **Proposed Relaunch Price:** $39.00 (Device) + Monthly Service Plan (Starting at $20/month)
+*   **Proposed Relaunch Price:** $39.00 (Device) + Required Monthly Service Plan (Starting at $20/month, billed annually). See details below.
 *   **FBA Fees:** (To be re-evaluated for new ASIN)
 *   **Referral Fee:** (To be re-evaluated for new ASIN)
 *   **Total Amazon Fees:** (To be re-evaluated for new ASIN)
@@ -23,10 +23,10 @@ This document provides a comprehensive overview and analysis of the Amazon listi
 ## 3. Listing Bullet Points (Relaunch Draft)
 
 *   **INSTANT SAFETY & COMMUNICATION:** Empower seniors with a simple one-touch SOS button to instantly connect with family or emergency contacts via a clear two-way speakerphone. (No more fumbling with complex phones!)
-*   **RELIABLE GPS TRACKING (MONTHLY SERVICE REQUIRED):** Ensure peace of mind with accurate, real-time GPS tracking. Our affordable monthly service plan includes a pre-installed SIM, unlimited talk, fall alerts, geofencing, and 24/7 live U.S.-based support. (Plans starting at $20/month with annual billing).
-*   **DESIGNED FOR SENIORS:** Lightweight (58g), comfortable, and water-resistant (IP67). Features an auto-answer speakerphone for caregivers to check-in, even if your loved one can't answer. (USB-C Charger not included - requires a standard USB-C charger, sold separately).
+*   **RELIABLE GPS TRACKING (MONTHLY SERVICE REQUIRED):** Ensure peace of mind with accurate, real-time GPS tracking. Our affordable, required monthly service plan includes a pre-installed SIM, unlimited talk, fall alerts, geofencing, and 24/7 live U.S.-based support. (Plans starting at $20/month with annual billing. Activate easily after purchase.)
+*   **DESIGNED FOR SENIORS:** Lightweight (58g), comfortable, and water-resistant (IP67). Features an auto-answer speakerphone for caregivers to check-in, even if your loved one can't answer. (Note: USB-C Charger not included; requires a standard USB-C charger, sold separately or commonly available.)
 *   **EASY TO USE MOBILE APP:** Monitor locations, set safe zones (geofencing), and receive smart alerts on your smartphone or computer. Stay connected and informed effortlessly.
-*   **PREMIUM SUPPORT & PEACE OF MIND:** Access unlimited, live U.S.-based customer care 7 days a week. We're here to help with activation, technical support, and any questions, ensuring your loved one's safety is always the top priority.
+*   **PREMIUM SUPPORT & PEACE OF MIND:** Access unlimited, live U.S.-based customer care 7 days a week for activation, technical support, and any questions, ensuring your loved one's safety is always the top priority. (Contact us through Amazon for assistance.)
 
 ## 4. A+ Content Breakdown
 
@@ -39,6 +39,7 @@ The A+ content focuses on peace of mind and highlights key hardware and service 
 *   **Module 5 (Dimensions):** Visual diagram showing the device dimensions (`40.8mm x 58.2mm`) and weight (`58 grams`).
 *   **Module 6 (4-Panel):** Highlights `Reliable GPS Tracking`, `Small & Lightweight`, `Live Support`, and `SOS Emergency Alert Button & 2 Way Calling`.
 *   **Module 7 (From the Brand):** Premium A+ module showing a support agent and cross-selling other SecuLife products.
+*   **Module 8 (FAQ Section):** A concise FAQ addressing common concerns like subscription activation, charger compatibility, and return policy within Amazon's guidelines.
 
 ## 4. Consolidated Action Plan: SecuLife Guardian SOS Smartwatch Relaunch
 
@@ -72,4 +73,3 @@ Based on the critical issues identified and the recommended solutions, here's a 
 4.  **Redesign A+ Content:**
     *   **Action:** Prioritize trust and transparency. Use visual storytelling, dedicate modules to features, service plan details, customer support, warranty, and a concise FAQ addressing common concerns (subscription, charger, cancellation).
     *   **Principle:** Visual Clarity & Proactive Issue Resolution.
-5
