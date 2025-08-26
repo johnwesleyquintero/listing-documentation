@@ -9,7 +9,7 @@ This document provides a comprehensive overview and analysis of the Amazon listi
 | **Brand**        | SecuLife                                                                                         |
 *   **Product Name** | SecuLife Guardian SOS Smartwatch: GPS Tracker for Seniors, Fall Detection, Two-Way Calling, Water-Resistant (Relaunch Version)
 | **ASIN**         | `B0FNQKVN8F`
-| **Item Model #** | `850047635514`                                                                                   |
+| **UPC** | `850077248085`                                                                                   |
 | **Amazon Link**  | [https://www.amazon.com/dp/B0FNQKVN8F](https://www.amazon.com/dp/B0FNQKVN8F)                     |
 
 ## 2. Pricing Structure (Relaunch Draft)
