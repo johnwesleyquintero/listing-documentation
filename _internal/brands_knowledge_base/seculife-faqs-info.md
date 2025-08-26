@@ -122,6 +122,7 @@ Check TMOB international roaming plans here: Please visit the T-Mobile website f
 
 #### Troubleshooting Tips
 
+
 *   Device won't turn on: Charge for several hours
 *   App can't find device: Verify activation was completed and same email was used
 *   No GPS signal: Move to outdoor area with clear sky view
@@ -1118,3 +1119,7 @@ Thank you for choosing SecuLife S4 Kids Tracker! This comprehensive guide will h
 Best regards,
 
 The SecuLife Team
+
+## Helpful Notes from Avi
+
+- Please do not change any more pricing on any and all sexual life items. Let's keep all the prices as is.
