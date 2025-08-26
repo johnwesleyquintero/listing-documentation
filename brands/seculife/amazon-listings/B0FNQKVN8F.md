@@ -14,7 +14,7 @@ This document provides a comprehensive overview and analysis of the Amazon listi
 
 ## 2. Pricing Structure (Relaunch Draft)
 
-*   **Proposed Relaunch Price:** $129.99 (Device) + Monthly Service Plan (Starting at $20/month)
+*   **Proposed Relaunch Price:** $39.00 (Device) + Monthly Service Plan (Starting at $20/month)
 *   **FBA Fees:** (To be re-evaluated for new ASIN)
 *   **Referral Fee:** (To be re-evaluated for new ASIN)
 *   **Total Amazon Fees:** (To be re-evaluated for new ASIN)
