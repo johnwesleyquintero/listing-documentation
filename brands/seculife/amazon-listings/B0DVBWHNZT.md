@@ -76,7 +76,6 @@ This template provides a comprehensive structure for documenting the Amazon prod
 *   `fall detection for seniors ring`
 
 ***
-
 Recommendations:
 
 *Generic Keywords:*
