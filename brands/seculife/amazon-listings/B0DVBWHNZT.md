@@ -75,9 +75,11 @@ This template provides a comprehensive structure for documenting the Amazon prod
 *   `fall detection for seniors app`
 *   `fall detection for seniors ring`
 
+***
+
 Recommendations:
 
 *Generic Keywords:*
-````
+```
 medical alert system senior fall detection gps tracker sos button emergency device wearable speakerphone two way talk caregiver support health monitoring geofencing waterproof panic bracelet watch wrist app location ring wifi go
 ```
