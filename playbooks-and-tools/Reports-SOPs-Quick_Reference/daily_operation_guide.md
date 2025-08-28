@@ -102,12 +102,13 @@ Hi @
 
 I have sent the Inventory and Sales Report via email. Will proceed to Daily KPI.
 ```
+
 ***Daily KPI Frequency:*** **Daily**
 ```
 Hi @  
 
 I've attached the Daily KPI Report for Seculife and STK and sent it via email. Will proceed to morning checks.
-``
+```
 ***Frequency:*** **Tuesday**
 ```
 Hi @  I just sent you an email with the Yesterday and Last 30 Days Returns Report for SecuLife Inc and Speedtalk.
@@ -257,6 +258,7 @@ All emails sent to the addresses listed above will be automatically forwarded to
 This setup ensures that correspondence for Jolt Mobile and Speedtalk Mobile is consolidated within the SecuLife email environment.
 
 ---
+
 
 
 
