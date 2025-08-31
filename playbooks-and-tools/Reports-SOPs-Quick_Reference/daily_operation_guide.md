@@ -188,6 +188,20 @@ ran.quinga@speedtalkmobile.com
 ```
 ---
 
+**GTIN Request**
+```
+javier.garcia@speedtalkmobile.com
+```
+
+```
+anna@mobile-net.us
+avi@mobilenetus.com
+Shelley@noirincusa.com
+fernanda.cortes@speedtalkmobile.com
+ran.quinga@speedtalkmobile.com
+```
+---
+
 **Shipments**
 ```
 shipping@speedtalkmobile.com
@@ -258,6 +272,7 @@ All emails sent to the addresses listed above will be automatically forwarded to
 This setup ensures that correspondence for Jolt Mobile and Speedtalk Mobile is consolidated within the SecuLife email environment.
 
 ---
+
 
 
 
