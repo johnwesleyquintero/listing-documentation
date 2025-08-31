@@ -67,3 +67,39 @@ After SIM activation, it may take up to 24 hours for the GPRS and data settings 
 SpeedTalk Mobile offers its services through **No Contract, Cancel Anytime** subscription plans which auto-renew every 30 days. Plan begins as soon as you activate your service. You'll be charged the rate stated at the time of purchase, every month, until you cancel. Cancellations can be made any time by contacting support. A valid credit card is required at activation
 
 All sales are final after 14 days of your first month plan cycle or after consuming 30 minutes, 30 text, or 30MB of data of the said plan.
+
+## Broadband Devices
+
+SpeedTalk offers customizable Broadband Plans for your home or business MiFi, 5G 4G LTE Modem, Hotspot, Laptops or Tablets with the most affordable 30-day plans. Cancel anytime*, no contracts, no penalties.
+
+- You have the choice to enroll into our overages auto refill at $5 per 1GB (USA Domestic data) after you consume the data on your current plan.
+- You can use as much data as you need for as long as you want. If you exceeded your data plan, 1GB of data will be added at the same basic rate of $5 to cover for overages.
+- Overages/Additional Data add-ons purchased will only be available to use during the current plan cycle, any unused data from the data add-ons will not rollover to next month.
+
+1GB USA Domestic DATA or equivalent International Roaming DATA Rates. If you use the service while traveling to any of the International Roaming Countries we support, then International Roaming rates will apply.
+
+OEM's, Manufacturer, Enterprise, Corporate and Affiliate Accounts are available. Our online account management portal and API's help you manage multiple SIM cards within a single account and under one main airtime balance.
+
+*SIM card APN setup in your device is still required.*
+
+## Key Service Policies
+
+### International Roaming: Not Supported
+- **Official Policy:** SpeedTalk Mobile service is designed exclusively for use within the United States. Our SIM cards will not work in Spain, Canada, Mexico, or any other country.
+- **Customer Communication:** When asked about international use, the answer must be a clear and direct "No." Explain that the service is for the US network only. Do NOT provide links or direct contact information for the main website, per Amazon's ToS.
+
+### Customer Service Response Template (International Use Query)
+
+**Scenario:** A customer on Amazon asks if the SIM card can be used in a foreign country (e.g., "Will this work in Spain?").
+
+**Compliant Response:**
+> Hi [Customer Name],
+>
+> Thank you for your excellent question. To answer it directly, our SpeedTalk Mobile service is designed exclusively for use within the United States at this time. Therefore, this SIM card will not work in Spain.
+>
+> The plan included with this Starter Kit provides reliable talk, text, and data service across our nationwide US network.
+>
+> We hope this helps clarify things for you. Please let us know if you have any other questions.
+>
+> Best regards,
+> The SpeedTalk Mobile Team
