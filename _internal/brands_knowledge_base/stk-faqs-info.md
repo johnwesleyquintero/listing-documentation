@@ -125,3 +125,6 @@ OEM's, Manufacturer, Enterprise, Corporate and Affiliate Accounts are available.
 
 - **Q: My watch is not 4G network VoLTE function compatible with SpeedTalk SIM card. Is SpeedTalk Mobile compatible with VoLTE smartwatches?**
   - **A:** SpeedTalk Mobile utilizes the T-Mobile network and is compatible with 5G/4G LTE devices. This includes smartwatches that are unlocked and support 4G LTE and VoLTE (Voice over LTE) functions. Ensure your smartwatch is unlocked and operates on compatible frequencies for optimal service.
+
+- **Q: Can the watch take videos in addition to pictures?**
+  - **A:** The watch can take photos, but it does not record videos. However, it does support video calls, allowing for real-time visual communication.
