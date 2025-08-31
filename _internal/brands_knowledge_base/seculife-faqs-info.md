@@ -246,8 +246,16 @@ A cancellation fee of up-to $175, applies for subscription cancellation requests
 6.  Check in IOT to see if Cx's trying to use the device within the US. We could also probe where are they trying to use it.
 7.  If battery problems, Probe: if charging indicator is visible, blinking
 8.  If totally NO Signal:
-    A. Ask where Cx is located?
-    B. Check Coverage
+     A. Ask where Cx is located?
+     B. Check Coverage
+
+### Refund and Cancellation Policy
+
+- **Q: I was charged a $25 activation fee and canceled my service. Will I get a refund?**
+  - **A:** The $25 charge is your first month's subscription fee. If you canceled within the 15-day risk-free trial period, this amount is fully refundable. Once we receive your returned watch and Amazon confirms the return, your refund will be processed. This typically takes up to 10 business days to appear on your statement.
+
+- **Q: What is the policy for refunds after returning a device?**
+  - **A:** We process refunds for the initial subscription fee (e.g., $25) once the returned device is received and confirmed to be in good condition, and Amazon has confirmed the return. Refunds are issued for cancellations within the 15-day risk-free trial. Please allow up to 10 business days for the refund to appear on your statement after Amazon's confirmation.
     C. Reprovision Line
     D. Ask Cx to Reboot the device
 
