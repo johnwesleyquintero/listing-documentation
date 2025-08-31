@@ -47,6 +47,11 @@ Based on current information, specific details regarding the manufacturing and a
 **Q: Can I change the watch's time format from military (24-hour) to standard (12-hour)?**
 **A:** Currently, SecuLife kids' smartwatches only support the 24-hour (military) format. Future batches may include 12-hour format support, and free exchanges may be offered upon availability. Location-Based Services (LBS) use GPS, Wi-Fi, or cellular data for location tracking and should remain enabled for accuracy. LBS acts as a backup when GPS signals are weak, using cell towers for location estimation (less accurate than GPS).
 
+### Watch Camera & Video Call Capabilities
+
+**Q: Does the watch have camera and video capabilities? Can it make video calls?**
+**A:** Yes, the watch can take photos. While it does not support video recording, it is equipped for video calls. You can make video calls through the dedicated app when the watch is connected to a network.
+
 ### Compatible SIM Cards
 
 #### Device Compatibility & Carrier Info
@@ -86,6 +91,9 @@ Check TMOB international roaming plans here: Please visit the T-Mobile website f
 **Please note:** The recommended GPS Radius is 1000 feet or higher to reduce false alerts. You can set up multiple Geofence locations as needed.
 
 ### Devices Features
+
+**Q: How long does the battery last on the SecuLife watch?**
+**A:** The device comes with a built-in 850 mAh battery that can last for more than 24 hours. Battery life may vary depending on the tracking interval you set. To extend usage time, we recommend setting the tracking interval to 15, 30, or even 60 minutes. This helps conserve battery while still providing reliable tracking.
 
 #### Key Device Operations
 
