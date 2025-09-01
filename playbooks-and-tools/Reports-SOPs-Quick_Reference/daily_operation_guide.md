@@ -95,25 +95,33 @@ This section details the routine communication protocols, including templates fo
 ### 3.1. WhatsApp Templates
 
 Use the following templates for daily and weekly WhatsApp communications to ensure consistency and clarity.
-
+---
 ***Inventory Report Frequency:*** **Daily**
 ```
 Hi @  
 
 I have sent the Inventory and Sales Report via email. Will proceed to Daily KPI.
 ```
-
+---
 ***Daily KPI Frequency:*** **Daily**
 ```
 Hi @  
 
 I've attached the Daily KPI Report for Seculife and STK and sent it via email. Will proceed to morning checks.
 ```
+---
+***Daily Checks Frequency:*** **Daily**
+```
+Hi @  
+
+I've attached the Daily Checks: Morning Report. Will proceed to pending slack tasks.
+```
+---
 ***Frequency:*** **Tuesday**
 ```
 Hi @  I just sent you an email with the Yesterday and Last 30 Days Returns Report for SecuLife Inc and Speedtalk.
 ```
-
+---
 ***Frequency:*** **Wednesday**
 ```
 Hi @ @
@@ -272,6 +280,7 @@ All emails sent to the addresses listed above will be automatically forwarded to
 This setup ensures that correspondence for Jolt Mobile and Speedtalk Mobile is consolidated within the SecuLife email environment.
 
 ---
+
 
 
 
