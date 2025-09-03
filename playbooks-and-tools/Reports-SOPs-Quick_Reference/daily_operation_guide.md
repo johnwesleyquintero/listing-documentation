@@ -26,7 +26,6 @@ TIME IN: 8:30 AM PST | VAX PH | Working on Stores
 5:00 PM PST | VAX PH | Working on Store
 TIME OUT: 5:30 PM PST | VAX PH | Working on Store | EOD:
 ```
-```
 ---
 ## 2. Timezone Reference
 
@@ -53,7 +52,6 @@ This table provides a quick reference for converting between Philippine Time (PH
 | 7:30 AM     | 4:30 PM     | Working on Store    |
 | 8:00 AM     | 5:00 PM     | Working on Store    |
 | 8:30 AM     | 5:30 PM     | Working on Store    |
----
 
 ## 3. Communication Routine
 
@@ -95,9 +93,6 @@ Hi @ @
 
 I have completed the weekly recalled/removal order for SecuLife and STK.
 ```
-
-
----
 
 ### 3.2. Email Templates
 
@@ -143,8 +138,6 @@ Best regards,
 Wesley Quintero
 ```
 
----
-
 ## 4. Email Distribution Lists for Reports
 
 When sending the daily, monthly, or KPI reports, ensure the appropriate distribution lists are CC'd as specified below.
@@ -162,25 +155,16 @@ benedict.mendoza@speedtalkmobile.com
 ```
 
 **GTIN Request**
-```
 javier.garcia@speedtalkmobile.com
-```
-
-```
 anna@mobile-net.us
 avi@mobilenetus.com
 Shelley@noirincusa.com
 fernanda.cortes@speedtalkmobile.com
 ran.quinga@speedtalkmobile.com
 ```
----
 
 **Shipments**
-```
 shipping@speedtalkmobile.com
-```
-
-```
 avi@mobilenetus.com
 anna@mobile-net.us
 javier.garcia@speedtalkmobile.com
@@ -188,20 +172,14 @@ Shelley@noirincusa.com
 fernanda.cortes@speedtalkmobile.com
 ran.quinga@speedtalkmobile.com
 ```
----
 
 **Monthly Sales Report**
-```
 jennice@mobile-net.us
 javier.garcia@speedtalkmobile.com
-```
-```
 billing@mobilenetus.com
 avi@mobilenetus.com
 anna@mobile-net.us
 ```
-
----
 
 ## 5. Azure Server Access Protocol
 
@@ -210,12 +188,10 @@ Azure provides virtual desktop environments for accessing specific store systems
 *   **Access Restriction:** Always access the Amazon store from its dedicated virtual computer. Do NOT access the SpeedTalk Amazon store from the SecuLife Azure computer, and vice versa.
 *   **Login:** Use the provided credentials to log into the appropriate virtual desktop.
 
-Azure offers virtual computers that we use to access each of our stores' computers. Since we have several stores, you must access the Amazon store from its related virtual computer. Please do not access SpeedTalk Amazon store from SecuLife Azure computer and vice versa.
+
 
 ### 5.1. Azure Access Link
 [Azure Virtual Desktop](https://client.wvd.microsoft.com/arm/webclient/index.html)
-
----
 
 ## 6. Email Distribution Group Setup
 
@@ -223,15 +199,11 @@ This section details the configuration of email distribution groups designed to 
 
 **Date:** August 13, 2025
 **Source:** Anna
-**Purpose:** To centralize email communications from multiple brands into a single primary inbox for streamlined management.
-
----
+**Purpose: To centralize email communications from multiple brands into a single primary inbox for streamlined management.
 
 ### 6.1. Configuration Details
 
 The following distribution groups have been established to consolidate email correspondence:
-
-The following distribution groups have been created:
 
 *   `john.wesley.quintero@joltmobile.com`
 *   `john.wesley.quintero@speedtalkmobile.com`
@@ -243,8 +215,6 @@ All emails sent to the addresses listed above will be automatically forwarded to
 ---
 
 This setup ensures that correspondence for Jolt Mobile and Speedtalk Mobile is consolidated within the SecuLife email environment.
-
----
 
 
 
