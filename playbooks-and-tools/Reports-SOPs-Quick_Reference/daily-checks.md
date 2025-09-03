@@ -1,39 +1,80 @@
-# Daily Operational Workflow Checklist (SOP)
+# **Ops Comms Framework (v1.0)**
 
-**Objective:** To provide a reusable checklist for daily operational health checks, based on Avi's prioritized workflow.
+*Standardized reporting templates for daily operations, mid-shift updates, and escalations.*
 
+## 1. `EOD-vFinal`
 
-## Daily Operational Checklist (SOP)
-
-*   **Instructions:** This checklist outlines the daily operational health checks.
-
-
-
-**Priority Pre-Task Checks:**
-- ✅ Complete Morning Checklist
-
-**End-of-Day Checks:**
-- ✅ Complete Evening Checklist
-
-
-## Morning Checklist Template
+**Purpose:** Full end-of-day report to Avi with consolidated tasks, links, and professional polish.
+**Format:**
 
 ```
-Hi @ @,
+Hi Avi, here is my EOD report for today, [Date].
 
-I have completed the morning checklist. Will proceed to the next tasks.
+✅ *Completed Tasks*
 
-*Morning Operational Checks:*
+➡️ *[Task Name / Project]*
+*Status:* Done / Done – Changes Reflected
+*Description:* [detailed but concise description]
+*Links:*
+`https://www.amazon.com/dp/ASIN`
+`https://www.amazon.com/dp/ASIN`
 
-✅ Amazon: Ensured all listings are in good standing with the Buy Box present and checked for suppressed listings.
-✅ Amazon: Reviewed all buyer messages, customer complaints, inquiries, and negative reviews.
-✅ eBay: Performed the daily STK eBay Health & Operations Audit. This includes a full review of our account health, customer messages, open cases, and FBM inventory levels.
+🚫 *Blocked*
+
+➡️ *[Task Name / Project]*
+*Status:* Blocked by [reason]
+*Description:* [short explanation]
+*Links:*
+`https://www.amazon.com/dp/ASIN`
 ```
 
-## Evening Checklist Template
+---
+
+## 2. `EOD-Checkpoint`
+
+**Purpose:** Quick tactical updates during the day (morning health check, mid-shift wins).
+**Format:**
 
 ```
-*Evening Operational Checks:*
-- ✅ Ensured all listings are in good standing with the Buy Box present and checked for suppressed listings.
-- ✅ Reviewed all buyer messages, customer complaints, inquiries, and negative reviews.
+Hi Avi, quick update as of [Time/Date]:
+
+✅ *Completed / Progress Update*
+
+➡️ *[Task Name]*
+*Status:* Done
+*Description:* [short summary]
+*Links:*
+`https://www.amazon.com/dp/ASIN`
+
+⚡ *Checkpoint note:* Full EOD with consolidated links will follow at [usual time].
 ```
+
+---
+
+## 3. `Blocked-Alert`
+
+**Purpose:** Immediate escalation for tasks blocked by Amazon or dependencies.
+**Format:**
+
+```
+⚠️ *Blocked Task Alert*
+
+➡️ *[Task Name / Project]*
+*Status:* Blocked
+*Description:* [short explanation of issue]
+*Links:*
+`https://www.amazon.com/dp/ASIN`
+
+👉 *Next Step Needed:* [what we’re waiting on]
+```
+
+---
+
+✅ **Core Principles:**
+
+* Always include **ASIN links** (non-negotiable per Avi).
+* Keep reports **WhatsApp-ready**: scannable, concise, with proper emojis.
+* Maintain consistent formatting across all templates.
+
+---
+
