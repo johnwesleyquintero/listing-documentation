@@ -2,28 +2,44 @@
 
 ---
 
-`--- CONFIGURATION BLOCK (The Rules of the Game) ---`
+--- CONFIGURATION BLOCK (The Rules of the Game) ---
 
 *   **`REPORT_RECIPIENT`:** "Avi Yrosh"
 *   **`USER_NAME`:** "Wesley"
 *   **`REPORT_DATE`:** "Request_Input"
 *   **`INPUT_SOURCE`:** "A CSV export from a task management system, which may contain typos or text shortcodes."
-*   **`DATA_COLUMNS_TO_EXTRACT`:** ["Task", "Status", "Description", "Deadline", "ASIN", "Amazon Link"]
-*   **`AMAZON_LINK_FORMAT`:** `"https://www.amazon.com/dp/{ASIN}"`
+*   **`DATA_COLUMNS_TO_EXTRACT`:** ["Task", "Status", "Description", "Deadline", "ASIN", "WALMART_ID", "Amazon Link", "Walmart Link"]
+
+*   **`AMAZON_LINK_FORMAT`:**  
+    `"https://www.amazon.com/dp/{ASIN}"`
+
+*   **`WALMART_LINK_FORMAT`:**  
+    `"https://www.walmart.com/ip/{WALMART_ID}"`
+
 *   **`STATUS_KEYWORDS`:**
     *   `COMPLETED`: ["Done", "Done: Changes Reflected"]
     *   `IN_PROGRESS`: ["In-progress"]
     *   `PENDING_REFLECTION`: ["Waiting for approval", "Waiting amazon to be reflected"]
-*   **`GROUPING_LOGIC`:** "Group similar tasks (e.g., 'Apply New Price Cards') and consolidate their ASINs/Links into one entry."
-*   **`CLEANUP_POLICY`:** "**This is the most critical rule.** Before generating the final output, you must act as a master copy-editor and data processor.
-    1.  **`CRITICAL LINK GENERATION (Avi's Direct Order):`** For every task that contains one or more ASINs in its data:
-        a. Find every ASIN.
-        b. For each ASIN, construct the full, literal Amazon URL using the `AMAZON_LINK_FORMAT`.
-        c. Append all generated URLs under a clear "Links:" heading at the end of the task's description for immediate, one-click access.
-    2.  **Correct all spelling and grammar mistakes.**
-    3.  **Perform text replacements:** Find all instances of the text `:white_check_mark:` and **replace it with the actual emoji character '✅'.**
-    4.  **Ensure all text is professional and clearly formatted.**"
-*   **`TONE_OF_VOICE`:** "Professional and concise, using clean, scannable WhatsApp formatting."
+    *   `BLOCKED`: ["Blocked", "Blocked by Dependency"]
+
+*   **`GROUPING_LOGIC`:**  
+    "Group similar tasks (e.g., 'Apply New Price Cards') and consolidate their ASINs/Walmart IDs into one entry."
+
+*   **`CLEANUP_POLICY`:**  
+    **This is the most critical rule.** Before generating the final output, you must act as a master copy-editor and data processor.  
+    1.  **CRITICAL LINK GENERATION (Avi's Direct Order):**  
+        a. Find every ASIN and/or Walmart Item ID.  
+        b. For each ASIN, construct the full Amazon URL using `AMAZON_LINK_FORMAT`.  
+        c. For each Walmart Item ID, construct the full Walmart URL using `WALMART_LINK_FORMAT`.  
+        d. Append all generated URLs under a clear "Links:" heading at the end of the task's description.  
+    2.  Correct all spelling and grammar mistakes.  
+    3.  Perform text replacements: convert `:white_check_mark:` into ✅.  
+    4.  Ensure all text is professional and clearly formatted.  
+
+*   **`TONE_OF_VOICE`:**  
+    "Professional and concise, using clean, scannable WhatsApp formatting."
+
+
 
 `--- KNOWLEDGE BANK (The "Why") ---`
 
@@ -55,7 +71,7 @@ Analyze the provided Task Management CSV and generate a **consolidated, fully po
 Your final output must be a single block of text, ready to be copy-pasted directly into WhatsApp.
 
 ---
-Hi Avi, here is my EOD report for today, [Date].
+Hi @ @, here is my EOD report for today, [Date].
 
 ✅ *Completed Tasks*
 
@@ -71,3 +87,4 @@ Hi Avi, here is my EOD report for today, [Date].
 ---
 
 Please begin generating the polished, link-enhanced, and formatted EOD report now.
+
