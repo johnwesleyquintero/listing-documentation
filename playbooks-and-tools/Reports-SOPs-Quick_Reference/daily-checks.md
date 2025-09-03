@@ -1,8 +1,8 @@
-# **Ops Comms Framework (v1.0)**
+# Daily Operational Communication Templates
 
-*Standardized reporting templates for daily operations, mid-shift updates, and escalations.*
+*Standardized templates for daily operations, including end-of-day reports, mid-shift updates, and urgent escalations. Designed for clarity and efficiency.*
 
-## 1. `EOD-vFinal`
+## 1. End-of-Day Report (`EOD-Final`)
 
 **Purpose:** Full end-of-day report to Avi with consolidated tasks, links, and professional polish.
 **Format:**
@@ -30,7 +30,7 @@ Hi Avi, here is my EOD report for today, [Date].
 
 ---
 
-## 2. `EOD-Checkpoint`
+## 2. Mid-Shift Update (`EOD-Checkpoint`)
 
 **Purpose:** Quick tactical updates during the day (morning health check, mid-shift wins).
 **Format:**
@@ -51,7 +51,7 @@ Hi Avi, quick update as of [Time/Date]:
 
 ---
 
-## 3. `Blocked-Alert`
+## 3. Blocked Task Alert (`Blocked-Alert`)
 
 **Purpose:** Immediate escalation for tasks blocked by Amazon or dependencies.
 **Format:**
@@ -70,11 +70,11 @@ Hi Avi, quick update as of [Time/Date]:
 
 ---
 
-✅ **Core Principles:**
+### Core Principles for Effective Communication:
 
-* Always include **ASIN links** (non-negotiable per Avi).
-* Keep reports **WhatsApp-ready**: scannable, concise, with proper emojis.
-* Maintain consistent formatting across all templates.
+*   **Mandatory ASIN Links:** Always include direct ASIN links for all relevant products in your reports. (Non-negotiable).
+*   **Concise & Scannable:** Format reports to be easily digestible, especially for mobile platforms like WhatsApp. Utilize emojis for quick visual cues.
+*   **Consistent Formatting:** Maintain uniform formatting across all communication templates for clarity and professionalism.
 
 ---
 

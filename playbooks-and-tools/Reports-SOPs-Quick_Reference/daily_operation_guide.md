@@ -2,63 +2,30 @@
 
 This document outlines the daily operational procedures for the VAXPH team, ensuring consistent and efficient execution of routine tasks. It includes guidelines for communication, reporting, and system access.
 
-## 1. Slack Log Schedule Guide
+## 1. Slack Log Schedule
 
 This section provides the standard daily schedule for logging activities in Slack. Team members are required to post their status at the specified times, indicating their current task.
 
 ```
-TIME IN 8:30 AM PST | VAX PH | Working on Stores
-```
-```
+TIME IN: 8:30 AM PST | VAX PH | Working on Stores
 9:00 AM PST | VAX PH | Working on Stores
-```
-```
 9:30 AM PST | VAX PH | Working on Stores
-```
-```
 10:00 AM PST | VAX PH | Working on Stores
-```
-```
 10:30 AM PST | VAX PH | Working on Stores
-```
-```
 11:00 AM PST | VAX PH | Working on Stores
-```
-```
 11:30 AM PST | VAX PH | Working on Stores
-```
-```
 12:00 PM PST | VAX PH | Working on Stores
-```
-```
 12:30 PM PST | VAX PH | Working on Stores
-```
-```
 1:00 PM PST | VAX PH | Lunch
-```
-```
 2:00 PM PST | VAX PH | Working on Stores
-```
-```
 2:30 PM PST | VAX PH | Working on Store
-```
-```
 3:00 PM PST | VAX PH | Working on Store
-```
-```
 3:30 PM PST | VAX PH | Working on Store
-```
-```
 4:00 PM PST | VAX PH | Working on Store
-```
-```
 4:30 PM PST | VAX PH | Working on Store
-```
-```
 5:00 PM PST | VAX PH | Working on Store
-```
-```
 TIME OUT: 5:30 PM PST | VAX PH | Working on Store | EOD:
+```
 ```
 ---
 ## 2. Timezone Reference
@@ -95,34 +62,34 @@ This section details the routine communication protocols, including templates fo
 ### 3.1. WhatsApp Templates
 
 Use the following templates for daily and weekly WhatsApp communications to ensure consistency and clarity.
----
-***Inventory Report Frequency:*** **Daily**
+
+**Inventory Report (Daily)**
 ```
-Hi @  
+Hi @
 
 I have sent the Inventory and Sales Report via email. Will proceed to Daily KPI.
 ```
----
-***Daily KPI Frequency:*** **Daily**
-```
-Hi @  
 
-I've attached the Daily KPI Report for Seculife and STK and sent it via email. Will proceed to morning checks.
+**Daily KPI (Daily)**
 ```
----
-***Daily Checks Frequency:*** **Daily**
+Hi @
+
+I've attached the Daily KPI Report for Seculife and STK and sent it via email. Will proceed to morning checks.
 ```
-Hi @  
+
+**Daily Checks (Daily)**
+```
+Hi @
 
 I've attached the Daily Checks: Morning Report. Will proceed to pending slack tasks/new projects.
 ```
----
-***Frequency:*** **Tuesday**
+
+**Returns Report (Tuesday)**
 ```
-Hi @  I just sent you an email with the Yesterday and Last 30 Days Returns Report for SecuLife Inc and Speedtalk.
+Hi @ I just sent you an email with the Yesterday and Last 30 Days Returns Report for SecuLife Inc and Speedtalk.
 ```
----
-***Frequency:*** **Wednesday**
+
+**Weekly Recalled/Removal Order (Wednesday)**
 ```
 Hi @ @
 
@@ -136,7 +103,7 @@ I have completed the weekly recalled/removal order for SecuLife and STK.
 
 Use the following email templates for sending various reports. Ensure all relevant information is included before sending.
 
-* **Inventory and Sales Report**
+**Inventory and Sales Report**
 ```
 Hi Avi,
 
@@ -146,7 +113,7 @@ Best regards,
 Wesley Quintero
 ```
 
-* **Returns Report** ***(Every Tuesday.)***
+**Returns Report (Every Tuesday)**
 ```
 Hi Avi,
 
@@ -156,7 +123,7 @@ Best regards,
 Wesley Quintero
 ```
 
-* **Daily KPI Report**
+**Daily KPI Report**
 ```
 Hi Avi,
 
@@ -166,7 +133,7 @@ Best regards,
 Wesley Quintero
 ```
 
-* **Removal Report** ***(Every Wednesday.)***
+**Removal Report (Every Wednesday)**
 ```
 Hi Avi,
 
@@ -183,11 +150,9 @@ Wesley Quintero
 When sending the daily, monthly, or KPI reports, ensure the appropriate distribution lists are CC'd as specified below.
 
 **Daily Inventory Sales, KPI**
-```
-avi@mobilenetus.com
-```
 
 ```
+avi@mobilenetus.com
 anna@mobile-net.us
 javier.garcia@speedtalkmobile.com
 Shelley@noirincusa.com
@@ -195,7 +160,6 @@ fernanda.cortes@speedtalkmobile.com
 ran.quinga@speedtalkmobile.com
 benedict.mendoza@speedtalkmobile.com
 ```
----
 
 **GTIN Request**
 ```

@@ -49,6 +49,12 @@ This repository is built to be a self-service knowledge base, making it easy for
 
 We encourage contributions to keep this knowledge base accurate and up-to-date. Please refer to the [CONTRIBUTING.md](CONTRIBUTING.md) file for guidelines on directory structure, file naming conventions, and markdown style.
 
+## External Links and Resources
+
+*   [VAXPH Website](https://vaxph.com) - Our main company website.
+*   [SecuLife Support](https://seculife.com/support) - Dedicated support portal for SecuLife products.
+*   [SpeedTalk Mobile Support](https://speedtalkmobile.com/support) - Dedicated support portal for SpeedTalk Mobile services.
+
 ## Documentation Improvements
 
 For recommendations on enhancing the navigation and discoverability of this documentation, please refer to the [Navigation and Discoverability Improvements](playbooks-and-tools/Reports-SOPs-Quick_Reference/Navigation_Discoverability_Improvements.md) document.

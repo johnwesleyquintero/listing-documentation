@@ -9,26 +9,48 @@ This document serves as a comprehensive knowledge base for SecuLife products, pr
 
 ## Manufacturing and Assembly
 
-Based on current information, specific details regarding the manufacturing and assembly locations of SecuLife products are not publicly available. SecuLife is identified as a US-based company focusing on GPS tracking and safety alert devices.
+SecuLife products are manufactured in China. SecuLife is a US-based company focused on GPS tracking and safety alert devices.
 
 ## Key Information
 
-- **Company Identity:** US-based company.
-- Product Focus: GPS tracking and safety alert devices for kids, seniors, and pets, vehicles & assets.
-- Target Users: Children, elderly, pets, and valuables/vehicles.
+### Company Overview
+- **Identity:** US-based company.
 - **Mission:** To provide safety, independence, and peace of mind through innovative products.
-- **Customer Support:** Offers 24/7 US-based customer support.
-- **Manufacturing/Assembly Location:** Products are made in China. This information was provided by Xavi, a key contact for SecuLife operations.
-- Product Features: Real-time GPS tracking, SOS alert monitoring, fall detection (for seniors), geofencing (safe zones with instant notifications), two-way communication, mobile app integration, S7 Kids watch features (cellphone alternative, IP67 splash/dustproof, classroom mode, no unknown callers/internet/social media access).
-- Why Choose SecuLife? Transparent pricing (no hidden fees, free shipping, flexible plans), exceptional US-based customer support 7 days a week with live onboarding, risk-free purchase (15-day money-back guarantee, lifetime warranty), hassle-free experience (no credit checks, free mobile app, reliable monitoring coverage).
-- Mobile App: Available on Google Play Store. Users have reported issues with login (blank email/password fields) and app stability.
-- **Service Plans:**
-  - **Prime Plan:** 2GB data / Unlimited tracking / Unlimited talk
-    - $13/month when paid annually in advance
-    - $15/month with a 1-year contract (paid monthly)
-  - **Fax Plan:** 90 minutes talk / Unlimited GPS tracking / 90MB data
-    - $8/month when paid annually in advance
-    - $9/month with a 1-year contract (paid monthly)
+- **Product Focus:** GPS tracking and safety alert devices for kids, seniors, pets, vehicles, and assets.
+- **Target Users:** Children, elderly, pets, and valuables/vehicles.
+- **Manufacturing Location:** Products are made in China (information provided by Xavi).
+
+### Product Features
+- Real-time GPS tracking
+- SOS alert monitoring
+- Fall detection (for seniors)
+- Geofencing (safe zones with instant notifications)
+- Two-way communication
+- Mobile app integration
+- S7 Kids Watch features: cellphone alternative, IP67 splash/dustproof, classroom mode, no unknown callers/internet/social media access.
+
+### Why Choose SecuLife?
+- Transparent pricing (no hidden fees, free shipping, flexible plans).
+- Exceptional 24/7 US-based customer support with live onboarding.
+- Risk-free purchase (15-day money-back guarantee, lifetime warranty).
+- Hassle-free experience (no credit checks, free mobile app, reliable monitoring coverage).
+
+### Mobile App Details
+- **Availability:** Google Play Store and Apple App Store.
+- **Known Issues:** Users have reported issues with login (blank email/password fields) and app stability.
+### Service Plans
+
+- **Prime Plan:**
+  - Features: 2GB data, Unlimited tracking, Unlimited talk
+  - Pricing:
+    - $13/month (paid annually in advance)
+    - $15/month (with a 1-year contract, paid monthly)
+
+- **Fax Plan:**
+  - Features: 90 minutes talk, Unlimited GPS tracking, 90MB data
+  - Pricing:
+    - $8/month (paid annually in advance)
+    - $9/month (with a 1-year contract, paid monthly)
 
 ## Frequently Asked Questions (FAQs)
 
@@ -40,12 +62,14 @@ Based on current information, specific details regarding the manufacturing and a
 ### International Calling & Connectivity (Mariam's Case)
 
 **Q: My SecuLife watch is not making calls in Egypt. What should I do?**
-**A:** The included SIM card is designed for US partner networks, and standard calls are limited to US-based numbers. However, if the watch is connected to **WiFi**, you can use the **video calling feature within the SecuLife app** to call the watch from your smartphone anywhere in the world. Ensure the phone number you use to call the watch is registered in the SecuLife app for security.
+**A:** The included SIM card is designed for US partner networks, and standard calls are limited to US-based numbers. For international communication, if the watch is connected to **WiFi**, you can use the **video calling feature within the SecuLife app** to call the watch from your smartphone anywhere in the world. Ensure the phone number you use to call the watch is registered in the SecuLife app for security.
 
 ### Military Time Format
 
 **Q: Can I change the watch's time format from military (24-hour) to standard (12-hour)?**
-**A:** Currently, SecuLife kids' smartwatches only support the 24-hour (military) format. Future batches may include 12-hour format support, and free exchanges may be offered upon availability. Location-Based Services (LBS) use GPS, Wi-Fi, or cellular data for location tracking and should remain enabled for accuracy. LBS acts as a backup when GPS signals are weak, using cell towers for location estimation (less accurate than GPS).
+**A:** Currently, SecuLife kids' smartwatches only support the 24-hour (military) format. Future batches may include 12-hour format support, and free exchanges may be offered upon availability.
+
+**Location-Based Services (LBS):** LBS uses GPS, Wi-Fi, or cellular data for location tracking and should remain enabled for accuracy. LBS acts as a backup when GPS signals are weak, using cell towers for location estimation (less accurate than GPS).
 
 ### Watch Camera & Video Call Capabilities
 
@@ -72,28 +96,37 @@ Based on current information, specific details regarding the manufacturing and a
 
 #### Carrier International Usage
 
-| Carrier | International Support |
-|---------|-----------------------|
-| PWG     | MEX for 30 days, then $5 add-on |
-| TMOB    | 200+ countries with $5 add-on |
-| ATT     | US only |
+| Carrier | International Support Details |
+|---------|-----------------------------|
+| PWG     | Mexico for 30 days, then a $5 add-on is required. |
+| TMOB    | Supported in 200+ countries with a $5 add-on. For more details, please visit the [T-Mobile website](https://www.t-mobile.com/international-roaming-plans). |
+| ATT     | US only. |
 
-Check TMOB international roaming plans here: Please visit the T-Mobile website for international roaming plans.
 
 ### Geofencing Steps
 
 #### How to set up geofence:
 
-1.  Via SecuLife Mobile App, from the device details page, click "Add fence"
-2.  Click on NEW FENCE button then set a perimeter on the map. Click to place points around the perimeter of the area you want to monitor.
-3.  Click SAVE button and enter the fence name (such as Home, Doctor's Office, Park, etc)
+1.  Open the SecuLife Mobile App and navigate to the device details page.
+2.  Click "Add fence."
+3.  Select the "NEW FENCE" button and then set a perimeter on the map by placing points around the desired area.
+4.  Click the "SAVE" button and enter a descriptive name for the fence (e.g., Home, Doctor's Office, Park).
 
 **Please note:** The recommended GPS Radius is 1000 feet or higher to reduce false alerts. You can set up multiple Geofence locations as needed.
 
 ### Devices Features
 
-**Q: How long does the battery last between full charges?**
-**A:** The SecuLife device comes with a built-in 850 mAh battery that can last for more than 24 hours. Battery life may vary depending on the tracking interval you set. To extend usage time, we recommend setting the tracking interval to 15, 30, or even 60 minutes. This helps conserve battery while still providing reliable tracking.
+#### Battery Life
+
+**Q: How long does the battery last, and what are the charging recommendations?**
+**A:** The SecuLife device comes with a built-in 850 mAh battery that can last for more than 24 hours. Battery life may vary depending on the tracking interval you set. For optimal performance and longevity:
+
+*   **Initial Charge:** Charge for 2-3 hours before first use.
+*   **Charging Adapter:** Use a 5V/1A or 5V/2A adapter.
+*   **Avoid Fast Chargers:** Do NOT use fast chargers (e.g., Samsung, QC3.0/PD) as they can damage the battery and void the warranty.
+*   **Troubleshooting:** If the watch doesn't turn on or charge, perform a hard reset by holding the power button for 30-45 seconds.
+
+
 
 **Q: Is a specific cellular service provider required for this product to function, and is a separate cellular service plan required?**
 **A:** Yes, a cellular service plan is required for the SecuLife device to function, as it uses 4G LTE cellular data for tracking and communication. We provide an activated 4G LTE SIM card with a pre-installed plan. You can choose from our various service plans to best suit your needs. A separate cellular service provider is not required as our plans are designed to work seamlessly with your SecuLife device.
