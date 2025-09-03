@@ -114,7 +114,7 @@ I've attached the Daily KPI Report for Seculife and STK and sent it via email.
 ```
 Hi @  
 
-I've attached the Daily Checks: Morning Report. Will proceed to pending slack tasks.
+I've attached the Daily Checks: Morning Report. Will proceed to pending slack tasks/new projects.
 ```
 ---
 ***Frequency:*** **Tuesday**
@@ -281,6 +281,7 @@ All emails sent to the addresses listed above will be automatically forwarded to
 This setup ensures that correspondence for Jolt Mobile and Speedtalk Mobile is consolidated within the SecuLife email environment.
 
 ---
+
 
 
 
