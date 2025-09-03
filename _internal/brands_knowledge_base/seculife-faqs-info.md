@@ -92,8 +92,11 @@ Check TMOB international roaming plans here: Please visit the T-Mobile website f
 
 ### Devices Features
 
-**Q: How long does the battery last on the SecuLife watch?**
-**A:** The device comes with a built-in 850 mAh battery that can last for more than 24 hours. Battery life may vary depending on the tracking interval you set. To extend usage time, we recommend setting the tracking interval to 15, 30, or even 60 minutes. This helps conserve battery while still providing reliable tracking.
+**Q: How long does the battery last between full charges?**
+**A:** The SecuLife device comes with a built-in 850 mAh battery that can last for more than 24 hours. Battery life may vary depending on the tracking interval you set. To extend usage time, we recommend setting the tracking interval to 15, 30, or even 60 minutes. This helps conserve battery while still providing reliable tracking.
+
+**Q: Is a specific cellular service provider required for this product to function, and is a separate cellular service plan required?**
+**A:** Yes, a cellular service plan is required for the SecuLife device to function, as it uses 4G LTE cellular data for tracking and communication. We provide an activated 4G LTE SIM card with a pre-installed plan. You can choose from our various service plans to best suit your needs. A separate cellular service provider is not required as our plans are designed to work seamlessly with your SecuLife device.
 
 #### Key Device Operations
 
