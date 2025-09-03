@@ -20,7 +20,7 @@ These listings have a high rate of negative customer experiences (NCX) and are a
     *   **Problem:** The top reason for complaints is **"Defective item"** (50% of NCX). The "Return Badge" is also active, which can harm conversion rates.
     *   **Status:** A high "defective" rate suggests a potential quality control issue with this product.
 
-*   **ASIN `B0D2RZVND3` (Poor):**
+*   **ASIN [B0D2RZVND3](c:\Users\johnw\listing-documentation\brands\seculife\amazon-listings\B0D2RZVND3.md) (Poor):**
     *   **Problem:** The key issue is **"Inaccurate website description"** (40% of NCX). This also has a very high return rate of 24.13%.
     *   **Status:** This is the most actionable issue. We can directly fix this by auditing and improving the product detail page to set clearer expectations.
 
