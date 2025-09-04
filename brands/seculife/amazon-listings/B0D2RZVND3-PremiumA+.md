@@ -73,3 +73,102 @@ This layout mirrors **top competitor patterns** but keeps it **brand-pure and Am
 * **Module 5:** Brand credibility + trust (Story)
 
 ---
+
+# **Premium A+ Content – SecuLife Guardian Mini (S11 GPS Tracker)**
+
+**ASIN:** B0D2RZVND3
+**Focus:** Vehicles & Pets
+
+---
+
+## **Module 1 – Hero Banner**
+
+**Image Placeholder:** Full-width lifestyle hero (Car + Pet split, product overlay)
+**Headline:**
+`One Tracker. Double the Protection.`
+
+**Subhead:**
+`Safeguard your vehicle from theft and keep your pets safe with one powerful GPS tracker.`
+
+**Overlay Badges (small icons or seals):**
+
+* `4G LTE Real-Time Tracking`
+* `Vehicle + Pet Safety`
+* `US-Based Support`
+
+---
+
+## **Module 2 – Feature Icons Row**
+
+**Image Placeholder:** Row of 4 icons (flat vector style, clean background)
+
+**Headline:**
+`Essential Protection, Simplified.`
+
+**Icons & Captions:**
+
+* 🚗 **Vehicle Anti-Theft** – Discreet protection for cars & motorcycles
+* 🐾 **Pet Safety** – Peace of mind for dogs and cats
+* 📍 **Live Location** – Always know where they are
+* 🔔 **Smart Alerts** – Get notified instantly
+
+---
+
+## **Module 3 – Lifestyle Split (Car + Pet)**
+
+**Image Placeholder:** Split screen – left: car with hidden tracker, right: dog with collar tracker
+
+**Headline:**
+`One Device. Multiple Uses.`
+
+**Left (Vehicle Copy):**
+`Hide it in your car or motorcycle and recover quickly if moved without permission.`
+
+**Right (Pet Copy):**
+`Attach to your pet’s collar and track their adventures in real time.`
+
+---
+
+## **Module 4 – Durability & Design**
+
+**Image Placeholder:** Product close-up (water splash + rugged background)
+
+**Headline:**
+`Built for the Real World.`
+
+**Sub Copy:**
+`Compact, water-resistant, and rugged – designed to handle anything from rain to rough play. Long battery life keeps you protected around the clock.`
+
+---
+
+## **Module 5 – How It Works (3 Steps)**
+
+**Image Placeholder:** 3-step infographic with simple icons
+
+**Headline:**
+`Simple Setup. Powerful Results.`
+
+**Steps (with captions):**
+1️⃣ **Activate** – Pre-installed SIM, ready in minutes
+2️⃣ **Attach** – To vehicle or pet’s collar
+3️⃣ **Track** – Anytime from the SecuLife app
+
+---
+
+## **Module 6 – Trust & Support**
+
+**Image Placeholder:** Support team stock image + warranty/guarantee icons
+
+**Headline:**
+`Backed by Real People Who Care.`
+
+**Sub Copy:**
+`Get peace of mind with our US-based support team, 7 days a week. Backed by a 30-day money-back guarantee and 1-year warranty.`
+
+**Badges (visual icons):**
+
+* `30-Day Money Back`
+* `1-Year Warranty`
+* `7-Day US Support`
+
+---
