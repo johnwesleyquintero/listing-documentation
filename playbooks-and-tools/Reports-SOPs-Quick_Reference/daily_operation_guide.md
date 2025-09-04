@@ -198,6 +198,7 @@ When sending the daily, monthly, or KPI reports, ensure the appropriate distribu
 - `Shelley@noirincusa.com`
 - `fernanda.cortes@speedtalkmobile.com`
 - `ran.quinga@speedtalkmobile.com`
+- `benedict.mendoza@speedtalkmobile.com`
 
 **Shipments**
 - `shipping@speedtalkmobile.com`
@@ -207,6 +208,7 @@ When sending the daily, monthly, or KPI reports, ensure the appropriate distribu
 - `Shelley@noirincusa.com`
 - `fernanda.cortes@speedtalkmobile.com`
 - `ran.quinga@speedtalkmobile.com`
+- `benedict.mendoza@speedtalkmobile.com`
 
 **Monthly Sales Report**
 - `jennice@mobile-net.us`
@@ -249,4 +251,5 @@ All emails sent to the addresses listed above will be automatically forwarded to
 - **Main Inbox:** `john.wesley.quintero@seculife.us`
 
 This setup ensures that correspondence for Jolt Mobile and Speedtalk Mobile is consolidated within the SecuLife email environment.
+
 
