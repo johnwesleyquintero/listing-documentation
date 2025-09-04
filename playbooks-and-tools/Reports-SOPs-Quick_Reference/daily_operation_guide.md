@@ -8,22 +8,56 @@ This section provides the standard daily schedule for logging activities in Slac
 
 ```
 TIME IN: 8:30 AM PST | VAX PH | Working on Stores
+```
+```
 9:00 AM PST | VAX PH | Working on Stores
+```
+```
 9:30 AM PST | VAX PH | Working on Stores
+```
+```
 10:00 AM PST | VAX PH | Working on Stores
+```
+```
 10:30 AM PST | VAX PH | Working on Stores
+```
+```
 11:00 AM PST | VAX PH | Working on Stores
+```
+```
 11:30 AM PST | VAX PH | Working on Stores
+```
+```
 12:00 PM PST | VAX PH | Working on Stores
+```
+```
 12:30 PM PST | VAX PH | Working on Stores
+```
+```
 1:00 PM PST | VAX PH | Lunch
+```
+```
 2:00 PM PST | VAX PH | Working on Stores
-2:30 PM PST | VAX PH | Working on Store
-3:00 PM PST | VAX PH | Working on Store
-3:30 PM PST | VAX PH | Working on Store
-4:00 PM PST | VAX PH | Working on Store
-4:30 PM PST | VAX PH | Working on Store
-5:00 PM PST | VAX PH | Working on Store
+```
+```
+2:30 PM PST | VAX PH | Working on Stores
+```
+```
+3:00 PM PST | VAX PH | Working on Stores
+```
+```
+3:30 PM PST | VAX PH | Working on Stores
+```
+```
+4:00 PM PST | VAX PH | Working on Stores
+```
+```
+4:30 PM PST | VAX PH | Working on Stores
+```
+```
+5:00 PM PST | VAX PH | Working on Stores
+```
+```
 TIME OUT: 5:30 PM PST | VAX PH | Working on Store | EOD:
 ```
 
@@ -164,6 +198,7 @@ When sending the daily, monthly, or KPI reports, ensure the appropriate distribu
 - `Shelley@noirincusa.com`
 - `fernanda.cortes@speedtalkmobile.com`
 - `ran.quinga@speedtalkmobile.com`
+- `benedict.mendoza@speedtalkmobile.com`
 
 **Shipments**
 - `shipping@speedtalkmobile.com`
@@ -173,6 +208,7 @@ When sending the daily, monthly, or KPI reports, ensure the appropriate distribu
 - `Shelley@noirincusa.com`
 - `fernanda.cortes@speedtalkmobile.com`
 - `ran.quinga@speedtalkmobile.com`
+- `benedict.mendoza@speedtalkmobile.com`
 
 **Monthly Sales Report**
 - `jennice@mobile-net.us`
@@ -215,3 +251,5 @@ All emails sent to the addresses listed above will be automatically forwarded to
 - **Main Inbox:** `john.wesley.quintero@seculife.us`
 
 This setup ensures that correspondence for Jolt Mobile and Speedtalk Mobile is consolidated within the SecuLife email environment.
+
+
