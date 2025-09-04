@@ -172,3 +172,33 @@ This layout mirrors **top competitor patterns** but keeps it **brand-pure and Am
 * `7-Day US Support`
 
 ---
+
+## Premium A+ Wireframe (Vehicle & Pet Focus) – ASIN: B0D2RZVND3
+
+### Module 1 – Brand Story Banner
+Image: Lifestyle hero (Car + Pet in one frame, Guardian Mini highlighted)
+Caption: “One Tracker. Double the Protection.”
+
+### Module 2 – Feature Grid (4 Columns)
+1. Image: Vehicle security (hidden tracker in glovebox)  
+   Caption: “Real-Time Vehicle Protection”
+2. Image: Pet safety (dog running with collar tracker)  
+   Caption: “Keep Pets Safe Anywhere”  
+3. Image: App screenshot mockup  
+   Caption: “Instant Alerts & Geo-Fence”  
+4. Image: Durable hardware close-up  
+   Caption: “Compact. Rugged. Water-Resistant.”
+
+### Module 3 – Side-by-Side Comparison
+Left: Vehicle Tracking use case  
+Right: Pet Tracking use case  
+Caption: “Two Solutions. One Device.”
+
+### Module 4 – Value Proposition Strip
+Image: App dashboard + family lifestyle shot  
+Caption: “Peace of Mind at Your Fingertips.”
+
+### Module 5 – Closing Banner
+Image: US-based support team + product shot  
+Caption: “Backed by US Support, Warranty, and 30-Day Guarantee.”
+
