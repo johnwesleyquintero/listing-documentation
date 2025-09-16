@@ -121,15 +121,11 @@ Link:
 ```
 Hi @
 
-I've attached the Daily KPI Report for Seculife and STK and sent it via email. Will proceed to morning checks.
+I've attached and emailed the Daily KPI Report for:
+
+Will proceed to: 
 ```
 
-**Daily Checks (Daily)**
-```
-Hi @
-
-I've attached the Daily Checks: Morning Report. Will proceed to pending slack tasks/new projects.
-```
 
 **Returns Report (Tuesday)**
 ```
@@ -291,6 +287,7 @@ https://sellercentral.amazon.com/gp/ssof/shipping-queue.html/ref=xx_fbashipq_dna
 ```
 https://advertising.amazon.com/campaign-manager?
 ```
+
 
 
 
