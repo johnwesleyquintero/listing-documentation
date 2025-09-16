@@ -111,6 +111,8 @@ I have sent the Inventory and Sales Report via email. Will proceed to Daily KPI.
 Hi bro, here is the file for: 
 
 Please let me know if I can proceed to send this to Avi. Thanks.
+
+Link: 
 ```
 
 **Daily KPI (Daily)**
@@ -284,6 +286,7 @@ https://sellercentral.amazon.com/business-reports/ref=xx_sitemetric_dnav_xx#/rep
 
 https://sellercentral.amazon.com/gp/ssof/shipping-queue.html/ref=xx_fbashipq_dnav_xx#fbashipment
 ```
+
 
 
 
