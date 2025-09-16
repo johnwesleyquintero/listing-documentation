@@ -288,6 +288,9 @@ https://sellercentral.amazon.com/business-reports/ref=xx_sitemetric_dnav_xx#/rep
 
 https://sellercentral.amazon.com/gp/ssof/shipping-queue.html/ref=xx_fbashipq_dnav_xx#fbashipment
 ```
+```
+https://advertising.amazon.com/campaign-manager?
+```
 
 
 
