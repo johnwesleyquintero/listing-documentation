@@ -253,3 +253,29 @@ All emails sent to the addresses listed above will be automatically forwarded to
 This setup ensures that correspondence for Jolt Mobile and Speedtalk Mobile is consolidated within the SecuLife email environment.
 
 
+---
+
+### URL Report Endpoints
+
+
+```
+https://sellercentral.amazon.com/reportcentral/MANAGE_INVENTORY_HEALTH/1
+```
+```
+
+https://sellercentral.amazon.com/reportcentral/FBA_MYI_UNSUPPRESSED_INVENTORY/1
+```
+```
+
+https://sellercentral.amazon.com/reportcentral/REMOVAL_ORDER_DETAIL/1
+```
+```
+
+https://sellercentral.amazon.com/business-reports/ref=xx_sitemetric_dnav_xx#/report?
+```
+```
+
+https://sellercentral.amazon.com/gp/ssof/shipping-queue.html/ref=xx_fbashipq_dnav_xx#fbashipment
+```
+
+
