@@ -103,7 +103,9 @@ Use the following templates for daily and weekly WhatsApp communications to ensu
 ```
 Hi @
 
-I have sent the Inventory and Sales Report via email. Will proceed to Daily KPI.
+I have emailed the Inventory and Sales Report for:
+
+Will proceed to: 
 ```
 
 **Pre-checking**
@@ -286,6 +288,7 @@ https://sellercentral.amazon.com/business-reports/ref=xx_sitemetric_dnav_xx#/rep
 
 https://sellercentral.amazon.com/gp/ssof/shipping-queue.html/ref=xx_fbashipq_dnav_xx#fbashipment
 ```
+
 
 
 
