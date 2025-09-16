@@ -57,8 +57,8 @@ Extract and normalize the following:
 1. Remove timestamps, user mentions, shorthand, and filler text.  
 2. Convert to professional, WhatsApp-ready third-person summaries.  
 3. No emojis.  
-4. Keep report **short and scannable**.  
-5. Ensure **Task Titles are always bolded** for clarity.  
+4. Keep report *short and scannable*.  
+5. Ensure *Task Titles are always bolded* for clarity with only 1 (*). 
 
 ---
 
