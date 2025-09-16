@@ -121,7 +121,7 @@ Link:
 ```
 Hi @
 
-I've attached and emailed the Daily KPI Report for:
+I've attached and emailed the Daily KPI Report for: 
 
 Will proceed to: 
 ```
@@ -287,6 +287,7 @@ https://sellercentral.amazon.com/gp/ssof/shipping-queue.html/ref=xx_fbashipq_dna
 ```
 https://advertising.amazon.com/campaign-manager?
 ```
+
 
 
 
