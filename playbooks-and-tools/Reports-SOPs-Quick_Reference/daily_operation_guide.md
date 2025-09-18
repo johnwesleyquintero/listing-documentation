@@ -198,7 +198,7 @@ This setup ensures that correspondence for Jolt Mobile and Speedtalk Mobile is c
 
 ---
 
-### URL Report Endpoints
+### 7. URL Report Endpoints
 
 
 ```
@@ -226,6 +226,7 @@ https://advertising.amazon.com/campaign-manager?
 ```
 https://sellercentral.amazon.com/myinventory/unfulfillable/index.html?ref_=unfulfillable_legacy_link
 ```
+
 
 
 
