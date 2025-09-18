@@ -101,11 +101,13 @@ Use the following templates for daily and weekly WhatsApp communications to ensu
 
 **Inventory Report (Daily)**
 ```
-Hi @
+Hi Avi,
 
-I have emailed the Inventory and Sales Report for:
+I've attached the Amazon Inventory and Sales Report for: 
 
-Will proceed to: 
+Summary:
+
+List of ASINs with Inventory under 60 Days and their days of supply left:
 ```
 
 **Pre-checking**
@@ -115,72 +117,6 @@ Hi bro, here is the file for:
 Please let me know if I can proceed to send this to Avi. Thanks.
 
 Link: 
-```
-
-**Daily KPI (Daily)**
-```
-Hi @
-
-I've attached and emailed the Daily KPI Report for: 
-
-Will proceed to: 
-```
-
-
-**Returns Report (Tuesday)**
-```
-Hi @ I just sent you an email with the Yesterday and Last 30 Days Returns Report for SecuLife Inc and Speedtalk.
-```
-
-**Weekly Recalled/Removal Order (Wednesday)**
-```
-Hi @ @
-
-I have completed the weekly recalled/removal order for SecuLife and STK.
-```
-
-### 3.2. Email Templates
-
-Use the following email templates for sending various reports. Ensure all relevant information is included before sending.
-
-**Inventory and Sales Report**
-```
-Hi Avi,
-
-I've attached the Inventory and Sales Report for Seculife and Speedtalk.
-
-Best regards,
-Wesley Quintero
-```
-
-**Returns Report (Every Tuesday)**
-```
-Hi Avi,
-
-I've attached the Returns Report for Seculife and Speedtalk.
-
-Best regards,
-Wesley Quintero
-```
-
-**Daily KPI Report**
-```
-Hi Avi,
-
-I've attached the Daily KPI Report for Seculife and Speedtalk.
-
-Best regards,
-Wesley Quintero
-```
-
-**Removal Report (Every Wednesday)**
-```
-Hi Avi,
-
-I've attached the Removal Report for Seculife and Speedtalk.
-
-Best regards,
-Wesley Quintero
 ```
 
 ---
@@ -290,6 +226,7 @@ https://advertising.amazon.com/campaign-manager?
 ```
 https://sellercentral.amazon.com/myinventory/unfulfillable/index.html?ref_=unfulfillable_legacy_link
 ```
+
 
 
 
