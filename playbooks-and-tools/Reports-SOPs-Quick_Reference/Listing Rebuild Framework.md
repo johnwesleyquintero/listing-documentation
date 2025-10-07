@@ -1,189 +1,128 @@
-# 🧠 Listing Rebuild Framework v1.0  
-**Test Product:** SpeedTalk Mobile SIM Card – 500 Minutes Talk + 1GB Data  
-**ASIN:** B075QNH2HP  
-**Framework Owner:** WesAI System  
-**Objective:** Standardize the data-driven relaunch and optimization of Amazon listings using SQP, VOC, and competitor intelligence.
+# **Listing Optimization Framework v1.1**
+
+### *(SpeedTalk Mobile / SecuLife Master Template)*
 
 ---
 
-## ⚙️ I. DATA INPUTS (FOUNDATIONAL LAYER)
+## **I. DATA INPUTS**
 
-### 📊 1. Search Query Performance (SQP)
-**Source:** Brand Analytics – Week 40, 2025  
-**Top Relevant Queries:**
-| Search Query | Volume | CTR | Notes |
-|---------------|---------|------|------|
-| speedtalk sim card | 109 | 43.12% | High brand recognition but low share |
-| prepaid cellphone card | 4 | 50% | Niche but high intent |
-| sim card talk and text | 10 | 60% | Excellent conversion potential |
-| unlimited data sim card | 605 | 34% | Competes in high-volume prepaid category |
-| sim card for samsung | 32 | 18.7% | Android compatibility opportunity |
-| chip con internet pagado | 9 | 100% | Spanish-language searches — localization opportunity |
+Our framework draws from three foundational data sources:
 
-**Insight:**  
-SpeedTalk ranks in high-search English + Spanish queries but loses visibility to competitors due to incomplete keyword targeting and unclear compatibility messaging.
+1. **Search Query Performance (SQP):** Amazon Brand Analytics keywords, click share, and conversion insights.
+2. **Voice of the Customer (VOC):** Returns, NCX (Not as Expected), feedback, and review trends.
+3. **Competitor Benchmark (Helium10 / Market Analysis):** Top 10 non-brand ASINs for keyword validation, pricing, and creative tone.
 
 ---
 
-### 💬 2. Voice of the Customer (VOC) & Reviews
-**CX Health:** “Very Poor”  
-**Top Issues Identified:**
-1. **Activation Friction** (Zip code, credit card, setup delays)  
-2. **Auto-renew confusion** (“Prepaid” perceived as subscription)  
-3. **Coverage performance** complaints in specific states  
-4. **Device compatibility** unclear for watches/2G/3G phones  
-5. **Spam calls/texts** perception lowering trust
+## **II. VOC → ACTION MATRIX**
 
-**Opportunity:**  
-- Add visual “Activation Guide” in A+  
-- Clarify billing model in title/bullet  
-- Use FAQ to handle “Does it work with my phone/watch?”  
-- Strengthen trust & network messaging (coverage map)
+This matrix operationalizes customer pain points into A+ content solutions.
+
+| Customer Pain Point          | Root Cause                                              | A+ Module to Address | Copy Strategy / Key Message                                                                                     |
+| ---------------------------- | ------------------------------------------------------- | -------------------- | --------------------------------------------------------------------------------------------------------------- |
+| Auto-renew confusion         | “Prepaid” perceived as one-time purchase, not recurring | Hero + FAQ           | Reinforce control: “Prepaid Freedom — cancel anytime, no contracts.” Add FAQ “Can I disable auto-refill?”       |
+| Activation friction          | Zip code / APN confusion, unclear visual steps          | Activation Module    | Simplify setup: 1-2-3 activation visual + dedicated “Troubleshooting & APN Guide” section                       |
+| Device incompatibility       | “GSM” not clearly understood                            | Compatibility Module | Use device icons (Apple, Samsung, GPS, Smartwatch). Add line: “Compatible with all unlocked 4G/5G GSM devices.” |
+| Poor coverage expectations   | Customers assume full nationwide LTE without verifying  | Coverage Map Module  | Transparent messaging: “Check coverage before activation” with map + QR to STKMap                               |
+| Defective SIM or non-working | Isolated activation/defect issues                       | Support Module       | Add “Replacement Guarantee” section: “If your SIM fails to activate, we’ll replace it free.”                    |
+| Spam calls/texts             | Perception of low network quality                       | Trust/Support Module | Add “Clean Numbers Policy – we protect your number from spam.”                                                  |
 
 ---
 
-### 🧩 3. Competitor Benchmark
-**Top 10 Non-Brand ASINs Used in Helium10 Cerebro:**
+## **III. STRATEGY PILLARS**
+
+1. **Clarity:** Simplify compatibility, activation, and plan options.
+2. **Trust:** Highlight U.S.-based support, refund control, and replacement guarantee.
+3. **Value Perception:** Communicate real savings and freedom (no contracts).
+4. **Localization:** Emphasize *U.S.-only* coverage and support.
+5. **Performance Realism:** Set proper expectations about speed, coverage, and device fit.
+
+---
+
+## **IV. DELIVERABLES**
+
+* **Title, Bullets, Description** (Amazon-optimized)
+* **A+ & Premium A+ Content Draft** (with Canva wireframe prompts)
+* **Backend Keywords + Alt Text Layer**
+* **VOC-to-A+ Matrix + Keyword Mapping Table**
+* **Post-launch monitoring plan**
+
+---
+
+## **V. A+ / PREMIUM A+ STRUCTURE**
+
+| Module                  | Function                             | Content Focus                                                           | Canva Prompt                                                                                                                                                                     |
+| ----------------------- | ------------------------------------ | ----------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Hero**                | Establish trust & clarity            | “Prepaid Freedom. No Contracts.” Visual with SIM and device lineup.     | *“Generate a clean hero banner showing multiple devices (phone, smartwatch, GPS) with SpeedTalk SIM and tagline ‘Prepaid Freedom, No Contracts, Full Control’ in premium tone.”* |
+| **Compatibility**       | Reduce returns from device mismatch  | Show GSM-unlocked devices supported (iPhone, Android, GPS, smartwatch). | *“Create an infographic of compatible devices with logos and icons, showing what’s supported and what’s not.”*                                                                   |
+| **Plan Options**        | Convert visitors via clarity         | Show $5, $9, $22 tiers with clear data/minutes breakdown.               | *“Visualize three clean pricing cards ($5, $9, $22) with icons for talk, text, and data.”*                                                                                       |
+| **Activation Steps**    | Prevent VOC “didn’t work” complaints | Simple 3-step process, plus “Need help?” support CTA.                   | *“Illustrate a step-by-step (1-2-3) activation flow with icons and short phrases.”*                                                                                              |
+| **Coverage Map**        | Reinforce U.S.-only service          | Add “Check your area” QR and disclaimer (no Alaska).                    | *“Design a U.S. coverage map with labeled states and QR code for STKMap.”*                                                                                                       |
+| **Brand Story / Trust** | Reinforce reliability & legacy       | Highlight SpeedTalk’s mission and responsive support.                   | *“Create a clean brand story section with customer support image and tagline ‘U.S.-Based Support You Can Trust.’”*                                                               |
+| **FAQ Section**         | Deflect repeat questions             | Include answers to auto-renew, activation, APN, and compatibility.      | *“Generate a modern FAQ layout with icons per topic (activation, coverage, billing).”*                                                                                           |
+
+---
+
+## **VI. KEYWORD → CONTENT MAPPING**
+
+This connects SQP keywords directly to module copy and alt text to ensure SEO and conversion alignment.
+
+| A+ Module     | Target Keywords                                             | Alt Text Implementation                                            | Copy / Headline Integration                                             |
+| ------------- | ----------------------------------------------------------- | ------------------------------------------------------------------ | ----------------------------------------------------------------------- |
+| Hero          | prepaid cellphone card, no contract sim, unlimited data sim | “prepaid SIM card with no contract for unlocked phones”            | “Prepaid Freedom. No Contracts. U.S.-only Coverage.”                    |
+| Compatibility | sim card for samsung, smartwatch sim, gps tracker sim       | “SIM card for Samsung, Android, iPhone, GPS and kids smartwatches” | “Compatible with 4G/5G GSM devices — from smartwatches to smartphones.” |
+| Activation    | easy activation, online activation, activation steps        | “Activate SIM card online in 3 easy steps”                         | “Set up in minutes — Activate online with simple 3-step guide.”         |
+| Coverage Map  | t-mobile network coverage, us coverage, 4g lte coverage     | “SpeedTalk 4G LTE coverage map for U.S. (excludes Alaska)”         | “Reliable 4G/5G coverage across the U.S.”                               |
+| Brand Story   | speedtalk mobile sim, customer service, prepaid plan        | “SpeedTalk Mobile SIM prepaid plan with live support”              | “U.S.-Based Customer Support, Ready to Help.”                           |
+| FAQ           | apn settings, billing, cancel anytime, compatibility help   | “FAQ covering APN settings, billing, and compatibility”            | “Your Questions, Answered.”                                             |
+
+---
+
+## **VII. BACKEND KEYWORDS + ALT TEXT GUIDE**
+
+**Backend Keywords (Generic Layer):**
+
+```
+prepaid sim card, sim card kit, 3 in 1 sim, t-mobile sim, gsm unlocked sim, smartwatch sim, gps tracker sim, kids phone sim, data sim, no contract prepaid, mobile sim usa, 4g lte sim
 ```
 
-B0C6BMYG7J, B09L4JRTVZ, B09KW4SWZ8, B0BZ76SYLP, B0B8FF6M2J, B0CQ2M6Q96, B0D4T8G6Z5, B0C7KQXT47, B0C91B2MHT, B0CJ5FWB7R
-
-```
-**Patterns Found:**  
-- All lead with *“Unlimited”*, *“No Contract”*, and *“Nationwide”* claims.  
-- Most use “3-in-1 SIM” in first 60 characters of title.  
-- Visual emphasis: plan tiers + coverage map + “Works with iPhone/Android.”  
-- No one explains *activation transparency* well — this is our edge.
+**Alt Text Layering Rule:**
+Each image alt text must contain 1 high-intent keyword + 1 value descriptor (e.g., *“Prepaid SIM card for GPS devices with no contract”*).
 
 ---
 
-## 🧠 II. STRATEGY PILLARS
+## **VIII. POST-LAUNCH PERFORMANCE REVIEW**
 
-| Pillar | Description | Implementation |
-|--------|--------------|----------------|
-| **Clarity** | Explain activation, billing, and coverage in plain terms | Visual “How to Activate” + FAQ |
-| **Trust** | Highlight real support and control | “U.S.-Based Customer Support 7 Days a Week” |
-| **Value Perception** | Portray prepaid freedom as premium flexibility | “Prepaid Freedom. No Contracts. Full Control.” |
-| **Localization** | Serve only U.S. buyers | Coverage map focused on U.S. states only |
-| **Compliance** | Align with Amazon rules, avoid claims | Replace “Unlimited” with plan specifics, disclaim credit card usage |
+| Phase                       | KPI                              | Action                                                     | Output                       |
+| --------------------------- | -------------------------------- | ---------------------------------------------------------- | ---------------------------- |
+| **30-Day Snapshot**         | CTR, CVR, NCX Rate, Keyword Rank | Pull Helium10 + Brand Analytics                            | 1-page dashboard summary     |
+| **VOC Review (30-60 Days)** | Review returns and new feedback  | Identify whether activation or coverage complaints dropped | Annotated “VOC Delta Report” |
+| **Iteration Cycle**         | Based on metrics + VOC           | Revise A+ captions, alt text, and hero messaging           | Framework v1.x changelog     |
 
 ---
 
-## 🪶 III. OUTPUT STRUCTURE (DELIVERABLES)
+## **IX. EXECUTION WORKFLOW**
 
-Each listing rebuild produces 5 core deliverables:
-
-| Deliverable | Output Type | Description |
-|-------------|--------------|-------------|
-| 1. Title | 200 chars | Optimized, keyword-rich, compliant |
-| 2. Bullet Points | 5 bullets | VOC + feature/benefit balance |
-| 3. Description | HTML | Storytelling copy for product page |
-| 4. A+ / Premium A+ Wireframe | Canva-ready layout | Conversion-focused design |
-| 5. Backend + Alt Text CSV | Data layer | SEO + accessibility layer |
+1. **Data Foundation:** Gather SQP, VOC, competitor data (Helium10 + Brand Analytics).
+2. **Insight Synthesis:** Fill out VOC Matrix + Keyword Mapping.
+3. **Creative Build:** Use Canva + A+ Prompt Guide to generate visuals.
+4. **Submission:** Send to internal review (Avi + Xavi).
+5. **Post-Launch Monitoring:** 30/60-day review + feedback loop.
 
 ---
 
-## 🧱 IV. TEMPLATE SECTIONS
+## **X. REPLICATION NOTES**
 
-### 🟧 1. TITLE RECOMMENDATION
-```
-
-SpeedTalk Mobile Prepaid SIM Card | 500 Min Talk + 1GB Data | For Unlocked 4G/5G Phones, Smartwatches & GPS Devices | No Contract, Easy Activation
-
-````
-
-**Reasoning:**  
-Front-loads “Prepaid SIM Card” and high-intent plan specs (500 Min + 1GB). Clarifies use cases and benefits while remaining within Amazon’s readability standards.
+* Update VOC matrix every 60 days per ASIN.
+* Refresh SQP keywords weekly.
+* Store every iteration in GitHub `/Aplus-Frameworks/ASIN-vX.X.md`.
+* Use this as the **master framework for all listing relaunches.**
 
 ---
 
-### 🟧 2. BULLET POINTS
+# ✅ **Framework Summary**
 
-| # | Theme | Copy |
-|--|--------|------|
-| 1 | **Freedom & Control** | Enjoy total control with our prepaid plan—no contracts, no hidden fees, cancel anytime. |
-| 2 | **Compatibility & Coverage** | Works with unlocked 4G/5G GSM phones, iPhones, Androids, GPS trackers, and kids’ smartwatches. |
-| 3 | **Simple Activation** | Activate online in minutes with our 3-in-1 SIM kit. Valid credit card required, manage refills anytime. |
-| 4 | **Reliable Nationwide Service** | Experience 4G LTE coverage across the U.S. (excludes Alaska). Check coverage at STKMap. |
-| 5 | **U.S. Support You Can Trust** | Get live assistance 7 days a week—SpeedTalk’s U.S.-based team is here to help you stay connected. |
+> “From data → to design → to delivery → to performance.”
+> This framework unifies keyword intelligence, VOC insights, and brand storytelling into one repeatable, scalable process for all SpeedTalk and SecuLife listings.
 
 ---
-
-### 🟧 3. PRODUCT DESCRIPTION (HTML)
-
-```html
-<p><strong>Prepaid Freedom. No Contracts. Full Control.</strong><br>
-SpeedTalk Mobile lets you connect your phone or device with a reliable 4G/5G LTE prepaid plan. No contracts, no surprise fees—just affordable, flexible service you can manage your way.</p>
-
-<p><strong>Easy Activation.</strong> Insert your 3-in-1 SIM (Standard/Micro/Nano) and follow the simple online steps to activate. A valid credit card is needed for setup, but you’re always in control—enable, disable, or cancel auto-refills anytime.</p>
-
-<p><strong>Nationwide Coverage You Can Count On.</strong> Enjoy dependable coverage throughout the U.S., including Hawaii, Puerto Rico, and the U.S. Virgin Islands.</p>
-
-<p><strong>Reliable Support.</strong> Our U.S.-based customer service team is available 7 days a week to assist with activation or troubleshooting—because staying connected should be simple.</p>
-````
-
----
-
-### 🟧 4. A+ / PREMIUM A+ OUTLINE
-
-| Module | Title                | Key Message                                                 | Visual Cue                             |
-| ------ | -------------------- | ----------------------------------------------------------- | -------------------------------------- |
-| 1      | **Hero**             | “Prepaid Freedom. No Contracts.”                            | Orange gradient hero with phone mockup |
-| 2      | **Compatibility**    | Works with Unlocked 4G/5G Phones, Smartwatches, GPS Devices | Icons + Device Images                  |
-| 3      | **Flexible Plans**   | Choose from $9 / $22 / $30 tiers                            | Tier cards with benefits               |
-| 4      | **Activation Steps** | “3 Simple Steps to Activate”                                | 1-2-3 diagram                          |
-| 5      | **Coverage Map**     | “Nationwide 4G LTE Network”                                 | U.S. map graphic                       |
-| 6      | **Brand Story**      | Why SpeedTalk Mobile                                        | Human + trust photo                    |
-| 7      | **FAQ Module**       | VOC-based questions                                         | Accordion style                        |
-
----
-
-### 🟧 5. BACKEND KEYWORDS & ALT TEXT GUIDE
-
-| Field            | Example Entry                                                                                                            |
-| ---------------- | ------------------------------------------------------------------------------------------------------------------------ |
-| backend_keywords | prepaid sim, speedtalk sim, gsm sim, 4g sim card usa, no contract sim, smartwatch sim card, gps sim card, kids phone sim |
-| alt_text_image1  | SpeedTalk Mobile prepaid SIM card with 500 minutes talk and 1GB data plan                                                |
-| alt_text_image2  | Prepaid 3-in-1 SIM kit for unlocked 4G/5G GSM phones                                                                     |
-| alt_text_image3  | Nationwide LTE coverage map SpeedTalk Mobile USA                                                                         |
-| alt_text_image4  | Easy online activation steps with 3-in-1 SIM card                                                                        |
-| alt_text_image5  | U.S.-based customer support representative smiling                                                                       |
-
----
-
-## 🧭 V. EXECUTION WORKFLOW
-
-1. **Data Sync:** Pull VOC + SQP weekly
-2. **Framework Application:** Plug into this template
-3. **Wireframe Build:** Use Canva template (A+ Framework v1.0)
-4. **Internal Review:** Avi & Xavi signoff
-5. **Submission:** Upload via Brand Registry
-6. **Monitor:** CTR, CR, and VOC health metrics
-
----
-
-## 🎨 VI. CANVA AI PROMPT (FOR DESIGNER MODULE MOCKUPS)
-
-| Module           | Canva Prompt                                                                                                                                      |
-| ---------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Hero             | “Create a modern orange gradient banner featuring smartphones and the text ‘Prepaid Freedom. No Contracts.’ Add clean typography and light glow.” |
-| Compatibility    | “Visual grid showing phone, smartwatch, and GPS tracker icons with blue connectivity lines. Add text: ‘Works with Unlocked 4G/5G Devices.’”       |
-| Plans            | “Three pricing cards ($9 / $22 / $30) with data icons. Highlight flexibility and savings.”                                                        |
-| Activation Steps | “3-step infographic showing SIM insertion → online activation → connected phone. Use SpeedTalk orange and white style.”                           |
-| Coverage         | “Map of the U.S. with highlighted LTE coverage areas. Tagline: ‘Nationwide Coverage You Can Count On.’”                                           |
-| Brand Story      | “Smiling U.S. support representative on orange-white gradient background. Text overlay: ‘We Keep You Connected.’”                                 |
-| FAQ              | “Accordion-style layout with Q&A icons. Title: ‘Your Questions, Answered.’”                                                                       |
-
----
-
-## 🧩 VII. NOTES FOR REPLICATION
-
-* Replace all product data per ASIN.
-* Update VOC + SQP snapshots each quarter.
-* Keep tone U.S.-centric and compliance-safe.
-* Use markdown version for GitHub; copy wireframe output for Canva.
-
----
-
-✅ **End of Framework**
-*Built collaboratively by WesAI & John Wesley Quintero — the Generalist Codex way.*
