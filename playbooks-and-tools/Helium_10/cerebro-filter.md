@@ -37,3 +37,9 @@ This document outlines an improved filter rule for Helium 10, designed for effic
 
 
 This refined filter rule will help you efficiently identify promising products with less competition, ultimately improving your product research and selection process. Remember to continuously refine your strategy based on the data you collect.
+
+
+ **Helium 10 Credentials**
+
+**User:** javier.garcia@speedtalkmobile.com
+**Pw:**
