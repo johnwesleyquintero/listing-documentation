@@ -42,4 +42,4 @@ This refined filter rule will help you efficiently identify promising products w
  **Helium 10 Credentials**
 
 * **User:** `javier.garcia@speedtalkmobile.com`
-* **Pw:**
+* **Pw:** `323423@H10156`
