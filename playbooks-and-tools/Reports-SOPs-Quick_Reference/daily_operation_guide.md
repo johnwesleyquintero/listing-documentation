@@ -1,5 +1,9 @@
 # Daily Operations Guide: Standard Operating Procedure (SOP)
 
+```
+Please run "npm run check" and fix any errors.
+```
+
 This document outlines the daily operational procedures for the VAXPH team, ensuring consistent and efficient execution of routine tasks. It includes guidelines for communication, reporting, and system access.
 
 ## 1. Slack Log Schedule
@@ -226,6 +230,7 @@ https://advertising.amazon.com/campaign-manager?
 ```
 https://sellercentral.amazon.com/myinventory/unfulfillable/index.html?ref_=unfulfillable_legacy_link
 ```
+
 
 
 
