@@ -1,5 +1,9 @@
 # Daily Operations Guide: Standard Operating Procedure (SOP)
 
+```
+Please run "npm run check" and fix any errors.
+```
+
 This document outlines the daily operational procedures for the VAXPH team, ensuring consistent and efficient execution of routine tasks. It includes guidelines for communication, reporting, and system access.
 
 ## 1. Slack Log Schedule
@@ -101,79 +105,22 @@ Use the following templates for daily and weekly WhatsApp communications to ensu
 
 **Inventory Report (Daily)**
 ```
-Hi @
-
-I have sent the Inventory and Sales Report via email. Will proceed to Daily KPI.
-```
-
-**Daily KPI (Daily)**
-```
-Hi @
-
-I've attached the Daily KPI Report for Seculife and STK and sent it via email. Will proceed to morning checks.
-```
-
-**Daily Checks (Daily)**
-```
-Hi @
-
-I've attached the Daily Checks: Morning Report. Will proceed to pending slack tasks/new projects.
-```
-
-**Returns Report (Tuesday)**
-```
-Hi @ I just sent you an email with the Yesterday and Last 30 Days Returns Report for SecuLife Inc and Speedtalk.
-```
-
-**Weekly Recalled/Removal Order (Wednesday)**
-```
-Hi @ @
-
-I have completed the weekly recalled/removal order for SecuLife and STK.
-```
-
-### 3.2. Email Templates
-
-Use the following email templates for sending various reports. Ensure all relevant information is included before sending.
-
-**Inventory and Sales Report**
-```
 Hi Avi,
 
-I've attached the Inventory and Sales Report for Seculife and Speedtalk.
+I've attached the Amazon Inventory and Sales Report for: 
 
-Best regards,
-Wesley Quintero
+Summary:
+
+List of ASINs with Inventory under 60 Days and their days of supply left:
 ```
 
-**Returns Report (Every Tuesday)**
+**Pre-checking**
 ```
-Hi Avi,
+Hi bro, here is the file for: 
 
-I've attached the Returns Report for Seculife and Speedtalk.
+Please let me know if I can proceed to send this to Avi. Thanks.
 
-Best regards,
-Wesley Quintero
-```
-
-**Daily KPI Report**
-```
-Hi Avi,
-
-I've attached the Daily KPI Report for Seculife and Speedtalk.
-
-Best regards,
-Wesley Quintero
-```
-
-**Removal Report (Every Wednesday)**
-```
-Hi Avi,
-
-I've attached the Removal Report for Seculife and Speedtalk.
-
-Best regards,
-Wesley Quintero
+Link: 
 ```
 
 ---
@@ -251,5 +198,46 @@ All emails sent to the addresses listed above will be automatically forwarded to
 - **Main Inbox:** `john.wesley.quintero@seculife.us`
 
 This setup ensures that correspondence for Jolt Mobile and Speedtalk Mobile is consolidated within the SecuLife email environment.
+
+
+---
+
+### 7. URL Report Endpoints
+
+
+```
+https://sellercentral.amazon.com/reportcentral/MANAGE_INVENTORY_HEALTH/1
+```
+```
+
+https://sellercentral.amazon.com/reportcentral/FBA_MYI_UNSUPPRESSED_INVENTORY/1
+```
+```
+
+https://sellercentral.amazon.com/reportcentral/REMOVAL_ORDER_DETAIL/1
+```
+```
+
+https://sellercentral.amazon.com/business-reports/ref=xx_sitemetric_dnav_xx#/report?
+```
+```
+
+https://sellercentral.amazon.com/gp/ssof/shipping-queue.html/ref=xx_fbashipq_dnav_xx#fbashipment
+```
+```
+https://advertising.amazon.com/campaign-manager?
+```
+```
+https://sellercentral.amazon.com/myinventory/unfulfillable/index.html?ref_=unfulfillable_legacy_link
+```
+
+
+
+
+
+
+
+
+
 
 
