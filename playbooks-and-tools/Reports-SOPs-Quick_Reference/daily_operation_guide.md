@@ -232,7 +232,13 @@ https://sellercentral.amazon.com/myinventory/unfulfillable/index.html?ref_=unful
 ```
 
 
+### Random Links
 
+*WesBI:*
+- https://wes-bi.vercel.app/
+
+*Price Tracker:*
+- https://mobilenetus-my.sharepoint.com/:x:/g/personal/javier_garcia_speedtalkmobile_com/EZY5dKS1YTBNqk-6l2xReU4BeiFPah1mFRSU-_VPenU46A?e=NqBVPT
 
 
 
