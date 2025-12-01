@@ -1,7 +1,7 @@
 # SOP – Processing FBA Shipments for Smartwatches & Devices (SecuLife, STK, Emoji Kids)
 
 **Objective:**
-Ensure accurate recording, labeling, and submission of all device shipments to Amazon FBA, following proper sequencing, internal tracking, and compliance standards.
+Please make sure that all device shipments to Amazon FBA are accurately recorded, labeled, and submitted.
 
 ---
 
