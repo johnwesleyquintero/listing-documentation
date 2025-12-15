@@ -169,5 +169,9 @@ TIME OUT: 5:30 PM PST | VAX PH | Working on Store | EOD:
 
 10. **brand-customer-reviews**
 - `https://sellercentral.amazon.com/brand-customer-reviews/ref=xx_crvws_dnav_xx?includeDone=true&pageSize=50&stars=1`
+
+11. **Walmart Inv**
+- `https://seller.walmart.com/wfs/inventory`
 --- 
+
 
