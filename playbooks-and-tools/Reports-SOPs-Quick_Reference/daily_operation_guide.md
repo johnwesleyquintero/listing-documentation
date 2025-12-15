@@ -95,36 +95,6 @@ This table provides a quick reference for converting between Philippine Time (PH
 
 ---
 
-## 3. Communication Routine
-
-This section details the routine communication protocols, including templates for daily and weekly updates via WhatsApp and email.
-
-### 3.1. WhatsApp Templates
-
-Use the following templates for daily and weekly WhatsApp communications to ensure consistency and clarity.
-
-**Inventory Report (Daily)**
-```
-Hi Avi,
-
-I've attached the Amazon Inventory and Sales Report for: 
-
-Summary:
-
-List of ASINs with Inventory under 60 Days and their days of supply left:
-```
-
-**Pre-checking**
-```
-Hi bro, here is the file for: 
-
-Please let me know if I can proceed to send this to Avi. Thanks.
-
-Link: 
-```
-
----
-
 ## 4. Email Distribution Lists for Reports
 
 When sending the daily, monthly, or KPI reports, ensure the appropriate distribution lists are CC'd as specified below.
@@ -239,6 +209,7 @@ https://sellercentral.amazon.com/myinventory/unfulfillable/index.html?ref_=unful
 
 *Price Tracker:*
 - https://mobilenetus-my.sharepoint.com/:x:/g/personal/javier_garcia_speedtalkmobile_com/EZY5dKS1YTBNqk-6l2xReU4BeiFPah1mFRSU-_VPenU46A?e=NqBVPT
+
 
 
 
