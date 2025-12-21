@@ -210,6 +210,76 @@ TIME OUT: 5:30 PM PST | VAX PH | Working on Store | EOD:
 🚚 Seller-fulfilled unshipped orders: *[#]* – action taken.
 ```
 
+---
+
+### Task Completion Email Template
+
+```
+# Task Completion Email Template
+
+## 📧 **Task Completion Email Template (v1.0)**
+
+**Purpose:** Standardize team reporting for completed operational tasks to ensure clarity, traceability, and accountability.
+
+---
+
+### **Subject Line Format:**
+
+
+Platform – Brand – Product
+
+
+**Example:**
+
+
+Amazon – SecuLife – Fall Alert Device (S16SB)
+
+
+---
+
+### **Email Body Template:**
+
+**To:** Avi
+**CC:** Shelley
+
+---
+
+**Hello Avi,**
+
+Please see the completed task details below:
+
+**Platform:** [e.g., Amazon Seller Central]
+
+**Brand:** [e.g., SecuLife]
+
+**Product / SKU:** [e.g., Fall Alert Device – FBA-SL-S16SB]
+
+**Action Taken:** [e.g., Updated shipment quantity recommendation and synced backend inventory data]
+
+**Screenshot Evidence:** [Attach screenshot or link to shared drive folder]
+
+---
+
+**Notes (optional):**
+
+* [e.g., Change reflected on backend but awaiting front-end update]
+* [e.g., SKU currently in “New” status; monitoring 24-hr sync delay]
+
+Best regards,
+**[Your Name]**
+SecuLife | SpeedTalk Mobile Operations
+
+---
+
+### **Quick Team Reminders:**
+
+- ✅ Always include the screenshot.
+- ✅ Follow the exact subject line format.
+- ✅ Keep “Action Taken” one concise sentence (platform-safe).
+- ✅ For batch work, you can summarize multiple SKUs in one email *only if* they’re the same brand and platform.
+
+---
+```
 
 
 
