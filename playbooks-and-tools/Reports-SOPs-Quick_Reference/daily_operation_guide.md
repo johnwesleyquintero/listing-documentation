@@ -175,7 +175,7 @@ TIME OUT: 5:30 PM PST | VAX PH | Working on Store | EOD:
 
 --- 
 
-## ✅ Amazon – Ultra-Short Daily (Default)
+### ✅ Amazon – Ultra-Short Daily (Default)
 ```
 🟦 *Amazon Account Health – [Brand Name]*
 📅 *[MM/DD/YYYY] (AM / PM)*
@@ -209,6 +209,7 @@ TIME OUT: 5:30 PM PST | VAX PH | Working on Store | EOD:
 📅 *[MM/DD/YYYY] (AM / PM)*
 🚚 Seller-fulfilled unshipped orders: *[#]* – action taken.
 ```
+
 
 
 
