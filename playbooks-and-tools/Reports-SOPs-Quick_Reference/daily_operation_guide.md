@@ -281,6 +281,26 @@ SecuLife | SpeedTalk Mobile Operations
 ---
 ```
 
+---
 
+---
+
+### WHATSAPP TASK REPORT TEMPLATE
+
+```txt
+*Task:*
+* Text Description Here
+
+*Action Taken:*
+* Action 1
+* Action 2
+
+*ASIN/s:*
+* https://www.amazon.com/dp/B0XXXXXXXX
+
+*Status:*
+* Text Here
+```
+---
 
 
