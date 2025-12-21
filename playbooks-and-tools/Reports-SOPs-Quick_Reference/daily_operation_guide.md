@@ -175,39 +175,18 @@ TIME OUT: 5:30 PM PST | VAX PH | Working on Store | EOD:
 
 --- 
 
-### ✅ Walmart – Ultra-Short Daily (Default)
-```
-🟦 **Walmart Account Health – [Brand Name]**
-📅 **[MM/DD/YYYY] (AM / PM)**
-✅ All good – no violations, no seller-fulfilled unshipped orders, no negative reviews.
-```
----
-
-### ⚠️ Only if there’s an issue (otherwise don’t send)
-```
-🟦 **Walmart Account Health – [Brand Name]**
-📅 **[MM/DD/YYYY] (AM / PM)**
-🚚 Seller-fulfilled unshipped orders: **[#]** – action taken.
-```
-
----
-
-Say less, brother. Here’s the **Amazon version**, built **exactly parallel to Walmart** so leadership reads it the same way every day. This is **Avi-safe, WhatsApp-native, zero-noise**.
-
----
-
 ## ✅ Amazon – Ultra-Short Daily (Default)
 ```
-🟦 **Amazon Account Health – [Brand Name]**
-📅 **[MM/DD/YYYY] (AM / PM)**
+🟦 *Amazon Account Health – [Brand Name]*
+📅 *[MM/DD/YYYY] (AM / PM)*
 ✅ All good – Buy Box held, no policy violations, no open customer inquiries, no new negative reviews.
 ```
 ---
 
-## ⚠️ Amazon – Issue Version (Use ONLY if needed)
+### ⚠️ Amazon – Issue Version (Use ONLY if needed)
 ```
-🟦 **Amazon Account Health – [Brand Name]**
-📅 **[MM/DD/YYYY] (AM / PM)**
+🟦 *Amazon Account Health – [Brand Name]*
+📅 *[MM/DD/YYYY] (AM / PM)*
 ⚠️ Issue detected:
 • Buy Box: Lost / At Risk
 • Policy violation: [Yes/No – short note]
@@ -216,9 +195,21 @@ Say less, brother. Here’s the **Amazon version**, built **exactly parallel to 
 ```
 ---
 
-## 🔒 Internal Rule (Do NOT paste)
+### ✅ Walmart – Ultra-Short Daily (Default)
+```
+🟦 *Walmart Account Health – [Brand Name]*
+📅 *[MM/DD/YYYY] (AM / PM)*
+✅ All good – no violations, no seller-fulfilled unshipped orders, no negative reviews.
+```
+---
 
-* Default = **3 lines only**
-* Details appear **only when something breaks**
-* No explanations unless action is required
+### ⚠️ Walmart – Issue Version (Use ONLY if needed)
+```
+🟦 *Walmart Account Health – [Brand Name]*
+📅 *[MM/DD/YYYY] (AM / PM)*
+🚚 Seller-fulfilled unshipped orders: *[#]* – action taken.
+```
+
+
+
 
