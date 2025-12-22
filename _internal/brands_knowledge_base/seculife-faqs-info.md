@@ -1174,4 +1174,4 @@ The SecuLife Team
 
 ## Helpful Notes from Avi
 
-- Please do not change any more pricing on any and all sexual life items. Let's keep all the prices as is.
+- Helpful Note: SecuLife can replace a device in cases of theft or loss if the user has an active subscription for a minimum period of 12 months. Equipment and Service Plan re funds are only available within 15 days from the date of activation. To request a re fund, customers must submit photos of the device through their account to verify its condition. Devices must be returned in their original condition with all accessories, and a re fund will only be issued once SecuLife has verified the re turned device. If re turned request is not sent in 15 day period, will be classified as buyer’s remorse and will no longer qualify for a re fund. Additionally, a $175 cancellation fee or device damage fee will apply. SecuLife services are currently available only within the United States.
