@@ -301,8 +301,6 @@ Hardware layout:
 * Sergio & Christian:
 
   * Send model comparison doc by tomorrow
-* Javier, Gonzalo, Ran:
-
   * Submit memo of understanding to Avi (1–2 hrs post-meeting)
   * Run **all** listing content by Avi before posting
   * Never mention games
