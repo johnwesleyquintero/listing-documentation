@@ -308,3 +308,39 @@ Hardware layout:
   * Research competitors selling 5k–10k units/month
 
 ---
+
+**Product Overview & Branding**
+*   **Brands:** SecuLife (Elderly/Kids) and EmojiKidz (Kids).
+*   **Core Model (M&M):** Shared by both brands; the only difference is the branding/logo.
+*   **Other Models:** Twix and Model R share similar components but vary by feature set and battery.
+*   **Positioning:** Market devices as safety-focused cell phone replacements and monitoring tools for ages 3–12. Avoid the "toy" category to justify subscription models and emphasize security.
+
+**Technical Specifications**
+*   **Connectivity:** Pre-installed proprietary SIM; works exclusively with the company’s mobile service and the Monitor GPS app.
+*   **Region:** Limited to US use only; international shipping is blocked on Amazon.
+*   **Hardware:** Features a cellular chip, internal antenna, magnetic charging, and replaceable wristbands.
+*   **Battery:** 800mAh capacity (do not list mAh in marketing). Battery life is approximately 10 hours with 10-minute tracking intervals.
+*   **Durability:** IP67 splash resistance; not suitable for swimming or immersion.
+
+**Key Features**
+*   **Emergency (SOS):** Holding the power button for 3+ seconds triggers an SOS alert to up to three contacts.
+*   **Communication:** Supports in-app chat and video calls. Standard SMS is disabled to block strangers.
+*   **Parental Controls:** Includes remote eavesdropping (one-way audio), "Classroom Mode" (disables features except SOS/clock), and remote app deactivation.
+*   **Safety Tracking:** GPS accuracy within 50 feet. Supports up to three geofences (Safezones) with automated alerts.
+*   **Tracking Intervals:** Recommended 1-hour interval for power saving; 10-minute interval for normal use. Manual refresh is available.
+
+**Monitor GPS App Functionality**
+*   **Device Management:** Controls all watch settings including phonebook (up to 10 contacts), SOS setup, and scheduled power on/off.
+*   **Alert Center:** Logs SOS events, geofence entries/exits, and low battery alerts.
+*   **Auto-Answer:** If a child fails to pick up a call, the device can be set to auto-answer for safety monitoring.
+*   **Binding:** Devices are linked via a QR code found on the device, the box, or within the watch settings.
+
+**Marketing & Listing Guidelines**
+*   **Content Restrictions:** Do not mention games, pedometers, or country of origin in listings. Focus on security, parental peace of mind, and social media avoidance.
+*   **Approval Process:** All listing updates must be approved by Avi prior to posting.
+*   **Competition:** Benchmarking focuses on Bark and J-Track.
+
+**Internal Procedures & Support**
+*   **Customer Service:** Marketing/E-com teams must redirect all complaints to the web-based support department.
+*   **Warranty:** Customers receive one free replacement per year and one free annual device upgrade with an active subscription.
+*   **Next Steps:** Team members must submit a Memo of Understanding to Avi within two hours of the meeting. Sergio/Christian to provide a model comparison document.****
