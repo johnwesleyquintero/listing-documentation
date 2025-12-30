@@ -99,7 +99,7 @@
   * Features enabled
 * Example:
 
-  * 10-minute tracking interval ≈ **8–10 hours**
+  * No Games + 10-minute tracking interval ≈ **8–10 hours**
 * Games are discouraged because:
 
   * Drain battery quickly
