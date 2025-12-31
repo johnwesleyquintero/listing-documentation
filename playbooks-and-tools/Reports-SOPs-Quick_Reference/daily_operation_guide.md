@@ -192,6 +192,7 @@ emkwalmart@emojikidz.com
 11. **Walmart Report**
 - `https://seller.walmart.com/wfs/inventory`
 - `https://seller.walmart.com/analytics/overview/item-sales`
+- `https://mobilenetus-my.sharepoint.com/my?id=%2Fpersonal%2Fjohn%5Fwesley%5Fquintero%5Fseculife%5Fus%2FDocuments%2FWalmart%20Workaround`
 
 --- 
 
@@ -322,6 +323,7 @@ SecuLife | SpeedTalk Mobile Operations
 * Text Here
 ```
 ---
+
 
 
 
