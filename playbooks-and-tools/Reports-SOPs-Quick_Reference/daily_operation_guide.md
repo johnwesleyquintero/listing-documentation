@@ -113,6 +113,12 @@ TIME OUT: 5:30 PM PST | VAX PH | Working on Store | EOD:
 - `john.wesley.quintero@seculife.us`
 - `Dj";\==9Y7-w,~.`
 
+*Walmart*
+- `john.wesley.quintero@seculife.us`
+- `john.wesley.quintero@joltmobile.com`
+- `john.wesley.quintero@speedtalkmobile.com`
+- `Dj";\==9Y7-w,~.`
+
 *Ben Credential*
 - `benedict.mendoza@speedtalkmobile.com`
 - `Doidoi0815!!`
@@ -302,5 +308,6 @@ SecuLife | SpeedTalk Mobile Operations
 * Text Here
 ```
 ---
+
 
 
