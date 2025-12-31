@@ -118,6 +118,8 @@ TIME OUT: 5:30 PM PST | VAX PH | Working on Store | EOD:
 - `john.wesley.quintero@joltmobile.com`
 - `john.wesley.quintero@speedtalkmobile.com`
 - `Dj";\==9Y7-w,~.`
+- **EMK:** `javier.garcia@emojikidz.com`
+- `71324912EK@a`
 
 *Ben Credential*
 - `benedict.mendoza@speedtalkmobile.com`
@@ -308,6 +310,7 @@ SecuLife | SpeedTalk Mobile Operations
 * Text Here
 ```
 ---
+
 
 
 
