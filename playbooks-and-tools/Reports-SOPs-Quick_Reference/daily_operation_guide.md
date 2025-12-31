@@ -189,8 +189,9 @@ emkwalmart@emojikidz.com
 10. **brand-customer-reviews**
 - `https://sellercentral.amazon.com/brand-customer-reviews/ref=xx_crvws_dnav_xx?includeDone=true&pageSize=50&stars=1`
 
-11. **Walmart Inv**
+11. **Walmart Report**
 - `https://seller.walmart.com/wfs/inventory`
+- `https://seller.walmart.com/analytics/overview/item-sales`
 
 --- 
 
@@ -321,6 +322,7 @@ SecuLife | SpeedTalk Mobile Operations
 * Text Here
 ```
 ---
+
 
 
 
