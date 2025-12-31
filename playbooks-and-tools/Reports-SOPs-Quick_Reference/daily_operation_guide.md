@@ -124,6 +124,17 @@ TIME OUT: 5:30 PM PST | VAX PH | Working on Store | EOD:
 *Ben Credential*
 - `benedict.mendoza@speedtalkmobile.com`
 - `Doidoi0815!!`
+
+---
+
+```
+I added these users to walmart stores...so u can have access to all of our 4 stores (if you dont already have one)
+
+stkwalmart@speedtalkmobile.com
+seculifewalmart@seculife.us
+joltwalmart@joltmobile.com
+emkwalmart@emojikidz.com
+```
 ---
 
 ## ZIP Code
@@ -310,6 +321,7 @@ SecuLife | SpeedTalk Mobile Operations
 * Text Here
 ```
 ---
+
 
 
 
